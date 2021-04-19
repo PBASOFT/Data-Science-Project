@@ -15,7 +15,7 @@ This is an extra ordinary example, but it makes us wonder if smaller scaled hype
 ### Focus of interest
 We wan't to focus on scandinavian **small cap** stocks and **hype on social media**.
 
-Small cap stocks are known to be volatile but also to have great growth potential. They are considered "High risk/High reward", which we think is a good match to the kind of investors we will meet on social media platforms.
+Small cap stocks are known to be volatile but also to have great growth potential. They are considered "High risk/High reward", which we think is a good match to the kind of investors we will meet on social media platforms. We stick to scandinavian small cap stocks both to narrow the field for this project, and because that we know first hand that the culture we're looking for exists here.
 
 > "A small cap is generally a company with a market capitalization of between $300 million and $2 billion. The advantage of investing in small cap stocks is the opportunity to beat institutional investors through growth opportunities."
 >
