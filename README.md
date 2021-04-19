@@ -27,6 +27,7 @@ Small cap stocks are known to be volatile but also to have great growth potentia
 > -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
 
 
+
 It is interesting to investigate the correlation between hype and stock prices, not only because it might reveal a whole new dimension to stock trading evolving around social media, and posibly the overall availability of knowledge sharing made possible by the www and maybe even more by social media entering the scene. But also because that revealing a correlation also opens up for the possibility of predicting stock priceses and with that: endless wealth!
 
 ### Hyphothesis
