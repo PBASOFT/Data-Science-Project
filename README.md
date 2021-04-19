@@ -1,6 +1,7 @@
 https://github.com/datsoftlyngby/soft2021spring-ds/blob/main/BigProject.pdf
 
 *CPH Business Spring 2021*
+
 *Sebastian Harvej, Malene Hansen*
 
 # Big Hype, Small Cap
