@@ -22,6 +22,18 @@ Small cap stocks are known to be volatile but also to have great growth potentia
 > -- <cite>[source](https://www.investopedia.com/terms/s/small-cap.asp)</cite>
 
 
-> "hype: to advertise or praise something a lot in newspapers, on television, online, etc. in order to make people excited about it and want to buy or try it"
+> "hype: to advertise or praise something a lot in newspapers, on television, online, etc. in order to make people excited about it and want to buy or try it."
 >
 > -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
+
+
+It is interesting to investigate the correlation between hype and stock prices, not only because it might reveal a whole new dimension to stock trading evolving around social media, and posibly the overall availability of knowledge sharing made possible by the www and maybe even more by social media entering the scene. But also because that revealing a correlation also opens up for the possibility of predicting stock priceses and with that: endless wealth!
+
+### Hyphothesis
+Small cap stock prices can be affected by hype on social media.
+
+### Expected outcome of research
+We expect to see some correlation between at least some stocks going up and how much they are mentioned in the groups, forums and-what-elses we investigate. 
+
+### Who will be the user of the results
+Knowledge is money. We our selves will be the users of the results and hopefully we'll discover something new and exiting. And we will then be on the path to becoming the richest persons on earth.
