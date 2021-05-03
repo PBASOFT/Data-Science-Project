@@ -40,3 +40,7 @@ We expect to see some correlation between at least some stocks going up and how 
 
 ### Who will be the user of the results
 Knowledge is money. We our selves will be the users of the results and hopefully we'll discover something new and exiting. And we will then be on the path to becoming the richest persons on earth.
+
+
+
+## Stage 2: Business Data Storytelling
