@@ -2,7 +2,7 @@
 
 *CPH Business Spring 2021*, *Sebastian Harvej* & *Malene Hansen*
 
-# Big Hype, Small Cap
+# Stocks: Hype vs Market
 
 ## Stage 1: Business Case Foundation
 
@@ -33,10 +33,15 @@ Small cap stocks are known to be volatile but also to have great growth potentia
 It is interesting to investigate the correlation between hype and stock prices, not only because it might reveal a whole new dimension to stock trading evolving around social media, and posibly the overall availability of knowledge sharing made possible by the www and maybe even more by social media entering the scene. But also because that revealing a correlation also opens up for the possibility of predicting stock priceses and with that: endless wealth!
 
 ### Hyphothesis
-Small cap stock prices can be affected by hype on social media.
+
+#### Null Hypotheses
+Stock prices can not be affected by hype on social media.
+
+#### Alternative Hypotheses
+It is possible to predict future stock prices by analysing stock hype on social media
 
 ### Expected outcome of research
-We expect to see some correlation between at least some stocks going up and how much they are mentioned in the groups, forums and-what-elses we investigate. 
+We expect to see some correlation between at least some stocks going up and how much they are mentioned/discussed on social media. 
 
 ### Who will be the user of the results
 Knowledge is money. We our selves will be the users of the results and hopefully we'll discover something new and exiting. And we will then be on the path to becoming the richest persons on earth.
@@ -44,3 +49,42 @@ Knowledge is money. We our selves will be the users of the results and hopefully
 
 
 ## Stage 2: Business Data Storytelling
+
+
+Based on the ideas and assumptions defined at the previous stage of your business case analysis, create the first prototype of your solution implementation.
+
+### Data Sources
+
+We are collecting post and comments from the following three subreddit forums:
+  - r/wallstreetbets (10.1 million users)
+  - r/Stocks (2.6 million users)
+  - r/Investing (1.8 million users)
+  - r/Robinhood (742.000 users)
+  
+  The subreddit "wallstreetbest" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
+  The subreddits "Stocks", "Investing" and "Robinhood" are considered more serious than wallstreet bets. They hold a great amount of users and are as interesting as their main purpuse is discussions and reccomendations about stock trading.
+  
+  
+  **Our four sample data sets can be found [here] (/DATA)**
+  
+
+
+3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
+
+a.    decide on data processing parameters and methods
+
+b.   choose data visualisation techniques
+
+c.    create visual representations
+
+d.   create dashboards
+
+e.    create a first prototype of data story
+
+2.    Export your solution in a file and upload it to your git repository.
+
+
+Understanding the data:
+
+WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
+
