@@ -50,9 +50,6 @@ Knowledge is money. We our selves will be the users of the results and hopefully
 
 ## Stage 2: Business Data Storytelling
 
-
-Based on the ideas and assumptions defined at the previous stage of your business case analysis, create the first prototype of your solution implementation.
-
 ### Data Sources
 
 We are collecting post and comments from the following three subreddit forums:
