@@ -65,7 +65,7 @@ We are collecting post and comments from the following three subreddit forums:
   The subreddits "Stocks", "Investing" and "Robinhood" are considered more serious than wallstreet bets. They hold a great amount of users and are as interesting as their main purpuse is discussions and reccomendations about stock trading.
   
   
-  **Our four sample data sets can be found [here] (/DATA)**
+ ##### Our four sample data sets can be found [here] (/DATA)
   
 
 
