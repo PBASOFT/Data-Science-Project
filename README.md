@@ -88,5 +88,7 @@ e.    create a first prototype of data story
 WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
 
 **Challenges:**
-- 'Only 100,000% away. Just need 10x the low point to the high point of GME squeeze to make it happen.': Is not about the GME stock. It is "GME" beeing used to describe some other.
-- 'GME 🚀🚀🚀 bought more this morning thanks kenny G': Is certainly about the GME stock.
+- "Only 100,000% away. Just need 10x the low point to the high point of GME squeeze to make it happen.#
+   - Is not about the GME stock. It is "GME" beeing used to describe some other.
+- "GME 🚀🚀🚀 bought more this morning thanks kenny G" 
+  - Is certainly about the GME stock.
