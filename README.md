@@ -50,9 +50,6 @@ Knowledge is money. We our selves will be the users of the results and hopefully
 
 ## Stage 2: Business Data Storytelling
 
-
-Based on the ideas and assumptions defined at the previous stage of your business case analysis, create the first prototype of your solution implementation.
-
 ### Data Sources
 
 We are collecting post and comments from the following three subreddit forums:
@@ -61,8 +58,8 @@ We are collecting post and comments from the following three subreddit forums:
   - r/Investing (1.8 million users)
   - r/Robinhood (742.000 users)
   
-  The subreddit "wallstreetbest" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
-  The subreddits "Stocks", "Investing" and "Robinhood" are considered more serious than wallstreet bets. They hold a great amount of users and are as interesting as their main purpuse is discussions and reccomendations about stock trading.
+  *The subreddit "wallstreetbets" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
+  The subreddits "Stocks", "Investing" and "Robinhood" are considered more serious than wallstreet bets. They hold a great amount of users and are as interesting as their main purpuse is discussions and reccomendations about stock trading.*
   
   
  #### Our four sample data sets can be found [here](/DATA)
