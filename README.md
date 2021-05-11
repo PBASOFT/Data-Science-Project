@@ -64,7 +64,7 @@ We are collecting post and comments from the following three subreddit forums:
   
  #### Our four sample data sets can be found [here](/DATA)
   
- #### The script for collecting the data can be found [here](/Reddit_mine.ipynb)
+ #### Our script for collecting the data can be found [here](/Reddit_mine.ipynb)
 
 
 3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
