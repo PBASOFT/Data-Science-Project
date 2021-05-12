@@ -92,3 +92,5 @@ WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
    - Is not about the GME stock. It is "GME" beeing used to describe some other.
 - *"GME 🚀🚀🚀 bought more this morning thanks kenny G"*
   - Is certainly about the GME stock.
+- *"... Comparing it to Apple is not really a like for like comparison. If you don't understand crypto, as an investor at this point-- that's on you."*
+  - Is not about Apple. Maybe it is valueable to look analyse the entities or context sorrounding the collected named entity.
