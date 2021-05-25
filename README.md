@@ -68,7 +68,11 @@ We are collecting post and comments from the following three subreddit forums:
 
 
 3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
-
+      ****
+      - bobles with orgs, visualizing most freg mentioned/most talked about orgs.
+      - taking the most talked about and hold them up againtst stock prices
+      ****
+      
 a.    decide on data processing parameters and methods
 
 b.   choose data visualisation techniques
