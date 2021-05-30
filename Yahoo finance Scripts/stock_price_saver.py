@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgresql://postgres:password@localhost:5432/test2', echo=False)
+engine = create_engine('postgresql://postgres:password@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
