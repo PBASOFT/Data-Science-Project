@@ -87,6 +87,12 @@ e.    create a first prototype of data story
 
 2.    Export your solution in a file and upload it to your git repository.
 
+
+#### Sentiment analyses
+- Determine if contributions are positive, neutral or negative. // Buy, hold or sell?
+
+
+
 #### Notes for further investigation
 
 **Understanding the data:**
@@ -102,3 +108,6 @@ WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
   - Is not about Apple. Maybe it is valueable to look analyse the entities or context sorrounding the collected named entity.
 - Sentences like "den skal under 180-200" must me understood at "don't by" recommendation/negative. And "den skal op på 300 før jeg sælger" must be interpreted as a positive comment.
   - especially hard to cats, as comments like that come without a contex. Or the context must be retrieved from parent posts or parent comments.
+
+**Future improvements:**
+- Maybe correlation gets better over time, when comparing several weeks or even months, to discover trends rather than each peak on the graph.
