@@ -87,6 +87,12 @@ e.    create a first prototype of data story
 
 2.    Export your solution in a file and upload it to your git repository.
 
+
+#### Sentiment analyses
+- Determine if contributions are positive, neutral or negative. // Buy, keep or sell?
+
+
+
 #### Notes for further investigation
 
 **Understanding the data:**
