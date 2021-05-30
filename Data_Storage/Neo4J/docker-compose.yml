@@ -71,3 +71,5 @@ services:
       NEO4J_causal__clustering_discovery__advertised__address: readreplica1:5000
       NEO4J_causal__clustering_transaction__advertised__address: readreplica1:6000
       NEO4J_causal__clustering_raft__advertised__address: readreplica1:7000
+
+
