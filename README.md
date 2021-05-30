@@ -89,7 +89,7 @@ e.    create a first prototype of data story
 
 
 #### Sentiment analyses
-- Determine if contributions are positive, neutral or negative. // Buy, keep or sell?
+- Determine if contributions are positive, neutral or negative. // Buy, hold or sell?
 
 
 
