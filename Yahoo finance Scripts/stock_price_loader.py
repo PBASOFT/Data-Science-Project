@@ -1,6 +1,6 @@
 from flask import Flask
 from sqlalchemy.orm import sessionmaker
-from sqlalchemy import create_engine, engine, Column, Integer, String, ForeignKey, Table,TIMESTAMP, func
+from sqlalchemy import create_engine, engine, Column, Integer, String, ForeignKey, Table,TIMESTAMP, func, Date
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker, relationships
 from types import MethodType
@@ -36,13 +36,10 @@ class Price_Records(Base):
     id = Column(Integer, primary_key=True)
     price = Column(Integer)
     stock_ticker = Column(String(10), ForeignKey('stocks.ticker'))
-    date_id = Column(Integer, ForeignKey('dates.id'))
-    child = relationship("Date")
+    date = Column(Date)
+    def __init__(self, stock_ticker):
+        self.stock_ticker = stock_ticker
 
-class Date(Base):
-    __tablename__ = 'dates'
-    id = Column(Integer, primary_key=True)
-    date = Column(TIMESTAMP)
 
 
 
@@ -52,7 +49,7 @@ ma = Marshmallow(app)
 
 class PriceSchema(ma.Schema):
     class Meta:
-        fields = (['stock_ticker','price', 'date'])
+        fields = (['ticker', 'price', 'date'])
 
 prices_schema = PriceSchema(many = True)
 
@@ -61,6 +58,7 @@ def index(ticker):
 
     all_prices = session.query(Price_Records.price, Date.date).join(Price_Records, Date.id == Price_Records.date_id).filter(Price_Records.stock_ticker == ticker)
     #all_prices  = session.query(func.public.get_stock("GME", 7)).all()
+    print(all_prices)
     result = prices_schema.dump(all_prices)
     return jsonify(result)
 

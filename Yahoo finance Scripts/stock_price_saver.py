@@ -2,7 +2,7 @@ from datetime import date, time
 import datetime
 import re
 from sqlalchemy.sql import exists
-from sqlalchemy import create_engine, engine, Column, Integer, String, ForeignKey, Table,TIMESTAMP
+from sqlalchemy import create_engine, engine, Column, Integer, String, ForeignKey, Table, Date, Float
 from sqlalchemy.log import echo_property
 from sqlalchemy.orm import relationship, sessionmaker, relationships
 from sqlalchemy.ext.declarative import declarative_base
@@ -40,16 +40,10 @@ class Stock(Base):
 class Price_Records(Base):
     __tablename__ = 'price_records'
     id = Column(Integer, primary_key=True)
-    price = Column(Integer)
+    price = Column(Float)
     stock_ticker = Column(String(10), ForeignKey('stocks.ticker'))
-    date_id = Column(Integer, ForeignKey('dates.id'))
-    child = relationship("Date")
-
-
-class Date(Base):
-    __tablename__ = 'dates'
-    id = Column(Integer, primary_key=True)
-    date = Column(TIMESTAMP)
+    date = Column(Date)
+    
 
 
 
@@ -81,21 +75,10 @@ def clean_data(stock_data, col):
 def save_data(stockprices, stock_name ,stock_ticker):
     stock = Stock(ticker=stock_ticker, name=stock_name)
     for i in range(0, len(stockprices)):
-        #if stockprices[i] > 0:
-        record = Price_Records(price=stockprices[i])
-        if session.query(exists().where(Date.date == stockprices.index[i])).scalar() == False:
-            date = Date(date=stockprices.index[i])
-            record.child = date
-        else:
-            record = Price_Records(price=stockprices[i],date_id = i+1)
+        record = Price_Records(price = stockprices[i], date=stockprices.index[i])
         stock.children.append(record)
-
-        session.add(stock)
-        session.commit()
-
-
-
-    
+    session.add(stock)
+    session.commit()
 
 for i in range(0, len(Stocks)):
 
