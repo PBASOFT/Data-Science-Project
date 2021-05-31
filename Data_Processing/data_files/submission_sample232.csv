@@ -1,0 +1,223 @@
+,created,subreddit,text,id,Organizations,Sentiment
+28,2021-05-20,stocks,"I've done a bit of digging into the numbers recently to find the safest covered calls you can sell to lower your risk of seeing shares taken away. I looked at weekly data from Yahoo Finance on each of the major index ETFs, and below you'll find the percentage of weeks that closed below a percentage (I.e: The odds that an index moves less than the percentage result). 
+
+SPY:
+
+|Weekly Change|0.19%|1.3%|1.63%|2.53%|3.59%|6.07%|11.54%|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|Weeks that had a lower Weekly Change|50%|75%|80%|90%|95%|99%|99.9%|
+
+QQQ:
+
+|Weekly Change|0.28%|1.86%|2.53%|3.61%|5.3%|10.12%|16.19%|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|Weeks that had a lower Weekly Change|50%|75%|80%|90%|95%|99%|99.9%|
+
+DIA
+
+|Weekly Change|0.17%|1.38%|1.64%|2.59%|3.59%|5.77%|12.61%|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|Weeks that had a lower Weekly Change|50%|75%|80%|90%|95%|99%|99.9%|
+
+VTI
+
+|Weekly Change|0.19%|1.31%|1.57%|2.59%|3.52%|6.4%|12.41%|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|Weeks that had a lower Weekly Change|50%|75%|80%|90%|95%|99%|99.9%|
+
+&#x200B;
+
+How to interpret these numbers:
+
+If you were to sell a covered call on SPY 6.07% above the weeks opening price, you should expect to see your shares taken away once every 100 weeks. Past performance is not indicative of future performance, but these numbers have been compiled from inception to now, and include about 1000-1500 weeks of data.",nh615i,[],0
+81,2021-05-20,stocks,Fuck I hope it pays off. I've always felt Ford could be a good company and I invested at around $10. In the near term I think the chippy chip shortage is a drag but I have a lot of hope that their push to innovate and partner with EV companies pays off and they see shares move closer to $20. Im not in it for a moon landing but I believe they can be a good long haul,nh6bxq,[],0
+94,2021-05-20,stocks,"I am a new investor and I'm trying to learn how to read charts. Now, on green days the order flow seems correct with more inflow than outflow. But even on big red days, the inflow is still higher than outflow, sometimes by a substantial amount yet the stock continues to fall. Wouldn't much more inflow indicate the stock price should be going up? Is there something I am not understanding about orderflow? Any help is appreciated.",nh6cna,[],0
+201,2021-05-20,stocks,"Last April I opened a taxable account as a ""Buy an old Jeep fund"" and scooped up several Mortgage REITS on the low with the intention of either collecting the div, or selling once they top out/exceed Book Value. I'm currently sitting on a 75% - 130% gain on all three of them and have been collecting a high dividend yield since. 
+
+As you can see on the table below, the book value has been stagnant for the last 3-ish quarters, and are priced very close to book value.  
+
+
+||NYMT||MFA||TWO||
+|:-|:-|:-|:-|:-|:-|:-|
+|Quarter|Book Value|% increase from previous Qtr|Book Value|% increase from previous Qtr|Book Value|% increase from previous Qtr|
+|Q2 20|$4.35|11.83%|$4.51|3.92%|$6.70|\-3.74%|
+|Q3 20|$4.58|5.29%|$4.61|2.22%|$7.37|10%|
+|Q4 20|$4.71|2.84%|$4.54|\-1.52%|$7.63|3.53%|
+|Q1 21|$4.71|0%|$4.63|1.98%|$7.29|\-4.46%|
+||||||||
+|Cost/Share |$2.57||$1.88||$4.47||
+|Current Price|$4.51|\+75%|$4.40|\+133.6%|$7.16|\+60%|
+| Price/BV|.957||.935||.986||
+
+&#x200B;
+
+While they haven't necessarily topped out, aside from collecting the high dividend yield, I don't see a clear or significant upside anymore. This is also considering Mortgage REITS historically tend to trade within 1-2% of book value. 
+
+My question - I've been holding these for over a year now, would it be worth paying the capital gains tax to sell and buy something with better growth prospects? 
+
+Or given my low cost basis, would I be better off continuing to hold and collect the 7-9% div?",nh758k,[],0
+241,2021-05-18,stocks,"All my cash is in tech because I was a noob investor. I’m trying to diversify into ETFs now, any suggestions with interest rates being low? I was thinking real estate (since rates are low) and commodity ETFs (because of loosened COVID restrictions and inflation)",nfmrax,[],0
+269,2021-05-20,stocks," 
+
+Looking at stocks to own for the long term I've put together a list of companies that
+
+""A"" I like
+
+""B"" I think have strong prospects to continue growing into the future.
+
+Are there any not on this list you would add... or any you think I'm off base with?
+
+* AAPL
+* AMZN
+* BA
+* BRK/B
+* CME
+* COIN
+* CVNA
+* DD
+* DIS
+* GOOGL
+* JNJ
+* JPM
+* MSFT
+* NFLX
+* PAWZ
+* PG
+* PYPL
+* SJM
+* SQ
+* SYK
+* TM
+* T.S.L.A (My original post got removed I'm assuming it's because this is considered a ""meme stock""
+* UPS
+* WM
+* XOM
+
+Thanks for looking!",nh7ld4,[],1
+474,2021-05-20,stocks,"Hey, guys! Thanks for taking time to read this. This is my first post here, but I know you are best equipped to handle this over the other subs I follow.
+
+I know my strengths, and I also know my weaknesses. It's my recognized weakness I need assistance with.
+
+Like many, I started in the markets last year. My 1099 for 2020 was a $22,000 loss in the biggest bull run in history. My 2021 is at $0 due to exiting positions at my CB out of fear of further losses. 
+
+I feel you need to understand more about me to offer more sound advice, so, in short: I'm in my late 30s. I spent most of my 20s in and out of homelessness. Sleeping in basements of relatives, friends couches, out of my Jeep Cherokee. I was a failure. The only thing good in my life, was the love of my life, who left me due to me being such a financial disaster. I tried. I really did. I just always failed.
+
+After she left, I fell into alcohol, prescription drugs, and depression. I eventually tried the only thing I hadn't tried - crime. I failed at that, too. I did 4 years in prison.
+
+Since I was released 4 years ago, I have tried to start over. Nobody will hire me now. It took me a solid year to find an employer willing to give me a chance. I work 12 hours a day, 7 days a week, and finally earn a 6 figure salary. The problem is it's killing me. I now have a 180 resting blood pressure and a 14 cortisol level. I'm dying. I can't sustain this forever. I'm trying to use this opportunity to get ahead while I can. Now I keep failing.
+
+My issue: I don't trust myself. I spend hours on DD, and will have a few stocks I like - companies I believe in. I'll wait for an entry, but when it comes, I'm scared to buy it. I hesitate. Then it rallies. Then I get anxiety because I missed it. I get depressed because I was right but failed to act. I can't chase it now because that's what led to my 2020 losses - chasing something only to buy in just before it consolidates. Then I'm depressed because I'm failing again. 
+
+It's like, when the price comes down, I'm scared to buy because it might go lower and I fail. If it goes higher, I don't buy it because I feel like a sucker for not buying it at the lower price yesterday. Then it rallies, and then I get depression anxiety over missing it. Sometimes just having my mouse over the buy button can cause a panic attack. 
+
+Normally I would say I just need to index, but I don't have 30 years to index. I may have another 2 years in me before this job kills me. I will never have another opportunity like this being a felon. I'm trying to seize opportunity and finally make a good enough gain, that I can then invest much more conservatively moving forward. 
+
+My 2 losses last year would have been my biggest gains had I held  - my DD was correct. Even my price targets were correct. I couldn't trust myself. I tried to learn from this. Now I was up $80,000 YTD on 3 positions, but now I have $0 because I rode them all the way down trying not to panic sell like last year. If I hold - I fail. If I sell - I fail. I'm obviously good at picking winners, but how do I get out of my own way? Every time I act, I was wrong. Every time I fail to act, I was right. How can I ever trust myself given my history? How can I learn to overcome this mental obstacle - this crippling doubt?
+
+I'm really trying to be a winner, but I'm really losing heart.",nh8jr8,[],0
+486,2021-05-20,stocks," 
+
+Asking for an Honest opinion on $SMIT, seems to move on very low volume and could be a good long term play with high gains if enough people jump in.
+
+Market Cap of only $18m, with a 52 week range of **2.63 - 8.38** sitting at 5.19 right now.
+
+Schmitt Industries, Inc. designs, manufactures and markets measurement and process control systems. It operates through the Measurement segments. The Measurement segment assembles laser based test and measurement solutions.",nh8ltg,[],1
+499,2021-05-20,stocks,"I've seen lots of discussion and recommendations regarding small and mid cap companies set to outperform the S&P and the big boys into the future.
+
+Is this actually the case? Looking at the past decade (I know this doesn't predict future performance per say) but the large caps have grown considerably. AAPL for example doubled from 1T to 2T market cap in just two years which is wild. I know their growth has slowed since then but with them constantly killing earnings and continuously diversifying (M chips etc. ) is there any reason for them to slow or be outperformed by smaller companies this decade? I know they're considered a little overvalued, but that's the nature of large cap growth stocks in general.
+
+Additionally, inflation tends to be less hard on large caps compared to smaller ones. Depending on how much inflation is coming over the next say 3-5 years, won't this also be another advantage for the largest cap companies?
+
+I have no idea, just curious what everyone thinks on this thesis.",nh8ow5,[],0
+513,2021-05-20,stocks,"I got in on APHA at just under $6. I witnessed it climb up to $30, climb back down, and then convert to the stagnant TLRY. What is the long term projection for TLRY? I’m still way up on my initial investment but at what point do I let go? This was supposed to be my banger.",nh8q13,[],0
+593,2021-05-20,stocks,"Seeing so many posts from people starting out who plan to hold ""long-term"" or 30+ years, and maybe I'll even believe a few of them won't sell on their first crash.
+
+Would much rather hear from those of you on the other side of 30+ years of investing, through high inflation, tech bubble, recession, the whole lot.
+
+1. How did it go?
+2. What returns did you achieve, or better yet portfolio volatility?
+3. Any mistakes you learned from?
+4. How did you handle big recent drops, since you're near or well into retirement?",nh92l2,[],0
+601,2021-05-20,stocks,"$HUIZ sales tripled from Q1 ‘20. Huiz is what $LMND Lemonade wanted to be & what $SLQT Selectquote wished it was. 
+
+Chinese online insurance broker. Chinese insurance market growing CAGR 15%+ vs 2-4% everyone else. 
+
+600 million people in China yet to be on the net. 600 million potential customers in the fastest growing economy & fastest growing middle class. 
+
+I started buying at 8-9.00$. People are too busy following ARK & shooting for the moon with this week’s crypto. Just under $6 now. 
+
+Time to unload some ISRG, HQY, & CELH & go ALL IN
+
+disclosure: I genuinely don’t care if you buy any or not. More for me.",nh940c,[],0
+611,2021-05-20,stocks,"As someone who is new to investing, I would like some help. I know personal research and assessment is very important and vital but just looking to get pointed in the right direction. I am looking for something dividend heavy as I have 1k to start with. I know I sound like a choosing beggar but I would really appreciate some help.",nh96gq,[],1
+720,2021-05-18,stocks,"Hello, I am kind of new to stocks and I have a basic question. 
+
+I bought 500 shares of  $FEYE at $20.50 ($10250). I have read on Reddit and other sites that when a stock goes up a certain % it is a good idea to sell  some of your shares to cover the initial investment cost and let the remaining shares ride because at that point its pure profit and you are playing with house money.
+
+A lot of sites have $FEYE at $27 in the next 12 months. So my question is at what point between $20.50 and $27 ( hopefully) should I sell some of my shares?
+
+Thanks in advance",nfoyuq,[],0
+721,2021-05-18,stocks,"Well.. I was gonna go me some programming today, but went on a rampage of trying to figure out where I can get an *OFFICIAL* list of the tickers for the S&P500 and it turns out the only place to do this is basically from [Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) and according to [this github repo](https://github.com/datasets/s-and-p-500-companies) S&P Global use to have the data up, but then opted to remove it from the general public..?
+
+&#x200B;
+
+Anyone know why this is the case? I kinda figured data like this would be readily available from such an index fund. All I want is a good source of truth (not that it REALLY matters for my purposes, but still annoying as hell). What gives?",nfq80k,[],0
+764,2021-05-20,stocks,"So my parents passed away when I was very young, and as a result a trust account was set up in my name for a portion of the social security money received monthly. They passed when I was 2/3, so it was quite a bit by the time I reached 18. Coupled with my great-grandparents (who were absolutely gems and raised me until 10/11) adding a bit from their estate, upon dispersement, there was a pretty penny.
+
+I’ve long been interested in investing, but I’m 24 and I haven’t had any real extra money since living on my own at 18. After this though, I’d like to put at least $1,000 into some kind of investment; after reading about the absolute SHITE that is interest on savings accounts—and I don’t want to blow all of it because I have little restraint/budgeting knowledge—I thought I could take a portion and try to make some actual money with it. I’m willing to put at most $5k…because if I lose that, it would SUCK but I would be okay.
+
+If you guys have any insight/tips, advice or….any guidance at all, I would greatly appreciate it. I have…very little knowledge about the intricacies of trading and really just have had an impulse to invest a few times….which if I HAD done, with the money I didn’t have to lose at the time, would have made bank… like I could have bought Tesla when they first went public, but thought just because I like the company doesn’t mean anything and it was too confusing to try to learn.
+
+So, anyway TL;DR : I’'m....definitely a novice lady,, but the few times I've found companies that I believed in, and thought would be profitable, I didn't act on that gut feeling. Also found it to be confusing to figure out HOW to buy and set up an online acct, etc. I  would GREATLY appreciate some tips and tricks/discussion. Please! 
+
+Thank you all!!!",nha7k8,[],0
+765,2021-05-20,stocks,"As the titled implies I am wondering when covid protected mortgages run out, if they run out at the same time, etc. If they ran out in September or something I'd be looking at riding the market down and than back up during recovery. If anyone has any insight that would be great.",nha7kn,[],1
+838,2021-05-20,stocks,"I just read an article that Mark Hubert wrote that the future is not bright for MSFT AAPL AMZN GOOGL etc
+
+
+It's to do with them not being able to sustain enough growth to justify their valuations.
+
+Will I get at least 10% you return hopefully from famag?
+
+Thoughts?",nhakdg,[],0
+874,2021-05-20,stocks,"I've been seeing this a lot lately. A company beats on earnings and still drops like it came up short. 
+
+I have a theory that the Institutions, the big boys of wall street, are getting out under cover.
+
+They all know what's coming down the pipe. I think the big players in the market are taking a lot off the table on the good days. Retail investors buy on the good news. And if they sell at the same time it doesn't bring down the stock **as much**. Sort of making their ways towards the exit without starting a Chinese fire drill.
+
+They have been playing the game a lot longer than 90% of the people in the markets now. They've learned how to make moves without making too much noise.
+
+Anybody else feel like something's going on here?",nharj2,[],1
+981,2021-05-20,stocks,"**PsychoMarket Recap - Thursday, May 20, 2021**
+
+Stocks snapped their modest three-day losing streak and jumped higher today, with market participants encouraged by the Weekly Unemployment Report and inflationary fears tempering. As I said yesterday, I was encouraged to see volatility decreasing this week after the wild swing the market experienced recently and am even more encouraged by today’s movement that the sharp sell-off was overdone. 
+
+The Department of Labor released their Weekly Unemployment Report, which showed 444,000 new jobless claims filed, a fresh pandemic low and marginally better than the 450,000 expected by economists. To put this into context, in April of last year, more than 6 million individuals filed jobless claims in one week. While the improvement in the labor market has been extremely encouraging, in the Federal Reserve’s April meeting minutes (basically notes about what was discussed in the meeting) noted “participants generally noted that the economy remained far from the Committee’s maximum-employment and price-stability goals”.  
+
+However, it is important to note, the minutes covered the meeting before the release of the April Jobs Report, which came in much weaker than expected (which bolsters the Fed’s argument that employment remains far from their goal) and the Consumer Price Index, which showed a greater-than-expected increase in consumer prices. That said, the recent reports are extremely unlikely to change the Fed’s view given Powell and other monetary officials have said they expect any inflation to be “transitory” and want to see a “string” of strong labor reports before adjustments to the current policy are considered.
+
+On a slightly sour note, the meeting minutes also noted “a number of participants suggested” that as the economy continues to quickly, “it might be appropriate at some point in upcoming meetings to begin discussing a plan for adjusting the pace of asset purchase”, which have currently been going at a rate of $120 billion per month. However, this is not a surprising statement and one Powell himself has said before. Back in an April 14 meeting, Powell said, “We will reach the time at which we will taper asset purchases when we have made substantial further progress towards our goals from last December. That would in all likelihood be before, well before, the time we would consider raising interest rates. We have not voted on that order but that is the sense of the guidance.” As a reminder, quantitative easing is a process in which the Fed buys government bonds in order to inject money into the economy. It is only natural that as the economy recovers, less money needs to be injected into the economy in this manner. The Federal Reserve gave absolutely no signal it was even considering beginning discussion on raising interest rates, which is what market participants are really concerned about. [Read the entire meeting minutes here](https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20210428.pdf)
+
+**Highlights**
+
+* Robinhood said it is starting to roll out a new service that will users of its platform to invest into initial public offerings at the same time as Wall Street. Basically, this service will let people buy the IPO at the offering price rather than have to wait for the stock to begin trading at mid-day. We have all seen stocks skyrocket between their offering and opening price before. 
+* Ford Motor (F) has struck a deal with South Korean firm SK Innovation Co. to form a joint venture to build electric-car batteries in the U.S.
+* Snap (SNAP) stock surged after the company reported more than 500 million monthly active users and said nearly half of all smartphone users in the US have the SnapChat app and unveiled new artificial reality glasses.
+* Google will open its first-ever permanent retail store in New York City in coming weeks, a bet that a physical retail presence can help showcase and sell its products as the pandemic eases.
+* **\*\*Please note that current stock price was written premarket and does not reflect intraday movement.\*\***
+* John Deere (DE) target raised by Citigroup from $400 to $415 at Buy. Stock currently around $358
+* Fedex (FDX) target raised by Wells Fargo from $336 to $351 at Overweight. Stock Acurrently around $308
+* Home Depot (HD) target raised by Jefferies Financial from $325 to $374 at Buy. Stock currently around $314
+* L Brands (LB) target raised by Wells Fargo from $84 to $90 at Overweight. Stock currently around $65
+* Lowe's (LOW) with two target raises. Stock currently around $191
+   * Robert W Baird from $230 to $235 at Outperform
+   * Jefferies Financial Group from $200 to $247 at Buy
+* Target (TGT) with two price target increases. Stock currently around $219. 
+   * Raymond James from $215 to $255 at Strong-Buy
+   * Telsey Advisory Group from $25 to $265 at Outperform
+* TJX Companies (TJX) with two target raises. Stock currently around $67
+   * Barclays from $82 to $87 at Overweight
+   * Deutsche Bank from $80 to $84 at Buy
+
+““The secret of getting ahead is getting started.” - Mark Twain",nhbg63,[],0

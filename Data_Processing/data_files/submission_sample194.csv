@@ -1,0 +1,1068 @@
+,created,subreddit,text,id,Organizations,Sentiment
+6395,2021-05-27,wallstreetbets,"Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB|^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=week)
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3A%22Earnings%20Thread%22)
+
+**Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and make sure other people follow them.**
+
+Try [No Meme Mode](https://www.reddit.com/r/wallstreetbets/search/?q=-flair%3AMeme%20-flair%3ASatire%20-flair%3AShitpost&restrict_sr=1&t=day&sort=hot), also accessible through the top bar.
+
+Follow [@Official_WSB](https://twitter.com/Official_WSB) on Twitter, all other accounts are impersonators.",nmg57b,[],1
+6405,2021-05-27,wallstreetbets,""" AMC, RKT and other meme stocks are ripping higher due to an options gamma squeeze. As traders buy call options, options market makers must buy stock to stay hedged. We believe this hedging flow is whats causing massive stock moves.""
+
+""AMC is up nearly 140% this week alone. As you can see the stock hit “escape vol-ocity” in the past 2-3 sessions as short dated call option volume spiked.""
+
+&#x200B;
+
+https://preview.redd.it/ul5e47w90q171.png?width=1536&format=png&auto=webp&s=14f0c5251e9435096f2b6994fe42b9ce7d06ee19
+
+ ""Below we have a snapshot of the current options volume in AMC. As you can see in the red box the days options volume is massive – and it heavily outpaces open interest. This is particularly true of the 25 and 30 strikes in which volume is near 150k for today.""
+
+ 
+
+https://preview.redd.it/pdj8wxve0q171.png?width=1536&format=png&auto=webp&s=50dd21603e216abbf32737f07853adcf5148c54c
+
+"" If traders are buying large amounts of calls, then market makers are short calls. To hedge these positions, market makers must buy AMC stock. Call buyers forcing market makers into purchasing stock is the essence of the options gamma squeeze.""
+
+""To start the day our EquityHub options model was telling us that nearly 30% of total AMC gamma expired tomorrow, 5/28. We think that number shifts to 50% based on the wild volume taking place today. Because so much gamma expires tomorrow we think that AMC will likely consolidate as call options decay kicks in, which allows dealers to unwind some of their long stock hedge position.""
+
+&#x200B;
+
+https://preview.redd.it/j934rq0k0q171.png?width=1536&format=png&auto=webp&s=054853646fb1507ca188b5d8375d61e3fe2689fe
+
+"" It may be then on Monday that the squeeze restarts as call buyers reload on the next set of weekly call options (6/4/21 expiration). """,nmggxc,['AMC'],0
+6408,2021-05-27,wallstreetbets,Hello everybody. Does anybody of you know anything about a chinese trading app called hioxex exchange? It is kind of strange since I couldn’t find anything about them online. Did someone of you use the app in the past? I downloaded it and it seems professional but also kind of shady because you can’t find it on the app or play store. They have a working help desk but they don’t answer every question I have about them. I’m not sure if it is safe to trade or to put money on my wallet there. Maybe someone of you did already work with that app. I’m really curious about the origin of that trading platform. Any info would be helpful.,nmgrpf,[],0
+6412,2021-05-27,wallstreetbets,"A financial opinion, not financial advice.
+
+**TL;DR:** 
+
+**Buy CHWY 06/11 75.5/76 Strangle**  
+
+**Sell before market close on June 10**  
+
+
+CHWY Earnings is June 10 AMC [Source](https://investor.chewy.com/news-and-events/news/news-details/2021/Chewy-Announces-Fiscal-First-Quarter-2021-Financial-Results-Conference-Call/default.aspx)
+
+As the earnings announcement gets closer, the implied volatility (IV) should increase. Now Vega--the greek responsible for the jiggle factor--reflects the option price's sensitivity to the change in IV. Higher IV means higher options price.   
+
+
+IV:
+
+* Last Earnings Call (March 30, 2021): \~75%
+* Currently (May 27, 2021): 58.2%
+* Difference: 16.8%
+
+  
+Options Contracts:
+
+* 06/11 75.5P
+   * Vega: 0.061
+   * Current Price: $4.15
+   * Expected price increase due to vega: (0.061 \* 16.8) = $1.02
+* 06/11 76C
+   * Vega: 0.061
+   * Current Price: $4.05
+   * Expected price increase due to vega: (0061 \* 16.8) = $1.02  
+
+
+Total Entry Price: $8.20/contract  
+Total Price Increase due to vega: $2.04  
+
+
+Expected ROI: 24.8%  
+
+
+Sell before June 10 market close. 
+
+&#x200B;
+
+Positions:
+
+* CHWY 06/11 76C @ 4.05
+* CHWY 06/11 75.5P @ 4.15  
+
+
+The bid-ask spread touched me in my no-no square. Vega will help make it back.
+
+&#x200B;
+
+https://preview.redd.it/a00yzss32q171.png?width=1306&format=png&auto=webp&s=cf89aca220ef4aa82896ba2ca258549b7cb5776e",nmgy18,['AMC'],1
+6415,2021-05-27,wallstreetbets,"Okay so I only recently started trading (about a year) and really I’ve only used spare change. Using the app that shan’t be named (RH)I’ve put in 120, I’ve made over 200 on dogge and currently have about 431 invested. I’ve taken some profit out but really have just kept reinvesting. Now I have 70 in buying power and I think ripple looks good, thoughts? Also I have 3.99 shares in AMC at avg 5$ cost. Should I keep it in? So far my thought process has been to stay in cause I’ve already beat my overhead but it’s cost me...didn’t sell NKLA at 90 when I bought in at 10( that one really hurt) and sold my original dogge that if I had held onto would’ve made me 11k. I guess I’m just looking for some overall advice.
+
+EDIT:okay I def need to get off RH where should I go? #stonkbachelor",nmh3dw,['AMC'],1
+6423,2021-05-27,wallstreetbets,"With a rare natural gas price uptrend beginning right before summer, Commstock Resources is well placed to make a big move higher.
+
+It is currently trading at Book Value (finviz, feel free to correct me on this), and is in the process of successfully deleveraging it's debt (rising stock prices would help with this process creating a virtuous cycle). Throw in its forward P/E of 7.36 and it looks very cheap in this most irrational of markets.
+
+[$CRK Poised to Regain It's Former Glory](https://preview.redd.it/dglghbon4q171.png?width=1625&format=png&auto=webp&s=7bd79d88fb18d87001e268178c90e87239bd6b0c)
+
+With NatGas prices charging higher we can expect to see a nice upswing in Commstock's beaten-down share price, as investors continue their rotation away from massively overvalued assets (TSLA, CryptCurrencies, etc) into deep value plays.
+
+&#x200B;
+
+[Natural Gas Exploding Higher Today](https://preview.redd.it/ps8mj4qc4q171.png?width=1627&format=png&auto=webp&s=da3bde298236cb1108ea2d62891f6728be131c63)
+
+After the decimation of the US oil industry last year, CRK is also profiting nicely from their oil reserves. And with OPEC constantly pushing for higher prices, this will continue for the foreseeable future.
+
+Short interest is currently at around 20% (finviz short number x 2, which seems to be correct). Options IV is under 40%. This is one of the last true value plays in the Energy Sector. The timing is right, come get some!
+
+I only hold 80 shares, currently in the Red, but plan on buying more. Small fish in a big pond. So do you're own DD, cause I'm retarded!
+
+TLDR:
+
+$CRK go \^ when it stonking hot outside.
+
+Fair Value Price Target: $12+. Rocket boosters take it to the moon.",nmhf3q,[],0
+6424,2021-05-27,wallstreetbets,"TLRY has been cooling off since the January excitement. Good technical reversal spot. RSI is creeping up to squeezy levels. Their industry is projected to grow 30% every year for the next 10 years. So it's a good long term bet. It's also a good short term bet because it gets really nice big spikes. I'm in this position. Exits for me are laid out in the chart. Assuming I reach a TP I will exit part of the position and then when it cools off for another month or two I will enter again when the technical setup looks good. I plan on doing this a couple times a year for a few years if this pattern keeps up. 
+
+Good luck to all. 
+
+https://preview.redd.it/mmxgkurk7q171.png?width=2451&format=png&auto=webp&s=de64fd6c3f0d9dbc6e24146f91e05fd3d9f7c8ad",nmhf98,[],1
+6430,2021-05-27,wallstreetbets,"If you aren't in $SSFT sonasoft - you will be left behind. This is an AI company that just came out with a bot that Fidelity (FIS) and Google (GOOGL) have 8k NDA's with! This is a multibillion dollar company with huge names already involved.There 2021 plan is to literally go to unicorn heights with their new product! Listen to their main CEO from the last shareholders meeting!
+
+[https://www.youtube.com/watch?v=5RVydXVuYcI](https://www.youtube.com/watch?v=5RVydXVuYcI)
+
+Best of luck!!",nmhz9r,['AI'],0
+6434,2021-05-27,wallstreetbets,"# SPY 5/27 Recap
+
+*Let me hear you say*
+
+*This shit is theta, T-H-E-T-A (x3)*
+
+As predicted, low volatility day. 
+
+* Open: 420.17		
+* High: 420.72
+* Low: 418.99
+* Close\*: 419.18	
+* Adj Close\*\*: 419.18
+* Volume: 55,976,657
+
+https://preview.redd.it/jrxnkl0p3q171.png?width=2814&format=png&auto=webp&s=f3e3bb30d4d565950e9f21b349a22d9af595b91e
+
+# Today's Market Risks:
+
+https://preview.redd.it/nuqirjr11q171.png?width=1564&format=png&auto=webp&s=d73d613c8a5661577cf7d122c729184c80d0f954
+
+# TA Notes: 
+
+* Bulls broke the small 419.64 test that was listed in prior posts. Found support until SPY tested 20 SMMA . We got a nice green candle after close 👀.
+* However, SPY still could not break 421. 
+
+https://preview.redd.it/wixb1tf9dq171.png?width=7496&format=png&auto=webp&s=f47a7420386bf1aa536442e101671c5900ac6500
+
+# 5/28 Outlook
+
+U.S. Economic Calendar: CoRe iNfLaTiOn tOmOrRoW
+
+https://preview.redd.it/h7pz7irt3q171.png?width=1888&format=png&auto=webp&s=9c47070577e1201aef9db67303be5e637f39e133
+
+# TA Notes:
+
+Theta has caused a rinse and repeat of targets the last three days.
+
+* if 420.73 breaks, look for bullish 🎯 : 422.43 - 423.81 - 425.15
+* If 417.25 breaks, look for bearish 🎯 : 416 - 415 - 414.13 - 412.74 - 411.26 - 410
+* Please not that if we push below 415 we could see downwards pressure to 405.
+* **Best case for bulls is that we gap above 421 tomorrow.**
+* **Best case for bears is we gap below to fill small gap @ 419 and test new resistance.** 
+
+https://preview.redd.it/wchxo8mmeq171.png?width=7094&format=png&auto=webp&s=f4d28fa2e73fd80d6d9308ac72594f7f1c5ba393
+
+Short-term Ascending Triangle Continuation Pattern?
+
+* Uptrend continuation pattern
+* Bullish bias
+* Bullish 🎯 : 423.81 - 425.15
+* Need resistance to break and hit 423.81for pattern to hold true.
+* Pattern is null if support breaks. 
+
+https://preview.redd.it/odye667wbq171.png?width=7094&format=png&auto=webp&s=83bb7d4ef4325e3383198d2945475ef9520e9d91
+
+Thanks,
+
+NightMan",nmiihu,[],0
+6450,2021-05-27,wallstreetbets,"Short interest in UWMC is said to be 22%, which incidentally is higher than that of AMC and Gamestop, at 21% and 17%, respectively. In addition, the company announced in its Q1 earnings report that it is repurchasing as much as USD 300 million in shares in the next two years, starting this month. Today the stock was in the pipeline to be added to the MSCI Global Small Cap Index. With a market cap of USD 14 billion, Wall Street Bets suggested that it could make its way to the index’s top 10 rankings.",nmkgbt,['AMC'],1
+6451,2021-05-27,wallstreetbets,"I know there have been several posts about GE. Some of them seemed pretty spot-on while others seemed like FUD or unresearched nonsense. I've been banging this drum for a while in my own circles and now that I've got enough Karma to post to WSB I give to you.... GE - The Great American comeback
+
+TLDR ----- General Electric (GE) was a on its death bed and the stock had tanked. They are right at the pivot point in a MASSIVE turnaround and this thing is going to 🚀🚀🚀🚀.
+
+Today's closing price was $14.35
+
+**PREDICTIONS OF THE FUTURE FROM THE PAST MADE BY SOMEONE WHO CANT SEE THE FUTURE BUT THINKS MAYBE THEY KNOW SOMTHING OR MIGHT JUST BE HIGH**
+
+6/11/2021 - closes above $15
+
+7/22/2021 - closes above $20 (probably drops a bit after earnings and consolidates for a while)
+
+10/20/2021 - closes above $28
+
+June 2022 - closes above $35
+
+December 2022 - closes above $45
+
+Won't edit the above predictions unless I see a typo or something
+
+Current holdings (been building positions over time. been real crappy the last few months since I made a nice chunk in the rally earlier this year) - finally had a good day, hoping for another tomorrow :)
+
+&#x200B;
+
+https://preview.redd.it/odkyttqpzq171.png?width=1058&format=png&auto=webp&s=bc2e968907f3e905b019a7cb80b61ff7aab1164f
+
+I'll be trying to get out of the June $20 without a loss sometime in the next week or two. Other June and the July stuff I'm gonna ride for a bit and try and get some money. On the following pull back / consolidation phase I'll buy calls for the next leg.
+
+**DD and back story -**
+
+**The Good**
+
+We'll get to that part in a bit
+
+**The bad**
+
+The history: GE was a massive company, has been around forever and was known as one of the quintessential American companies. They became this massive conglomerate that bought up companies left and right leading up to the mortgage backed securities bonanza in the mid 2000's. Not sure I'll need to remind everyone what happened at the end of that (Rhymed with Semen Mothers) but GE took it particularly bad. See after the 2008 / 2009 meltdown it turned out that not only had they lost a ton of money on derivatives and other financial products but (as would become public later) they lied to investors about it on disclosures and jumped through hoops to keep investors from finding out just how bad the situation was. Add to that some really badly timed all cash acquisitions that worked out terribly and the company was about ready to go belly up.
+
+**The Ugly**
+
+There is a reason that while the whole world got its act back together after 2009, GE continued to play act a paraplegic thrown in the deep end of a pool. The stock took beating after beating as news kept coming out about acquisitions that went bad (massive write downs), accounting fraud and various other losses. After getting rid of their CEO they brought in someone else to try and turn things around, then after a very short run they replaced that guy with the current CEO Larry Culp. They basically had to bribe / beg him to take the job, getting him to leave a cushy gig at Harvard where he was basically in working retirement after having earned a reputation as a corporate turn around guru.
+
+**Making our way back to the good**
+
+While GE's stock continued to flounder Culp got busy and started to shake things up. First he started selling divisions and companies. Some of them had been with GE forever, like the lightbulb divisions, others were acquisitions (some of which only a few years old) that were sold off. This wasn't about profiting by spinning something off - it was about cutting losses and making sense out of a massive company that didn't have a functioning balance sheet. Some of the chunks that were sold were profitable and many were not. The net effect was that he cut operating expenses more than he cut operating revenue, moving free cash flow (FCF) in the right direction (albeit still negative at this point) and raising cash from the sales.
+
+They slashed the dividend to 1 penny. People were clutching their pearls and screaming! I mean... It was GE for Pete's sake. They've had a good dividend forEVER! This dragged the stock down more. But it shoved FCF in the right direction.
+
+Between significantly improved FCF and money raised from selling off divisions and assets GE managed to cut its TOTAL debt from $130 BILLION to $71 BILLION (which is about where it is right now, although they do have more than $25 billion cash on hand). Oh yeah they also own 25% of Baker Hughes (valued at about $6.5 billion, that is after they sold $1 billion worth of it recently), they are also selling GECAS (airline leasing company that owned airliners and rented them out to airlines and other companies) to the global leader in the space. In return for shedding this division, which due to structural issues and insufficient scale to create real efficiencies, was losing GE $700 million a year in FCF, GE is getting $24 billion in cash, $1 billion in cash equivalents and $6 billion worth of a company (45% of the company's stock) that happens to be beaten up at the moment but is the world's largest airline leasing company and is about to have a gang buster year as airlines struggle to find planes. Could easily see the value of that swelling and then them dumping it to pay down even more debt.
+
+**The Good - you may have to squint but it is there. I swear**
+
+GE is now a rather lean company, especially compared to the mess that existed 5 years ago. I've given you the current cash / debt position. From that alone, doesn't seem great but I do ask that you keep in mind the trend line, from $130BB to $71BB over 5 years.
+
+Today GE is made up of 4 divisions (they no longer make home appliances, it isn't one of the divisions. yes I know, they still are on the market but the stuff sold under the GE name in home appliances is by actually made by the Haier conglomerate and.... never mind):
+
+**HealthCare** \- Not sure if any of you have had an MRI but if you had you may have had the same weird experience I did. Walking into the room, kind of nervous to get this big medical test to find out what is wrong with my ::Insert body party here:: and being confronted with the biggest GE logo I have EVER seen. Embossed into the side of this MRI machine. Anyway, whether you were aware of it or not GE makes a lot of tech for healthcare. from MRI machines to ultrasounds and tons of other stuff. It is a growing business that is consistently profitable and ***something*** *:: cough cough COVID knocked us on our butt and hospitals need to retool and get better::* tells me that healthcare spending is going to be rising a lot this year and next year.
+
+**Energy -** Basically this is about steam turbines used for 20th century electricity generation (and storage in some cases). Talking huge turbines used in natural gas, oil, coal, nuclear and geothermal power plants (I think GE itself may consider Hydro power plant turbines part of this sector but I'm listing them below because that makes more sense). While not very forward looking this business has the potential to generate significant FCF over the next few years maybe even a decade or more. While some of these power sources are on their way out others (like natural gas) have seen a surge in utilization and some (nuclear) seem to be about to make a comeback. This chunk of GE is usually profitable, although not hugely so. That being said, between what happened in Texas which will require several power plants to be overhauled or replaced, existing service and new equipment contracts and the potential to grow, I think this is a worthwhile business unit to keep around.
+
+**Renewable Energy -** Some solar, a decent amount of hydro power, a growing pumped storage segment and WIND TURBINES. These electrical generators (and in the case of pumped storage - mechanical batteries) are one of the most exciting areas for me personally when looking at the GE story. GE briefly snagged the title as producing the world's largest wind turbine (14 MW) and it is the largest one that many countries have certified for use. This thing is bonkers, every rotation of the blades produces enough electricity to power roughly 4,000 homes for a DAY. It is a monster and it has been selected for use in the next phase of the world's largest offshore wind farm and the first phase of the US' first large offshore windfarm. GE also makes onshore wind turbines, they make the truly massive turbines used in huge hydro electric damns and they also make turbines for use in pumped storage\*. This segment has up till now been generation negative FCF (losing money) however it is growing by leaps and bounds and seems poised to start adding to positive FCF a little this year or next and then growing exponentially.
+
+\*Pumped storage is really cool. Basically you create a large body of water (like a lake) by using excess electricity made by solar and wind when it is available to pump water up hill. Then, when you need more electricity because it is night time or the wind isn't blowing you throw the turbine in reverse and it acts as a hydro electric damn.
+
+**Aviation** \- This is the crown jewel of GE although in a weird twist of fait it delivered a kick to the nuts just as things started turning around. Needless to go into much detail as to why a business that makes its money building and servicing jet engines might be negatively effected when air travel takes a year and a half pause. That being said GE's newest engines are showing a great track record of winning orders. Doing this DD I found out that apparently when you buy commercial airliners you get to pick what engines you want (if there are more than one option) kind of like when you buy a car and pick whether you want the in dash CD player or not. GE's engines are proving to be more efficient, more reliable and cheaper to operate than their main competitor Pratt and Whitney. That means that as everyone gets waxed and vaxed in preparation for the horney party boom we are about to witness airlines have started ordering planes again and in a big way. You see, during the covid crisis airlines didn't have many customers and what most of them did was they identified their oldest and/or most problematic aircraft and sold them off various other companies in other industries or to companies that lease aircraft to airlines when they need a few to fill a gap. Now that things are coming back online airlines are ordering more planes. As other parts of the world start to open up over time this should create sustained tail winds for this division.
+
+Oh yeah and one thing that often seems to be overlooked is that while yes, the aviation division has been beat up, management has used this as an opportunity to streamline and improve operations. Both sales and maintenance saw significant drops in revenue however the drop in FCF was smaller than would be expected because the whole time GE was improving its margins. Now as their order book starts filling up the aviation division is significantly leaner and more optimized which should mean that when the FCF starts up again this fall or this winter it should turn into a firehose.
+
+**Other points of interest**
+
+GE has announced a 1 for 8 stock split (that is a reverse split, for every 8 shares you own you will end up with 1 share that is worth 8X the pre split value). This makes sense for a few reasons.
+
+1. GE has a massive number of shares outstanding and doing this reverse split will bring its stock price (adjusted for market cap) within line with its piers and should put it in a position to re-enter the DOW. Doing so will create demand for the shares as it is added to funds that track that index.
+2. Once GE reinstates its dividend (which will be another catalyst for the stock to continue upwards) the lower share count means a slower drain on FCF since I imagine they will incrementally increase the dividend. It seems silly because it doesn't really matter how many shares except when you consider that they have so many that if you decide to go from a dividend of $0.01 to $0.10 the difference in share float would be hundreds of millions annualized in FCF. Obviously the target yield wouldn't be impacted but even this small thing can have a real impact in speeding up the debt reduction.
+3. I fully expect that as the stock price increases and then the reverse split happens GE will do a share issuance to raise a few billion to pay down the debt. I view that as a buying opportunity as any drop in share price should be short lived and I expect the resulting reduction in debt will mean net / net share prices will increase due to the issuance.
+
+On that note GE has committed to a stated target of 2.5 times EBITDA (which is the cutoff for investment grade securities) from the current 6 times EBITDA. Getting to investment grade will create increased upside pressure, that is why I'm saying the stock will go up when they issue more shares (even though there will likely be a temporary dip at that time).",nmkhyz,['GE'],0
+6454,2021-05-27,wallstreetbets,"
+
+
+On March 17, a little over two months ago, there was no volume at the Fed's RRP window. Nothing. Today, it was almost $400 billion! How do you go from zero to $400 billion in two months? Not only was today's activity at the RRP one of the largest ever, it was also THE largest non-quarter-end, non-year-end print. There's an incredible amount of cash in the Repo market right now! Clearly, the Fed took too much collateral out of the market - or - added too much cash.
+
+And while Powell & Co pretend that they can continue business as usual for years to come, the repo market is not only cracking but banks, full to the gills with inert reserves and which increase by $30 billion every week, are on the verge of pulling a Mr Creosote...
+
+and balking at even a penny of additional liquidity. How the Fed will continue to monetize debt then, when the repo system is now out of collateral, is anyone's guess.
+
+By mid-July, we’ll have even more reserves to absorb due to the debt ceiling, and while a lot of that cash will go to the o/n RRP facility, some of it will chase higher yields in the FX swap market amid a lack of demand for U.S. dollars. Three-month cross-currency bases may flip positive by mid-July, and those implied yields may drag three-month U.S. dollar Libor-OIS slightly negative
+
+Assuming inflation not only continues to rise but accelerates to the upside while bond yields are capped, we have an asymmetric risk to the downside in real yields. Precious metals and miners have long-term inverse correlation to real yields. Said simply, if and when real yields dump, watch Silver and the metals soar. I estimate the time for that scenario to play out in weeks.
+
+Consider this also . Annual mining output is roughly 800-1000 million ounces of silver a year. They use around those numbers as well 900M a year. It's a very tight market. 330 million americans. Say 10% of americans buy 100oz physical. 28usd x 100 = 2800USD quite affordable.. 10% of 330 million = 33 million 33 million x 100oz  330 million ounces off the market. That is a big supply shortage not counting in the domino effect.........
+
+
+Silver rose 35 x in the 1970s,Gold rose 8x in the 2000s. Silver jumped 12x. When inflation hit 3.5 silver hit 50 in 2011 . Follow the Smart Money. The rally in precious metals and miners has barely begun and will run for years, imho. Given the amount of currency printed out of thin air, if history is anything to go by, the gains will be enormous, especially in real terms.
+
+As a ticket here I prefer PSLV, but all ETFs essentially share the same traits in that you can invest extremely large sums of money with them and it is highly liquid to get in and out of. Only the whale investors can actually take physical out, but if they are taking it out, it’s not to bring home 1,000 oz bars to use as doorstops, but probably to transfer to a vault of their choosing. These will generally move with the price of the underlying metal. Some of these ETFs  like slv  you can buy call options with, which can provide you some upside leverage. However, the idea here is to park large sums of money through your brokerage with them to realize gains over a long term. The one major downside most of these have is you are giving your money to the trust, and the trust owns the metal not you and mostly those trusts are not favored to metal price spike .",nmkmcq,[],1
+6455,2021-05-27,wallstreetbets,"Alright so I thought of a great, terrible ,shitty, no-good road trip game to play for this sub. Of course it will be important to have someone else drive like your ~~girlfriend,~~ ~~wife~~, ~~friend~~, acquaintance who happens to be going in the same direction. 
+
+Here are the rules: you will jot down the first 10 license plates you can clearly read once on the highway towards your destination. Best if the destination is 3+ hours. Then, take the different tags that you wrote down and search to see which of the 10 have a letter combination that create a valid publicly traded ticker. 
+
+Chances are (based on my 20 minute drive today) that about 10-20% will be valid tickers that you, yourself, can invest money into. Look up all 10 tickers to see which ones represent a real publicly traded company. The rest of the tag is important too. Let's say you end up with just one tag that is a valid ticker and it's PRA2350. Congratulations, for the next 3 hours you must enter and then exit a position on ProAssurance Corporation starting with $235.00. 
+
+The goal here is to make as much money over the course of the trip as possible. You have 30 minutes initially to decide what kind of position you want to take (shares, calls, puts). For some of you with deeper pockets, you may want to modify the rules to say that you have to enter a position worth $2350 in that company, or even 2350 SHARES of that company. Game works best with another degenerate who plays against you. If you get multiple tickers in your 10 tag sample, you get to choose your play. If you get zero.. the next valid tag you see that hits has to be your play.
+
+&#x200B;
+
+Begin",nmkvme,[],0
+6460,2021-05-28,wallstreetbets," 
+
+so a bit of a preface, i'm pretty new to investing, but one thing i do know is science, so hear me out.
+
+Tesla is known as a good long term investment because of the fact that eventually we are all going to need electric cars in hope to reduce our carbon emissions as low as possible, meaning the abandonment of the internal combustion engine... or does it? recently in the past few years there have been a lot of study's released proving that synthetic fuel or fuel basically made of of hydrogen with renewable energy like wind power is actually as carbon neutral as electric engines, i think this is dooming to tesla for a few reasons.
+
+1. synthetic fuel is MUCH more convenient then electric. synthetic fuel is able to work in the internal combustion engine which means that people wouldn't have to replace their cars. the base model of the cheapest tesla is 35,000 dollars USD which a lot of family's(including mine) can't afford to spend on a new car, especially if our current one is working. so that's thousands of cars being left in the dust while they can be used and have a neutral carbon footprint.
+2. tesla problems. from what i have heard tesla's are built like sh#t, low quality and poor assembly make them prone to needing repairs, which normal car mechanics are not equipped or trained to deal with because of the obvious. also tesla's are extremely heavy, i don't really care about that but apparently that's a huge turn off for others.
+3. other industry's. so tesla and other electric car company's make electric cars, not planes or boats, so that means that those to major contributors are left out to still release a lot of co2. with synthetic fuel they can switch alongside cars making it better in that sense.
+4. car fans. so i know a lot of car enthusiasts who, all hate tesla's and wouldn't buy one if they had to. they would much rather stick to their cars like Lamborghini's and other old cars that would get left out with electric cars but would still be as usable synthetic, and considering the amount of car enthusiasts in the world and how much they affect the auto market i don't see it panning out there.
+5. timing. so no matter what number you agree on for how long it's going to take to switch completely electric it's stupid. so like i said earlier the majority of family's can't just drop thirty five k on a new car meaning it would take awhile to be able to get everyone electric plus the time and money it would take to build up the infrastructure to switch electric but considering that synthetic fuel uses the same stuff as petrol it would be much easier to keep going synthetic.
+6. back on the subject of time, i saw a study saying we could switch completely synthetic by 2024 if we tried. whomever if you look at electric you see company's like GM saying they will have 50 new electric MODELS by 2050, do we really have that time? science say's no.
+
+so if you take these reasons ( and they are not all, i have a few more ) into consideration tesla now might be a good stock with nice returns but now that synthetics are becoming more and more possible i am starting to think they might actually be our future. like i said I'm pretty new and relatively dumb on the mentality of other investors please leave your opinion below.",nml65m,[],0
+6461,2021-05-28,wallstreetbets,"With all the bullshit that went down with GameStop I’m not going to keep using Robinhood but I don’t know what app to switch to. I figure a couple retards here know what a good solution is because frankly I’m not willing to make an effort to research anything on my own and would rather have you all do it for me. So tell me what to do, stay with Robinhood and accept that they will prevent a bunch of retards from making money or should I switch to a more fair and open trading broker? You tell me.",nml83j,[],0
+6465,2021-05-28,wallstreetbets,"TLDR: Just loaded up on some Palantir Options with my sweet tax refund thanks to Uncle Sam <3.
+
+Palantir Options are dirt cheap and there is a lot of eyes on it now. Call options with 100+ day expiry and within $1 of strike are selling for less than $2 per contract. Lots of analysts very bullish on this stock. As always do your own DD.
+
+See you at the top boys.
+
+Position: $40c June 17 '22
+
+\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
+
+Palantir will MOON soon. Get on board before we take off.
+
+1. The company itself, Palantir; one of the only 2 **unicorn** startups to emerge from the defense sector, focused on national security, alongside SpaceX.
+
+A real company that has built its product for **18 years**, & **PROVEN** its products on national level (UK Vaccination), US ARMY , NAVY and soon AIRFORCE, (BP) OIL&GAS Sector, Law Agency, Mining sector (rio tinto), IBM cloud, etc.
+
+2) There were news of Palantir's Enterprise Resource Planning system with Amazon's cloud service platform Amazon Web Services, making it available to all AWS customers. AND PROVEN to be so value-adding, BP used it and saved 50 million in working capital within 2 weeks of installation, with the potential to do more if applied across their worldwide supply chain. The ERP suite can be deployed within days for all AWS customer. This is HUGE , and DOWNPLAYED last friday because of all the market shits that have been going on.
+
+3) I would also say a lot other recent PLTR news have been downplayed, and PLTR always doesn't make a huge marketing about their announcements, like Karp has said, they believe in the long term, the value of PLTR would reveal itself.
+
+4) The insider selloff has made the company undervalued. Remember when insiders were selling their 20% shares in direct listing at $7.50? How undervalued they were before people including Cathie Wood/ArkInvest started to realize and it rose to $27 within a month? You can take advantage of the insiders' selloffs of their long term held shares, infact, i think they are done (a lot were sold initially, but no selloff for last week) and we are going to the fking moon.
+
+5) All the paperhands' shares and insiders' shares are going to diamond hands like Cathie Wood, who are going to hold for years. I see Cathie Wood buying PLTR like TSLA, don't forget Cathie Wood bought TSLA in 2018 (that's some insane gains), and she is the god among all fund managers when it comes to spotting a disruptive/growth stock, she literally does this for a living and got famed as the best investor now at the age of 65.
+
+6) Cathie Wood just keep buying PLTR with 2 ARK funds, owns over 1% of Palantir, and she's not done yet. She bought at $30, $25, every $23.You are literally getting an insurance that Cathie wood would save your ass IF the stock goes under.
+
+7) It's literally inevitable for PLTR to get more contracts and increase its revenue and growth... also not forgetting the stickiness of the contracts and business, it's hard to forgo the product after u have integrated it into your business.
+
+8) In this Era of Big Data, PLTR is literally the leader in the dominating industry of the near future, which company/service is not going to use the best Data Analytics software in the future or even now?
+
+9) Proven Track Record of HUGE Growth and credibility , proven 42% revenue growth YoY, expected 45% for next quarter, AT LEAST 30% for next 5 years, words of Karp. Last Year, Karp said at least 30% for YoY and he did 42% YoY like a boss.
+
+10) Don't forget we got a $34 Price Target from Goldman Sachs after the earnings
+
+11) If investors are justifying growth stocks' value with growth, I see Palantir time and time proven overperformed growth rate as the most bullish factor. Also, its cost is going to drive down because the main costs are from employee stock options now, which will expire in the future. And the accumulation of sticky contracts, it's also easier to maintain/update software installation than installing the software initially in new companies. It also has a huge monopoly in the fast growing industry. (added point from replying a comment)
+
+12) It's ok that the some retards don't join us now, because they will eventually join us in the future, they always join after the rocket is halfway to the moon, they always do. And when that happens, we will still welcome them.",nmlb2d,['PLTR'],1
+7006,2021-05-27,wallstreetbets,"Your daily trading discussion thread. Please keep the shitposting to a minimum. 
+
+^Navigate ^WSB|^We ^recommend ^best ^daily ^DD
+:--|:--                                 
+**DD** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADD) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADD&restrict_sr=on&t=week)
+**Discussion** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ADiscussion&restrict_sr=on&t=week)
+**YOLO** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AYOLO&restrict_sr=on&t=week)
+**Gain** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3AGain&restrict_sr=on&t=week)
+**Loss** | [All](https://reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss) / [**Best Daily**](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=day) / [Best Weekly](https://www.reddit.com/r/wallstreetbets/search?sort=top&q=flair%3ALoss&restrict_sr=on&t=week)
+
+[Weekly Earnings Discussion Thread](https://www.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3A%22Earnings%20Thread%22)
+
+**Read the [rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide) and make sure other people follow them.**
+
+Try [No Meme Mode](https://www.reddit.com/r/wallstreetbets/search/?q=-flair%3AMeme%20-flair%3ASatire%20-flair%3AShitpost&restrict_sr=1&t=day&sort=hot), also accessible through the top bar.
+
+Follow [@Official_WSB](https://twitter.com/Official_WSB) on Twitter, all other accounts are impersonators.",nmg57b,[],1
+7016,2021-05-27,wallstreetbets,""" AMC, RKT and other meme stocks are ripping higher due to an options gamma squeeze. As traders buy call options, options market makers must buy stock to stay hedged. We believe this hedging flow is whats causing massive stock moves.""
+
+""AMC is up nearly 140% this week alone. As you can see the stock hit “escape vol-ocity” in the past 2-3 sessions as short dated call option volume spiked.""
+
+&#x200B;
+
+https://preview.redd.it/ul5e47w90q171.png?width=1536&format=png&auto=webp&s=14f0c5251e9435096f2b6994fe42b9ce7d06ee19
+
+ ""Below we have a snapshot of the current options volume in AMC. As you can see in the red box the days options volume is massive – and it heavily outpaces open interest. This is particularly true of the 25 and 30 strikes in which volume is near 150k for today.""
+
+ 
+
+https://preview.redd.it/pdj8wxve0q171.png?width=1536&format=png&auto=webp&s=50dd21603e216abbf32737f07853adcf5148c54c
+
+"" If traders are buying large amounts of calls, then market makers are short calls. To hedge these positions, market makers must buy AMC stock. Call buyers forcing market makers into purchasing stock is the essence of the options gamma squeeze.""
+
+""To start the day our EquityHub options model was telling us that nearly 30% of total AMC gamma expired tomorrow, 5/28. We think that number shifts to 50% based on the wild volume taking place today. Because so much gamma expires tomorrow we think that AMC will likely consolidate as call options decay kicks in, which allows dealers to unwind some of their long stock hedge position.""
+
+&#x200B;
+
+https://preview.redd.it/j934rq0k0q171.png?width=1536&format=png&auto=webp&s=054853646fb1507ca188b5d8375d61e3fe2689fe
+
+"" It may be then on Monday that the squeeze restarts as call buyers reload on the next set of weekly call options (6/4/21 expiration). """,nmggxc,['AMC'],0
+7019,2021-05-27,wallstreetbets,Hello everybody. Does anybody of you know anything about a chinese trading app called hioxex exchange? It is kind of strange since I couldn’t find anything about them online. Did someone of you use the app in the past? I downloaded it and it seems professional but also kind of shady because you can’t find it on the app or play store. They have a working help desk but they don’t answer every question I have about them. I’m not sure if it is safe to trade or to put money on my wallet there. Maybe someone of you did already work with that app. I’m really curious about the origin of that trading platform. Any info would be helpful.,nmgrpf,[],0
+7023,2021-05-27,wallstreetbets,"A financial opinion, not financial advice.
+
+**TL;DR:** 
+
+**Buy CHWY 06/11 75.5/76 Strangle**  
+
+**Sell before market close on June 10**  
+
+
+CHWY Earnings is June 10 AMC [Source](https://investor.chewy.com/news-and-events/news/news-details/2021/Chewy-Announces-Fiscal-First-Quarter-2021-Financial-Results-Conference-Call/default.aspx)
+
+As the earnings announcement gets closer, the implied volatility (IV) should increase. Now Vega--the greek responsible for the jiggle factor--reflects the option price's sensitivity to the change in IV. Higher IV means higher options price.   
+
+
+IV:
+
+* Last Earnings Call (March 30, 2021): \~75%
+* Currently (May 27, 2021): 58.2%
+* Difference: 16.8%
+
+  
+Options Contracts:
+
+* 06/11 75.5P
+   * Vega: 0.061
+   * Current Price: $4.15
+   * Expected price increase due to vega: (0.061 \* 16.8) = $1.02
+* 06/11 76C
+   * Vega: 0.061
+   * Current Price: $4.05
+   * Expected price increase due to vega: (0061 \* 16.8) = $1.02  
+
+
+Total Entry Price: $8.20/contract  
+Total Price Increase due to vega: $2.04  
+
+
+Expected ROI: 24.8%  
+
+
+Sell before June 10 market close. 
+
+&#x200B;
+
+Positions:
+
+* CHWY 06/11 76C @ 4.05
+* CHWY 06/11 75.5P @ 4.15  
+
+
+The bid-ask spread touched me in my no-no square. Vega will help make it back.
+
+&#x200B;
+
+https://preview.redd.it/a00yzss32q171.png?width=1306&format=png&auto=webp&s=cf89aca220ef4aa82896ba2ca258549b7cb5776e",nmgy18,['AMC'],1
+7026,2021-05-27,wallstreetbets,"Okay so I only recently started trading (about a year) and really I’ve only used spare change. Using the app that shan’t be named (RH)I’ve put in 120, I’ve made over 200 on dogge and currently have about 431 invested. I’ve taken some profit out but really have just kept reinvesting. Now I have 70 in buying power and I think ripple looks good, thoughts? Also I have 3.99 shares in AMC at avg 5$ cost. Should I keep it in? So far my thought process has been to stay in cause I’ve already beat my overhead but it’s cost me...didn’t sell NKLA at 90 when I bought in at 10( that one really hurt) and sold my original dogge that if I had held onto would’ve made me 11k. I guess I’m just looking for some overall advice.
+
+EDIT:okay I def need to get off RH where should I go? #stonkbachelor",nmh3dw,['AMC'],1
+7034,2021-05-27,wallstreetbets,"With a rare natural gas price uptrend beginning right before summer, Commstock Resources is well placed to make a big move higher.
+
+It is currently trading at Book Value (finviz, feel free to correct me on this), and is in the process of successfully deleveraging it's debt (rising stock prices would help with this process creating a virtuous cycle). Throw in its forward P/E of 7.36 and it looks very cheap in this most irrational of markets.
+
+[$CRK Poised to Regain It's Former Glory](https://preview.redd.it/dglghbon4q171.png?width=1625&format=png&auto=webp&s=7bd79d88fb18d87001e268178c90e87239bd6b0c)
+
+With NatGas prices charging higher we can expect to see a nice upswing in Commstock's beaten-down share price, as investors continue their rotation away from massively overvalued assets (TSLA, CryptCurrencies, etc) into deep value plays.
+
+&#x200B;
+
+[Natural Gas Exploding Higher Today](https://preview.redd.it/ps8mj4qc4q171.png?width=1627&format=png&auto=webp&s=da3bde298236cb1108ea2d62891f6728be131c63)
+
+After the decimation of the US oil industry last year, CRK is also profiting nicely from their oil reserves. And with OPEC constantly pushing for higher prices, this will continue for the foreseeable future.
+
+Short interest is currently at around 20% (finviz short number x 2, which seems to be correct). Options IV is under 40%. This is one of the last true value plays in the Energy Sector. The timing is right, come get some!
+
+I only hold 80 shares, currently in the Red, but plan on buying more. Small fish in a big pond. So do you're own DD, cause I'm retarded!
+
+TLDR:
+
+$CRK go \^ when it stonking hot outside.
+
+Fair Value Price Target: $12+. Rocket boosters take it to the moon.",nmhf3q,[],0
+7035,2021-05-27,wallstreetbets,"TLRY has been cooling off since the January excitement. Good technical reversal spot. RSI is creeping up to squeezy levels. Their industry is projected to grow 30% every year for the next 10 years. So it's a good long term bet. It's also a good short term bet because it gets really nice big spikes. I'm in this position. Exits for me are laid out in the chart. Assuming I reach a TP I will exit part of the position and then when it cools off for another month or two I will enter again when the technical setup looks good. I plan on doing this a couple times a year for a few years if this pattern keeps up. 
+
+Good luck to all. 
+
+https://preview.redd.it/mmxgkurk7q171.png?width=2451&format=png&auto=webp&s=de64fd6c3f0d9dbc6e24146f91e05fd3d9f7c8ad",nmhf98,[],1
+7041,2021-05-27,wallstreetbets,"If you aren't in $SSFT sonasoft - you will be left behind. This is an AI company that just came out with a bot that Fidelity (FIS) and Google (GOOGL) have 8k NDA's with! This is a multibillion dollar company with huge names already involved.There 2021 plan is to literally go to unicorn heights with their new product! Listen to their main CEO from the last shareholders meeting!
+
+[https://www.youtube.com/watch?v=5RVydXVuYcI](https://www.youtube.com/watch?v=5RVydXVuYcI)
+
+Best of luck!!",nmhz9r,['AI'],0
+7045,2021-05-27,wallstreetbets,"# SPY 5/27 Recap
+
+*Let me hear you say*
+
+*This shit is theta, T-H-E-T-A (x3)*
+
+As predicted, low volatility day. 
+
+* Open: 420.17		
+* High: 420.72
+* Low: 418.99
+* Close\*: 419.18	
+* Adj Close\*\*: 419.18
+* Volume: 55,976,657
+
+https://preview.redd.it/jrxnkl0p3q171.png?width=2814&format=png&auto=webp&s=f3e3bb30d4d565950e9f21b349a22d9af595b91e
+
+# Today's Market Risks:
+
+https://preview.redd.it/nuqirjr11q171.png?width=1564&format=png&auto=webp&s=d73d613c8a5661577cf7d122c729184c80d0f954
+
+# TA Notes: 
+
+* Bulls broke the small 419.64 test that was listed in prior posts. Found support until SPY tested 20 SMMA . We got a nice green candle after close 👀.
+* However, SPY still could not break 421. 
+
+https://preview.redd.it/wixb1tf9dq171.png?width=7496&format=png&auto=webp&s=f47a7420386bf1aa536442e101671c5900ac6500
+
+# 5/28 Outlook
+
+U.S. Economic Calendar: CoRe iNfLaTiOn tOmOrRoW
+
+https://preview.redd.it/h7pz7irt3q171.png?width=1888&format=png&auto=webp&s=9c47070577e1201aef9db67303be5e637f39e133
+
+# TA Notes:
+
+Theta has caused a rinse and repeat of targets the last three days.
+
+* if 420.73 breaks, look for bullish 🎯 : 422.43 - 423.81 - 425.15
+* If 417.25 breaks, look for bearish 🎯 : 416 - 415 - 414.13 - 412.74 - 411.26 - 410
+* Please not that if we push below 415 we could see downwards pressure to 405.
+* **Best case for bulls is that we gap above 421 tomorrow.**
+* **Best case for bears is we gap below to fill small gap @ 419 and test new resistance.** 
+
+https://preview.redd.it/wchxo8mmeq171.png?width=7094&format=png&auto=webp&s=f4d28fa2e73fd80d6d9308ac72594f7f1c5ba393
+
+Short-term Ascending Triangle Continuation Pattern?
+
+* Uptrend continuation pattern
+* Bullish bias
+* Bullish 🎯 : 423.81 - 425.15
+* Need resistance to break and hit 423.81for pattern to hold true.
+* Pattern is null if support breaks. 
+
+https://preview.redd.it/odye667wbq171.png?width=7094&format=png&auto=webp&s=83bb7d4ef4325e3383198d2945475ef9520e9d91
+
+Thanks,
+
+NightMan",nmiihu,[],0
+7061,2021-05-27,wallstreetbets,"Short interest in UWMC is said to be 22%, which incidentally is higher than that of AMC and Gamestop, at 21% and 17%, respectively. In addition, the company announced in its Q1 earnings report that it is repurchasing as much as USD 300 million in shares in the next two years, starting this month. Today the stock was in the pipeline to be added to the MSCI Global Small Cap Index. With a market cap of USD 14 billion, Wall Street Bets suggested that it could make its way to the index’s top 10 rankings.",nmkgbt,['AMC'],1
+7062,2021-05-27,wallstreetbets,"I know there have been several posts about GE. Some of them seemed pretty spot-on while others seemed like FUD or unresearched nonsense. I've been banging this drum for a while in my own circles and now that I've got enough Karma to post to WSB I give to you.... GE - The Great American comeback
+
+TLDR ----- General Electric (GE) was a on its death bed and the stock had tanked. They are right at the pivot point in a MASSIVE turnaround and this thing is going to 🚀🚀🚀🚀.
+
+Today's closing price was $14.35
+
+**PREDICTIONS OF THE FUTURE FROM THE PAST MADE BY SOMEONE WHO CANT SEE THE FUTURE BUT THINKS MAYBE THEY KNOW SOMTHING OR MIGHT JUST BE HIGH**
+
+6/11/2021 - closes above $15
+
+7/22/2021 - closes above $20 (probably drops a bit after earnings and consolidates for a while)
+
+10/20/2021 - closes above $28
+
+June 2022 - closes above $35
+
+December 2022 - closes above $45
+
+Won't edit the above predictions unless I see a typo or something
+
+Current holdings (been building positions over time. been real crappy the last few months since I made a nice chunk in the rally earlier this year) - finally had a good day, hoping for another tomorrow :)
+
+&#x200B;
+
+https://preview.redd.it/odkyttqpzq171.png?width=1058&format=png&auto=webp&s=bc2e968907f3e905b019a7cb80b61ff7aab1164f
+
+I'll be trying to get out of the June $20 without a loss sometime in the next week or two. Other June and the July stuff I'm gonna ride for a bit and try and get some money. On the following pull back / consolidation phase I'll buy calls for the next leg.
+
+**DD and back story -**
+
+**The Good**
+
+We'll get to that part in a bit
+
+**The bad**
+
+The history: GE was a massive company, has been around forever and was known as one of the quintessential American companies. They became this massive conglomerate that bought up companies left and right leading up to the mortgage backed securities bonanza in the mid 2000's. Not sure I'll need to remind everyone what happened at the end of that (Rhymed with Semen Mothers) but GE took it particularly bad. See after the 2008 / 2009 meltdown it turned out that not only had they lost a ton of money on derivatives and other financial products but (as would become public later) they lied to investors about it on disclosures and jumped through hoops to keep investors from finding out just how bad the situation was. Add to that some really badly timed all cash acquisitions that worked out terribly and the company was about ready to go belly up.
+
+**The Ugly**
+
+There is a reason that while the whole world got its act back together after 2009, GE continued to play act a paraplegic thrown in the deep end of a pool. The stock took beating after beating as news kept coming out about acquisitions that went bad (massive write downs), accounting fraud and various other losses. After getting rid of their CEO they brought in someone else to try and turn things around, then after a very short run they replaced that guy with the current CEO Larry Culp. They basically had to bribe / beg him to take the job, getting him to leave a cushy gig at Harvard where he was basically in working retirement after having earned a reputation as a corporate turn around guru.
+
+**Making our way back to the good**
+
+While GE's stock continued to flounder Culp got busy and started to shake things up. First he started selling divisions and companies. Some of them had been with GE forever, like the lightbulb divisions, others were acquisitions (some of which only a few years old) that were sold off. This wasn't about profiting by spinning something off - it was about cutting losses and making sense out of a massive company that didn't have a functioning balance sheet. Some of the chunks that were sold were profitable and many were not. The net effect was that he cut operating expenses more than he cut operating revenue, moving free cash flow (FCF) in the right direction (albeit still negative at this point) and raising cash from the sales.
+
+They slashed the dividend to 1 penny. People were clutching their pearls and screaming! I mean... It was GE for Pete's sake. They've had a good dividend forEVER! This dragged the stock down more. But it shoved FCF in the right direction.
+
+Between significantly improved FCF and money raised from selling off divisions and assets GE managed to cut its TOTAL debt from $130 BILLION to $71 BILLION (which is about where it is right now, although they do have more than $25 billion cash on hand). Oh yeah they also own 25% of Baker Hughes (valued at about $6.5 billion, that is after they sold $1 billion worth of it recently), they are also selling GECAS (airline leasing company that owned airliners and rented them out to airlines and other companies) to the global leader in the space. In return for shedding this division, which due to structural issues and insufficient scale to create real efficiencies, was losing GE $700 million a year in FCF, GE is getting $24 billion in cash, $1 billion in cash equivalents and $6 billion worth of a company (45% of the company's stock) that happens to be beaten up at the moment but is the world's largest airline leasing company and is about to have a gang buster year as airlines struggle to find planes. Could easily see the value of that swelling and then them dumping it to pay down even more debt.
+
+**The Good - you may have to squint but it is there. I swear**
+
+GE is now a rather lean company, especially compared to the mess that existed 5 years ago. I've given you the current cash / debt position. From that alone, doesn't seem great but I do ask that you keep in mind the trend line, from $130BB to $71BB over 5 years.
+
+Today GE is made up of 4 divisions (they no longer make home appliances, it isn't one of the divisions. yes I know, they still are on the market but the stuff sold under the GE name in home appliances is by actually made by the Haier conglomerate and.... never mind):
+
+**HealthCare** \- Not sure if any of you have had an MRI but if you had you may have had the same weird experience I did. Walking into the room, kind of nervous to get this big medical test to find out what is wrong with my ::Insert body party here:: and being confronted with the biggest GE logo I have EVER seen. Embossed into the side of this MRI machine. Anyway, whether you were aware of it or not GE makes a lot of tech for healthcare. from MRI machines to ultrasounds and tons of other stuff. It is a growing business that is consistently profitable and ***something*** *:: cough cough COVID knocked us on our butt and hospitals need to retool and get better::* tells me that healthcare spending is going to be rising a lot this year and next year.
+
+**Energy -** Basically this is about steam turbines used for 20th century electricity generation (and storage in some cases). Talking huge turbines used in natural gas, oil, coal, nuclear and geothermal power plants (I think GE itself may consider Hydro power plant turbines part of this sector but I'm listing them below because that makes more sense). While not very forward looking this business has the potential to generate significant FCF over the next few years maybe even a decade or more. While some of these power sources are on their way out others (like natural gas) have seen a surge in utilization and some (nuclear) seem to be about to make a comeback. This chunk of GE is usually profitable, although not hugely so. That being said, between what happened in Texas which will require several power plants to be overhauled or replaced, existing service and new equipment contracts and the potential to grow, I think this is a worthwhile business unit to keep around.
+
+**Renewable Energy -** Some solar, a decent amount of hydro power, a growing pumped storage segment and WIND TURBINES. These electrical generators (and in the case of pumped storage - mechanical batteries) are one of the most exciting areas for me personally when looking at the GE story. GE briefly snagged the title as producing the world's largest wind turbine (14 MW) and it is the largest one that many countries have certified for use. This thing is bonkers, every rotation of the blades produces enough electricity to power roughly 4,000 homes for a DAY. It is a monster and it has been selected for use in the next phase of the world's largest offshore wind farm and the first phase of the US' first large offshore windfarm. GE also makes onshore wind turbines, they make the truly massive turbines used in huge hydro electric damns and they also make turbines for use in pumped storage\*. This segment has up till now been generation negative FCF (losing money) however it is growing by leaps and bounds and seems poised to start adding to positive FCF a little this year or next and then growing exponentially.
+
+\*Pumped storage is really cool. Basically you create a large body of water (like a lake) by using excess electricity made by solar and wind when it is available to pump water up hill. Then, when you need more electricity because it is night time or the wind isn't blowing you throw the turbine in reverse and it acts as a hydro electric damn.
+
+**Aviation** \- This is the crown jewel of GE although in a weird twist of fait it delivered a kick to the nuts just as things started turning around. Needless to go into much detail as to why a business that makes its money building and servicing jet engines might be negatively effected when air travel takes a year and a half pause. That being said GE's newest engines are showing a great track record of winning orders. Doing this DD I found out that apparently when you buy commercial airliners you get to pick what engines you want (if there are more than one option) kind of like when you buy a car and pick whether you want the in dash CD player or not. GE's engines are proving to be more efficient, more reliable and cheaper to operate than their main competitor Pratt and Whitney. That means that as everyone gets waxed and vaxed in preparation for the horney party boom we are about to witness airlines have started ordering planes again and in a big way. You see, during the covid crisis airlines didn't have many customers and what most of them did was they identified their oldest and/or most problematic aircraft and sold them off various other companies in other industries or to companies that lease aircraft to airlines when they need a few to fill a gap. Now that things are coming back online airlines are ordering more planes. As other parts of the world start to open up over time this should create sustained tail winds for this division.
+
+Oh yeah and one thing that often seems to be overlooked is that while yes, the aviation division has been beat up, management has used this as an opportunity to streamline and improve operations. Both sales and maintenance saw significant drops in revenue however the drop in FCF was smaller than would be expected because the whole time GE was improving its margins. Now as their order book starts filling up the aviation division is significantly leaner and more optimized which should mean that when the FCF starts up again this fall or this winter it should turn into a firehose.
+
+**Other points of interest**
+
+GE has announced a 1 for 8 stock split (that is a reverse split, for every 8 shares you own you will end up with 1 share that is worth 8X the pre split value). This makes sense for a few reasons.
+
+1. GE has a massive number of shares outstanding and doing this reverse split will bring its stock price (adjusted for market cap) within line with its piers and should put it in a position to re-enter the DOW. Doing so will create demand for the shares as it is added to funds that track that index.
+2. Once GE reinstates its dividend (which will be another catalyst for the stock to continue upwards) the lower share count means a slower drain on FCF since I imagine they will incrementally increase the dividend. It seems silly because it doesn't really matter how many shares except when you consider that they have so many that if you decide to go from a dividend of $0.01 to $0.10 the difference in share float would be hundreds of millions annualized in FCF. Obviously the target yield wouldn't be impacted but even this small thing can have a real impact in speeding up the debt reduction.
+3. I fully expect that as the stock price increases and then the reverse split happens GE will do a share issuance to raise a few billion to pay down the debt. I view that as a buying opportunity as any drop in share price should be short lived and I expect the resulting reduction in debt will mean net / net share prices will increase due to the issuance.
+
+On that note GE has committed to a stated target of 2.5 times EBITDA (which is the cutoff for investment grade securities) from the current 6 times EBITDA. Getting to investment grade will create increased upside pressure, that is why I'm saying the stock will go up when they issue more shares (even though there will likely be a temporary dip at that time).",nmkhyz,['GE'],0
+7065,2021-05-27,wallstreetbets,"
+
+
+On March 17, a little over two months ago, there was no volume at the Fed's RRP window. Nothing. Today, it was almost $400 billion! How do you go from zero to $400 billion in two months? Not only was today's activity at the RRP one of the largest ever, it was also THE largest non-quarter-end, non-year-end print. There's an incredible amount of cash in the Repo market right now! Clearly, the Fed took too much collateral out of the market - or - added too much cash.
+
+And while Powell & Co pretend that they can continue business as usual for years to come, the repo market is not only cracking but banks, full to the gills with inert reserves and which increase by $30 billion every week, are on the verge of pulling a Mr Creosote...
+
+and balking at even a penny of additional liquidity. How the Fed will continue to monetize debt then, when the repo system is now out of collateral, is anyone's guess.
+
+By mid-July, we’ll have even more reserves to absorb due to the debt ceiling, and while a lot of that cash will go to the o/n RRP facility, some of it will chase higher yields in the FX swap market amid a lack of demand for U.S. dollars. Three-month cross-currency bases may flip positive by mid-July, and those implied yields may drag three-month U.S. dollar Libor-OIS slightly negative
+
+Assuming inflation not only continues to rise but accelerates to the upside while bond yields are capped, we have an asymmetric risk to the downside in real yields. Precious metals and miners have long-term inverse correlation to real yields. Said simply, if and when real yields dump, watch Silver and the metals soar. I estimate the time for that scenario to play out in weeks.
+
+Consider this also . Annual mining output is roughly 800-1000 million ounces of silver a year. They use around those numbers as well 900M a year. It's a very tight market. 330 million americans. Say 10% of americans buy 100oz physical. 28usd x 100 = 2800USD quite affordable.. 10% of 330 million = 33 million 33 million x 100oz  330 million ounces off the market. That is a big supply shortage not counting in the domino effect.........
+
+
+Silver rose 35 x in the 1970s,Gold rose 8x in the 2000s. Silver jumped 12x. When inflation hit 3.5 silver hit 50 in 2011 . Follow the Smart Money. The rally in precious metals and miners has barely begun and will run for years, imho. Given the amount of currency printed out of thin air, if history is anything to go by, the gains will be enormous, especially in real terms.
+
+As a ticket here I prefer PSLV, but all ETFs essentially share the same traits in that you can invest extremely large sums of money with them and it is highly liquid to get in and out of. Only the whale investors can actually take physical out, but if they are taking it out, it’s not to bring home 1,000 oz bars to use as doorstops, but probably to transfer to a vault of their choosing. These will generally move with the price of the underlying metal. Some of these ETFs  like slv  you can buy call options with, which can provide you some upside leverage. However, the idea here is to park large sums of money through your brokerage with them to realize gains over a long term. The one major downside most of these have is you are giving your money to the trust, and the trust owns the metal not you and mostly those trusts are not favored to metal price spike .",nmkmcq,[],1
+7066,2021-05-27,wallstreetbets,"Alright so I thought of a great, terrible ,shitty, no-good road trip game to play for this sub. Of course it will be important to have someone else drive like your ~~girlfriend,~~ ~~wife~~, ~~friend~~, acquaintance who happens to be going in the same direction. 
+
+Here are the rules: you will jot down the first 10 license plates you can clearly read once on the highway towards your destination. Best if the destination is 3+ hours. Then, take the different tags that you wrote down and search to see which of the 10 have a letter combination that create a valid publicly traded ticker. 
+
+Chances are (based on my 20 minute drive today) that about 10-20% will be valid tickers that you, yourself, can invest money into. Look up all 10 tickers to see which ones represent a real publicly traded company. The rest of the tag is important too. Let's say you end up with just one tag that is a valid ticker and it's PRA2350. Congratulations, for the next 3 hours you must enter and then exit a position on ProAssurance Corporation starting with $235.00. 
+
+The goal here is to make as much money over the course of the trip as possible. You have 30 minutes initially to decide what kind of position you want to take (shares, calls, puts). For some of you with deeper pockets, you may want to modify the rules to say that you have to enter a position worth $2350 in that company, or even 2350 SHARES of that company. Game works best with another degenerate who plays against you. If you get multiple tickers in your 10 tag sample, you get to choose your play. If you get zero.. the next valid tag you see that hits has to be your play.
+
+&#x200B;
+
+Begin",nmkvme,[],0
+7071,2021-05-28,wallstreetbets," 
+
+so a bit of a preface, i'm pretty new to investing, but one thing i do know is science, so hear me out.
+
+Tesla is known as a good long term investment because of the fact that eventually we are all going to need electric cars in hope to reduce our carbon emissions as low as possible, meaning the abandonment of the internal combustion engine... or does it? recently in the past few years there have been a lot of study's released proving that synthetic fuel or fuel basically made of of hydrogen with renewable energy like wind power is actually as carbon neutral as electric engines, i think this is dooming to tesla for a few reasons.
+
+1. synthetic fuel is MUCH more convenient then electric. synthetic fuel is able to work in the internal combustion engine which means that people wouldn't have to replace their cars. the base model of the cheapest tesla is 35,000 dollars USD which a lot of family's(including mine) can't afford to spend on a new car, especially if our current one is working. so that's thousands of cars being left in the dust while they can be used and have a neutral carbon footprint.
+2. tesla problems. from what i have heard tesla's are built like sh#t, low quality and poor assembly make them prone to needing repairs, which normal car mechanics are not equipped or trained to deal with because of the obvious. also tesla's are extremely heavy, i don't really care about that but apparently that's a huge turn off for others.
+3. other industry's. so tesla and other electric car company's make electric cars, not planes or boats, so that means that those to major contributors are left out to still release a lot of co2. with synthetic fuel they can switch alongside cars making it better in that sense.
+4. car fans. so i know a lot of car enthusiasts who, all hate tesla's and wouldn't buy one if they had to. they would much rather stick to their cars like Lamborghini's and other old cars that would get left out with electric cars but would still be as usable synthetic, and considering the amount of car enthusiasts in the world and how much they affect the auto market i don't see it panning out there.
+5. timing. so no matter what number you agree on for how long it's going to take to switch completely electric it's stupid. so like i said earlier the majority of family's can't just drop thirty five k on a new car meaning it would take awhile to be able to get everyone electric plus the time and money it would take to build up the infrastructure to switch electric but considering that synthetic fuel uses the same stuff as petrol it would be much easier to keep going synthetic.
+6. back on the subject of time, i saw a study saying we could switch completely synthetic by 2024 if we tried. whomever if you look at electric you see company's like GM saying they will have 50 new electric MODELS by 2050, do we really have that time? science say's no.
+
+so if you take these reasons ( and they are not all, i have a few more ) into consideration tesla now might be a good stock with nice returns but now that synthetics are becoming more and more possible i am starting to think they might actually be our future. like i said I'm pretty new and relatively dumb on the mentality of other investors please leave your opinion below.",nml65m,[],0
+7072,2021-05-28,wallstreetbets,"With all the bullshit that went down with GameStop I’m not going to keep using Robinhood but I don’t know what app to switch to. I figure a couple retards here know what a good solution is because frankly I’m not willing to make an effort to research anything on my own and would rather have you all do it for me. So tell me what to do, stay with Robinhood and accept that they will prevent a bunch of retards from making money or should I switch to a more fair and open trading broker? You tell me.",nml83j,[],0
+7075,2021-05-28,wallstreetbets,"TLDR: Just loaded up on some Palantir Options with my sweet tax refund thanks to Uncle Sam <3.
+
+Palantir Options are dirt cheap and there is a lot of eyes on it now. Call options with 100+ day expiry and within $1 of strike are selling for less than $2 per contract. Lots of analysts very bullish on this stock. As always do your own DD.
+
+See you at the top boys.
+
+Position: $40c June 17 '22
+
+\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
+
+Palantir will MOON soon. Get on board before we take off.
+
+1. The company itself, Palantir; one of the only 2 **unicorn** startups to emerge from the defense sector, focused on national security, alongside SpaceX.
+
+A real company that has built its product for **18 years**, & **PROVEN** its products on national level (UK Vaccination), US ARMY , NAVY and soon AIRFORCE, (BP) OIL&GAS Sector, Law Agency, Mining sector (rio tinto), IBM cloud, etc.
+
+2) There were news of Palantir's Enterprise Resource Planning system with Amazon's cloud service platform Amazon Web Services, making it available to all AWS customers. AND PROVEN to be so value-adding, BP used it and saved 50 million in working capital within 2 weeks of installation, with the potential to do more if applied across their worldwide supply chain. The ERP suite can be deployed within days for all AWS customer. This is HUGE , and DOWNPLAYED last friday because of all the market shits that have been going on.
+
+3) I would also say a lot other recent PLTR news have been downplayed, and PLTR always doesn't make a huge marketing about their announcements, like Karp has said, they believe in the long term, the value of PLTR would reveal itself.
+
+4) The insider selloff has made the company undervalued. Remember when insiders were selling their 20% shares in direct listing at $7.50? How undervalued they were before people including Cathie Wood/ArkInvest started to realize and it rose to $27 within a month? You can take advantage of the insiders' selloffs of their long term held shares, infact, i think they are done (a lot were sold initially, but no selloff for last week) and we are going to the fking moon.
+
+5) All the paperhands' shares and insiders' shares are going to diamond hands like Cathie Wood, who are going to hold for years. I see Cathie Wood buying PLTR like TSLA, don't forget Cathie Wood bought TSLA in 2018 (that's some insane gains), and she is the god among all fund managers when it comes to spotting a disruptive/growth stock, she literally does this for a living and got famed as the best investor now at the age of 65.
+
+6) Cathie Wood just keep buying PLTR with 2 ARK funds, owns over 1% of Palantir, and she's not done yet. She bought at $30, $25, every $23.You are literally getting an insurance that Cathie wood would save your ass IF the stock goes under.
+
+7) It's literally inevitable for PLTR to get more contracts and increase its revenue and growth... also not forgetting the stickiness of the contracts and business, it's hard to forgo the product after u have integrated it into your business.
+
+8) In this Era of Big Data, PLTR is literally the leader in the dominating industry of the near future, which company/service is not going to use the best Data Analytics software in the future or even now?
+
+9) Proven Track Record of HUGE Growth and credibility , proven 42% revenue growth YoY, expected 45% for next quarter, AT LEAST 30% for next 5 years, words of Karp. Last Year, Karp said at least 30% for YoY and he did 42% YoY like a boss.
+
+10) Don't forget we got a $34 Price Target from Goldman Sachs after the earnings
+
+11) If investors are justifying growth stocks' value with growth, I see Palantir time and time proven overperformed growth rate as the most bullish factor. Also, its cost is going to drive down because the main costs are from employee stock options now, which will expire in the future. And the accumulation of sticky contracts, it's also easier to maintain/update software installation than installing the software initially in new companies. It also has a huge monopoly in the fast growing industry. (added point from replying a comment)
+
+12) It's ok that the some retards don't join us now, because they will eventually join us in the future, they always join after the rocket is halfway to the moon, they always do. And when that happens, we will still welcome them.",nmlb2d,['PLTR'],1
+7780,2021-05-27,wallstreetbets,""" AMC, RKT and other meme stocks are ripping higher due to an options gamma squeeze. As traders buy call options, options market makers must buy stock to stay hedged. We believe this hedging flow is whats causing massive stock moves.""
+
+""AMC is up nearly 140% this week alone. As you can see the stock hit “escape vol-ocity” in the past 2-3 sessions as short dated call option volume spiked.""
+
+&#x200B;
+
+https://preview.redd.it/ul5e47w90q171.png?width=1536&format=png&auto=webp&s=14f0c5251e9435096f2b6994fe42b9ce7d06ee19
+
+ ""Below we have a snapshot of the current options volume in AMC. As you can see in the red box the days options volume is massive – and it heavily outpaces open interest. This is particularly true of the 25 and 30 strikes in which volume is near 150k for today.""
+
+ 
+
+https://preview.redd.it/pdj8wxve0q171.png?width=1536&format=png&auto=webp&s=50dd21603e216abbf32737f07853adcf5148c54c
+
+"" If traders are buying large amounts of calls, then market makers are short calls. To hedge these positions, market makers must buy AMC stock. Call buyers forcing market makers into purchasing stock is the essence of the options gamma squeeze.""
+
+""To start the day our EquityHub options model was telling us that nearly 30% of total AMC gamma expired tomorrow, 5/28. We think that number shifts to 50% based on the wild volume taking place today. Because so much gamma expires tomorrow we think that AMC will likely consolidate as call options decay kicks in, which allows dealers to unwind some of their long stock hedge position.""
+
+&#x200B;
+
+https://preview.redd.it/j934rq0k0q171.png?width=1536&format=png&auto=webp&s=054853646fb1507ca188b5d8375d61e3fe2689fe
+
+"" It may be then on Monday that the squeeze restarts as call buyers reload on the next set of weekly call options (6/4/21 expiration). """,nmggxc,['AMC'],0
+7783,2021-05-27,wallstreetbets,Hello everybody. Does anybody of you know anything about a chinese trading app called hioxex exchange? It is kind of strange since I couldn’t find anything about them online. Did someone of you use the app in the past? I downloaded it and it seems professional but also kind of shady because you can’t find it on the app or play store. They have a working help desk but they don’t answer every question I have about them. I’m not sure if it is safe to trade or to put money on my wallet there. Maybe someone of you did already work with that app. I’m really curious about the origin of that trading platform. Any info would be helpful.,nmgrpf,[],0
+7787,2021-05-27,wallstreetbets,"A financial opinion, not financial advice.
+
+**TL;DR:** 
+
+**Buy CHWY 06/11 75.5/76 Strangle**  
+
+**Sell before market close on June 10**  
+
+
+CHWY Earnings is June 10 AMC [Source](https://investor.chewy.com/news-and-events/news/news-details/2021/Chewy-Announces-Fiscal-First-Quarter-2021-Financial-Results-Conference-Call/default.aspx)
+
+As the earnings announcement gets closer, the implied volatility (IV) should increase. Now Vega--the greek responsible for the jiggle factor--reflects the option price's sensitivity to the change in IV. Higher IV means higher options price.   
+
+
+IV:
+
+* Last Earnings Call (March 30, 2021): \~75%
+* Currently (May 27, 2021): 58.2%
+* Difference: 16.8%
+
+  
+Options Contracts:
+
+* 06/11 75.5P
+   * Vega: 0.061
+   * Current Price: $4.15
+   * Expected price increase due to vega: (0.061 \* 16.8) = $1.02
+* 06/11 76C
+   * Vega: 0.061
+   * Current Price: $4.05
+   * Expected price increase due to vega: (0061 \* 16.8) = $1.02  
+
+
+Total Entry Price: $8.20/contract  
+Total Price Increase due to vega: $2.04  
+
+
+Expected ROI: 24.8%  
+
+
+Sell before June 10 market close. 
+
+&#x200B;
+
+Positions:
+
+* CHWY 06/11 76C @ 4.05
+* CHWY 06/11 75.5P @ 4.15  
+
+
+The bid-ask spread touched me in my no-no square. Vega will help make it back.
+
+&#x200B;
+
+https://preview.redd.it/a00yzss32q171.png?width=1306&format=png&auto=webp&s=cf89aca220ef4aa82896ba2ca258549b7cb5776e",nmgy18,['AMC'],1
+7790,2021-05-27,wallstreetbets,"Okay so I only recently started trading (about a year) and really I’ve only used spare change. Using the app that shan’t be named (RH)I’ve put in 120, I’ve made over 200 on dogge and currently have about 431 invested. I’ve taken some profit out but really have just kept reinvesting. Now I have 70 in buying power and I think ripple looks good, thoughts? Also I have 3.99 shares in AMC at avg 5$ cost. Should I keep it in? So far my thought process has been to stay in cause I’ve already beat my overhead but it’s cost me...didn’t sell NKLA at 90 when I bought in at 10( that one really hurt) and sold my original dogge that if I had held onto would’ve made me 11k. I guess I’m just looking for some overall advice.
+
+EDIT:okay I def need to get off RH where should I go? #stonkbachelor",nmh3dw,['AMC'],1
+7798,2021-05-27,wallstreetbets,"With a rare natural gas price uptrend beginning right before summer, Commstock Resources is well placed to make a big move higher.
+
+It is currently trading at Book Value (finviz, feel free to correct me on this), and is in the process of successfully deleveraging it's debt (rising stock prices would help with this process creating a virtuous cycle). Throw in its forward P/E of 7.36 and it looks very cheap in this most irrational of markets.
+
+[$CRK Poised to Regain It's Former Glory](https://preview.redd.it/dglghbon4q171.png?width=1625&format=png&auto=webp&s=7bd79d88fb18d87001e268178c90e87239bd6b0c)
+
+With NatGas prices charging higher we can expect to see a nice upswing in Commstock's beaten-down share price, as investors continue their rotation away from massively overvalued assets (TSLA, CryptCurrencies, etc) into deep value plays.
+
+&#x200B;
+
+[Natural Gas Exploding Higher Today](https://preview.redd.it/ps8mj4qc4q171.png?width=1627&format=png&auto=webp&s=da3bde298236cb1108ea2d62891f6728be131c63)
+
+After the decimation of the US oil industry last year, CRK is also profiting nicely from their oil reserves. And with OPEC constantly pushing for higher prices, this will continue for the foreseeable future.
+
+Short interest is currently at around 20% (finviz short number x 2, which seems to be correct). Options IV is under 40%. This is one of the last true value plays in the Energy Sector. The timing is right, come get some!
+
+I only hold 80 shares, currently in the Red, but plan on buying more. Small fish in a big pond. So do you're own DD, cause I'm retarded!
+
+TLDR:
+
+$CRK go \^ when it stonking hot outside.
+
+Fair Value Price Target: $12+. Rocket boosters take it to the moon.",nmhf3q,[],0
+7799,2021-05-27,wallstreetbets,"TLRY has been cooling off since the January excitement. Good technical reversal spot. RSI is creeping up to squeezy levels. Their industry is projected to grow 30% every year for the next 10 years. So it's a good long term bet. It's also a good short term bet because it gets really nice big spikes. I'm in this position. Exits for me are laid out in the chart. Assuming I reach a TP I will exit part of the position and then when it cools off for another month or two I will enter again when the technical setup looks good. I plan on doing this a couple times a year for a few years if this pattern keeps up.
+
+Good luck to all.
+
+Update: [https://investorplace.com/2021/05/cannabis-stocks-the-big-news-sending-tlry-cgc-acb-grwg-sndl-stocks-higher/](https://investorplace.com/2021/05/cannabis-stocks-the-big-news-sending-tlry-cgc-acb-grwg-sndl-stocks-higher/)
+
+https://preview.redd.it/mmxgkurk7q171.png?width=2451&format=png&auto=webp&s=de64fd6c3f0d9dbc6e24146f91e05fd3d9f7c8ad",nmhf98,[],1
+7805,2021-05-27,wallstreetbets,"If you aren't in $SSFT sonasoft - you will be left behind. This is an AI company that just came out with a bot that Fidelity (FIS) and Google (GOOGL) have 8k NDA's with! This is a multibillion dollar company with huge names already involved.There 2021 plan is to literally go to unicorn heights with their new product! Listen to their main CEO from the last shareholders meeting!
+
+[https://www.youtube.com/watch?v=5RVydXVuYcI](https://www.youtube.com/watch?v=5RVydXVuYcI)
+
+Best of luck!!",nmhz9r,['AI'],0
+7809,2021-05-27,wallstreetbets,"# SPY 5/27 Recap
+
+*Let me hear you say*
+
+*This shit is theta, T-H-E-T-A (x3)*
+
+As predicted, low volatility day. 
+
+* Open: 420.17		
+* High: 420.72
+* Low: 418.99
+* Close\*: 419.18	
+* Adj Close\*\*: 419.18
+* Volume: 55,976,657
+
+https://preview.redd.it/jrxnkl0p3q171.png?width=2814&format=png&auto=webp&s=f3e3bb30d4d565950e9f21b349a22d9af595b91e
+
+# Today's Market Risks:
+
+https://preview.redd.it/nuqirjr11q171.png?width=1564&format=png&auto=webp&s=d73d613c8a5661577cf7d122c729184c80d0f954
+
+# TA Notes: 
+
+* Bulls broke the small 419.64 test that was listed in prior posts. Found support until SPY tested 20 SMMA . We got a nice green candle after close 👀.
+* However, SPY still could not break 421. 
+
+https://preview.redd.it/wixb1tf9dq171.png?width=7496&format=png&auto=webp&s=f47a7420386bf1aa536442e101671c5900ac6500
+
+# 5/28 Outlook
+
+U.S. Economic Calendar: CoRe iNfLaTiOn tOmOrRoW
+
+https://preview.redd.it/h7pz7irt3q171.png?width=1888&format=png&auto=webp&s=9c47070577e1201aef9db67303be5e637f39e133
+
+# TA Notes:
+
+Theta has caused a rinse and repeat of targets the last three days.
+
+* if 420.73 breaks, look for bullish 🎯 : 422.43 - 423.81 - 425.15
+* If 417.25 breaks, look for bearish 🎯 : 416 - 415 - 414.13 - 412.74 - 411.26 - 410
+* Please not that if we push below 415 we could see downwards pressure to 405.
+* **Best case for bulls is that we gap above 421 tomorrow.**
+* **Best case for bears is we gap below to fill small gap @ 419 and test new resistance.** 
+
+https://preview.redd.it/wchxo8mmeq171.png?width=7094&format=png&auto=webp&s=f4d28fa2e73fd80d6d9308ac72594f7f1c5ba393
+
+Short-term Ascending Triangle Continuation Pattern?
+
+* Uptrend continuation pattern
+* Bullish bias
+* Bullish 🎯 : 423.81 - 425.15
+* Need resistance to break and hit 423.81for pattern to hold true.
+* Pattern is null if support breaks. 
+
+https://preview.redd.it/odye667wbq171.png?width=7094&format=png&auto=webp&s=83bb7d4ef4325e3383198d2945475ef9520e9d91
+
+Thanks,
+
+NightMan",nmiihu,[],0
+7825,2021-05-27,wallstreetbets,"Short interest in UWMC is said to be 22%, which incidentally is higher than that of AMC and Gamestop, at 21% and 17%, respectively. In addition, the company announced in its Q1 earnings report that it is repurchasing as much as USD 300 million in shares in the next two years, starting this month. Today the stock was in the pipeline to be added to the MSCI Global Small Cap Index. With a market cap of USD 14 billion, Wall Street Bets suggested that it could make its way to the index’s top 10 rankings.",nmkgbt,['AMC'],1
+7826,2021-05-27,wallstreetbets,"I know there have been several posts about GE. Some of them seemed pretty spot-on while others seemed like FUD or unresearched nonsense. I've been banging this drum for a while in my own circles and now that I've got enough Karma to post to WSB I give to you.... GE - The Great American comeback
+
+TLDR ----- General Electric (GE) was a on its death bed and the stock had tanked. They are right at the pivot point in a MASSIVE turnaround and this thing is going to 🚀🚀🚀🚀.
+
+Today's closing price was $14.35
+
+**PREDICTIONS OF THE FUTURE FROM THE PAST MADE BY SOMEONE WHO CANT SEE THE FUTURE BUT THINKS MAYBE THEY KNOW SOMTHING OR MIGHT JUST BE HIGH**
+
+6/11/2021 - closes above $15
+
+7/22/2021 - closes above $20 (probably drops a bit after earnings and consolidates for a while)
+
+10/20/2021 - closes above $28
+
+June 2022 - closes above $35
+
+December 2022 - closes above $45
+
+Won't edit the above predictions unless I see a typo or something
+
+Current holdings (been building positions over time. been real crappy the last few months since I made a nice chunk in the rally earlier this year) - finally had a good day, hoping for another tomorrow :)
+
+&#x200B;
+
+https://preview.redd.it/odkyttqpzq171.png?width=1058&format=png&auto=webp&s=bc2e968907f3e905b019a7cb80b61ff7aab1164f
+
+I'll be trying to get out of the June $20 without a loss sometime in the next week or two. Other June and the July stuff I'm gonna ride for a bit and try and get some money. On the following pull back / consolidation phase I'll buy calls for the next leg.
+
+**DD and back story -**
+
+**The Good**
+
+We'll get to that part in a bit
+
+**The bad**
+
+The history: GE was a massive company, has been around forever and was known as one of the quintessential American companies. They became this massive conglomerate that bought up companies left and right leading up to the mortgage backed securities bonanza in the mid 2000's. Not sure I'll need to remind everyone what happened at the end of that (Rhymed with Semen Mothers) but GE took it particularly bad. See after the 2008 / 2009 meltdown it turned out that not only had they lost a ton of money on derivatives and other financial products but (as would become public later) they lied to investors about it on disclosures and jumped through hoops to keep investors from finding out just how bad the situation was. Add to that some really badly timed all cash acquisitions that worked out terribly and the company was about ready to go belly up.
+
+**The Ugly**
+
+There is a reason that while the whole world got its act back together after 2009, GE continued to play act a paraplegic thrown in the deep end of a pool. The stock took beating after beating as news kept coming out about acquisitions that went bad (massive write downs), accounting fraud and various other losses. After getting rid of their CEO they brought in someone else to try and turn things around, then after a very short run they replaced that guy with the current CEO Larry Culp. They basically had to bribe / beg him to take the job, getting him to leave a cushy gig at Harvard where he was basically in working retirement after having earned a reputation as a corporate turn around guru.
+
+**Making our way back to the good**
+
+While GE's stock continued to flounder Culp got busy and started to shake things up. First he started selling divisions and companies. Some of them had been with GE forever, like the lightbulb divisions, others were acquisitions (some of which only a few years old) that were sold off. This wasn't about profiting by spinning something off - it was about cutting losses and making sense out of a massive company that didn't have a functioning balance sheet. Some of the chunks that were sold were profitable and many were not. The net effect was that he cut operating expenses more than he cut operating revenue, moving free cash flow (FCF) in the right direction (albeit still negative at this point) and raising cash from the sales.
+
+They slashed the dividend to 1 penny. People were clutching their pearls and screaming! I mean... It was GE for Pete's sake. They've had a good dividend forEVER! This dragged the stock down more. But it shoved FCF in the right direction.
+
+Between significantly improved FCF and money raised from selling off divisions and assets GE managed to cut its TOTAL debt from $130 BILLION to $71 BILLION (which is about where it is right now, although they do have more than $25 billion cash on hand). Oh yeah they also own 25% of Baker Hughes (valued at about $6.5 billion, that is after they sold $1 billion worth of it recently), they are also selling GECAS (airline leasing company that owned airliners and rented them out to airlines and other companies) to the global leader in the space. In return for shedding this division, which due to structural issues and insufficient scale to create real efficiencies, was losing GE $700 million a year in FCF, GE is getting $24 billion in cash, $1 billion in cash equivalents and $6 billion worth of a company (45% of the company's stock) that happens to be beaten up at the moment but is the world's largest airline leasing company and is about to have a gang buster year as airlines struggle to find planes. Could easily see the value of that swelling and then them dumping it to pay down even more debt.
+
+**The Good - you may have to squint but it is there. I swear**
+
+GE is now a rather lean company, especially compared to the mess that existed 5 years ago. I've given you the current cash / debt position. From that alone, doesn't seem great but I do ask that you keep in mind the trend line, from $130BB to $71BB over 5 years.
+
+Today GE is made up of 4 divisions (they no longer make home appliances, it isn't one of the divisions. yes I know, they still are on the market but the stuff sold under the GE name in home appliances is by actually made by the Haier conglomerate and.... never mind):
+
+**HealthCare** \- Not sure if any of you have had an MRI but if you had you may have had the same weird experience I did. Walking into the room, kind of nervous to get this big medical test to find out what is wrong with my ::Insert body party here:: and being confronted with the biggest GE logo I have EVER seen. Embossed into the side of this MRI machine. Anyway, whether you were aware of it or not GE makes a lot of tech for healthcare. from MRI machines to ultrasounds and tons of other stuff. It is a growing business that is consistently profitable and ***something*** *:: cough cough COVID knocked us on our butt and hospitals need to retool and get better::* tells me that healthcare spending is going to be rising a lot this year and next year.
+
+**Energy -** Basically this is about steam turbines used for 20th century electricity generation (and storage in some cases). Talking huge turbines used in natural gas, oil, coal, nuclear and geothermal power plants (I think GE itself may consider Hydro power plant turbines part of this sector but I'm listing them below because that makes more sense). While not very forward looking this business has the potential to generate significant FCF over the next few years maybe even a decade or more. While some of these power sources are on their way out others (like natural gas) have seen a surge in utilization and some (nuclear) seem to be about to make a comeback. This chunk of GE is usually profitable, although not hugely so. That being said, between what happened in Texas which will require several power plants to be overhauled or replaced, existing service and new equipment contracts and the potential to grow, I think this is a worthwhile business unit to keep around.
+
+**Renewable Energy -** Some solar, a decent amount of hydro power, a growing pumped storage segment and WIND TURBINES. These electrical generators (and in the case of pumped storage - mechanical batteries) are one of the most exciting areas for me personally when looking at the GE story. GE briefly snagged the title as producing the world's largest wind turbine (14 MW) and it is the largest one that many countries have certified for use. This thing is bonkers, every rotation of the blades produces enough electricity to power roughly 4,000 homes for a DAY. It is a monster and it has been selected for use in the next phase of the world's largest offshore wind farm and the first phase of the US' first large offshore windfarm. GE also makes onshore wind turbines, they make the truly massive turbines used in huge hydro electric damns and they also make turbines for use in pumped storage\*. This segment has up till now been generation negative FCF (losing money) however it is growing by leaps and bounds and seems poised to start adding to positive FCF a little this year or next and then growing exponentially.
+
+\*Pumped storage is really cool. Basically you create a large body of water (like a lake) by using excess electricity made by solar and wind when it is available to pump water up hill. Then, when you need more electricity because it is night time or the wind isn't blowing you throw the turbine in reverse and it acts as a hydro electric damn.
+
+**Aviation** \- This is the crown jewel of GE although in a weird twist of fait it delivered a kick to the nuts just as things started turning around. Needless to go into much detail as to why a business that makes its money building and servicing jet engines might be negatively effected when air travel takes a year and a half pause. That being said GE's newest engines are showing a great track record of winning orders. Doing this DD I found out that apparently when you buy commercial airliners you get to pick what engines you want (if there are more than one option) kind of like when you buy a car and pick whether you want the in dash CD player or not. GE's engines are proving to be more efficient, more reliable and cheaper to operate than their main competitor Pratt and Whitney. That means that as everyone gets waxed and vaxed in preparation for the horney party boom we are about to witness airlines have started ordering planes again and in a big way. You see, during the covid crisis airlines didn't have many customers and what most of them did was they identified their oldest and/or most problematic aircraft and sold them off various other companies in other industries or to companies that lease aircraft to airlines when they need a few to fill a gap. Now that things are coming back online airlines are ordering more planes. As other parts of the world start to open up over time this should create sustained tail winds for this division.
+
+Oh yeah and one thing that often seems to be overlooked is that while yes, the aviation division has been beat up, management has used this as an opportunity to streamline and improve operations. Both sales and maintenance saw significant drops in revenue however the drop in FCF was smaller than would be expected because the whole time GE was improving its margins. Now as their order book starts filling up the aviation division is significantly leaner and more optimized which should mean that when the FCF starts up again this fall or this winter it should turn into a firehose.
+
+**Other points of interest**
+
+GE has announced a 1 for 8 stock split (that is a reverse split, for every 8 shares you own you will end up with 1 share that is worth 8X the pre split value). This makes sense for a few reasons.
+
+1. GE has a massive number of shares outstanding and doing this reverse split will bring its stock price (adjusted for market cap) within line with its piers and should put it in a position to re-enter the DOW. Doing so will create demand for the shares as it is added to funds that track that index.
+2. Once GE reinstates its dividend (which will be another catalyst for the stock to continue upwards) the lower share count means a slower drain on FCF since I imagine they will incrementally increase the dividend. It seems silly because it doesn't really matter how many shares except when you consider that they have so many that if you decide to go from a dividend of $0.01 to $0.10 the difference in share float would be hundreds of millions annualized in FCF. Obviously the target yield wouldn't be impacted but even this small thing can have a real impact in speeding up the debt reduction.
+3. I fully expect that as the stock price increases and then the reverse split happens GE will do a share issuance to raise a few billion to pay down the debt. I view that as a buying opportunity as any drop in share price should be short lived and I expect the resulting reduction in debt will mean net / net share prices will increase due to the issuance.
+
+On that note GE has committed to a stated target of 2.5 times EBITDA (which is the cutoff for investment grade securities) from the current 6 times EBITDA. Getting to investment grade will create increased upside pressure, that is why I'm saying the stock will go up when they issue more shares (even though there will likely be a temporary dip at that time).",nmkhyz,['GE'],0
+7829,2021-05-27,wallstreetbets,"
+
+
+On March 17, a little over two months ago, there was no volume at the Fed's RRP window. Nothing. Today, it was almost $400 billion! How do you go from zero to $400 billion in two months? Not only was today's activity at the RRP one of the largest ever, it was also THE largest non-quarter-end, non-year-end print. There's an incredible amount of cash in the Repo market right now! Clearly, the Fed took too much collateral out of the market - or - added too much cash.
+
+And while Powell & Co pretend that they can continue business as usual for years to come, the repo market is not only cracking but banks, full to the gills with inert reserves and which increase by $30 billion every week, are on the verge of pulling a Mr Creosote...
+
+and balking at even a penny of additional liquidity. How the Fed will continue to monetize debt then, when the repo system is now out of collateral, is anyone's guess.
+
+By mid-July, we’ll have even more reserves to absorb due to the debt ceiling, and while a lot of that cash will go to the o/n RRP facility, some of it will chase higher yields in the FX swap market amid a lack of demand for U.S. dollars. Three-month cross-currency bases may flip positive by mid-July, and those implied yields may drag three-month U.S. dollar Libor-OIS slightly negative
+
+Assuming inflation not only continues to rise but accelerates to the upside while bond yields are capped, we have an asymmetric risk to the downside in real yields. Precious metals and miners have long-term inverse correlation to real yields. Said simply, if and when real yields dump, watch Silver and the metals soar. I estimate the time for that scenario to play out in weeks.
+
+Consider this also . Annual mining output is roughly 800-1000 million ounces of silver a year. They use around those numbers as well 900M a year. It's a very tight market. 330 million americans. Say 10% of americans buy 100oz physical. 28usd x 100 = 2800USD quite affordable.. 10% of 330 million = 33 million 33 million x 100oz  330 million ounces off the market. That is a big supply shortage not counting in the domino effect.........
+
+
+Silver rose 35 x in the 1970s,Gold rose 8x in the 2000s. Silver jumped 12x. When inflation hit 3.5 silver hit 50 in 2011 . Follow the Smart Money. The rally in precious metals and miners has barely begun and will run for years, imho. Given the amount of currency printed out of thin air, if history is anything to go by, the gains will be enormous, especially in real terms.
+
+As a ticket here I prefer PSLV, but all ETFs essentially share the same traits in that you can invest extremely large sums of money with them and it is highly liquid to get in and out of. Only the whale investors can actually take physical out, but if they are taking it out, it’s not to bring home 1,000 oz bars to use as doorstops, but probably to transfer to a vault of their choosing. These will generally move with the price of the underlying metal. Some of these ETFs  like slv  you can buy call options with, which can provide you some upside leverage. However, the idea here is to park large sums of money through your brokerage with them to realize gains over a long term. The one major downside most of these have is you are giving your money to the trust, and the trust owns the metal not you and mostly those trusts are not favored to metal price spike .",nmkmcq,[],1
+7830,2021-05-27,wallstreetbets,"Alright so I thought of a great, terrible ,shitty, no-good road trip game to play for this sub. Of course it will be important to have someone else drive like your ~~girlfriend,~~ ~~wife~~, ~~friend~~, acquaintance who happens to be going in the same direction. 
+
+Here are the rules: you will jot down the first 10 license plates you can clearly read once on the highway towards your destination. Best if the destination is 3+ hours. Then, take the different tags that you wrote down and search to see which of the 10 have a letter combination that create a valid publicly traded ticker. 
+
+Chances are (based on my 20 minute drive today) that about 10-20% will be valid tickers that you, yourself, can invest money into. Look up all 10 tickers to see which ones represent a real publicly traded company. The rest of the tag is important too. Let's say you end up with just one tag that is a valid ticker and it's PRA2350. Congratulations, for the next 3 hours you must enter and then exit a position on ProAssurance Corporation starting with $235.00. 
+
+The goal here is to make as much money over the course of the trip as possible. You have 30 minutes initially to decide what kind of position you want to take (shares, calls, puts). For some of you with deeper pockets, you may want to modify the rules to say that you have to enter a position worth $2350 in that company, or even 2350 SHARES of that company. Game works best with another degenerate who plays against you. If you get multiple tickers in your 10 tag sample, you get to choose your play. If you get zero.. the next valid tag you see that hits has to be your play.
+
+&#x200B;
+
+Begin",nmkvme,[],0
+7835,2021-05-28,wallstreetbets," 
+
+so a bit of a preface, i'm pretty new to investing, but one thing i do know is science, so hear me out.
+
+Tesla is known as a good long term investment because of the fact that eventually we are all going to need electric cars in hope to reduce our carbon emissions as low as possible, meaning the abandonment of the internal combustion engine... or does it? recently in the past few years there have been a lot of study's released proving that synthetic fuel or fuel basically made of of hydrogen with renewable energy like wind power is actually as carbon neutral as electric engines, i think this is dooming to tesla for a few reasons.
+
+1. synthetic fuel is MUCH more convenient then electric. synthetic fuel is able to work in the internal combustion engine which means that people wouldn't have to replace their cars. the base model of the cheapest tesla is 35,000 dollars USD which a lot of family's(including mine) can't afford to spend on a new car, especially if our current one is working. so that's thousands of cars being left in the dust while they can be used and have a neutral carbon footprint.
+2. tesla problems. from what i have heard tesla's are built like sh#t, low quality and poor assembly make them prone to needing repairs, which normal car mechanics are not equipped or trained to deal with because of the obvious. also tesla's are extremely heavy, i don't really care about that but apparently that's a huge turn off for others.
+3. other industry's. so tesla and other electric car company's make electric cars, not planes or boats, so that means that those to major contributors are left out to still release a lot of co2. with synthetic fuel they can switch alongside cars making it better in that sense.
+4. car fans. so i know a lot of car enthusiasts who, all hate tesla's and wouldn't buy one if they had to. they would much rather stick to their cars like Lamborghini's and other old cars that would get left out with electric cars but would still be as usable synthetic, and considering the amount of car enthusiasts in the world and how much they affect the auto market i don't see it panning out there.
+5. timing. so no matter what number you agree on for how long it's going to take to switch completely electric it's stupid. so like i said earlier the majority of family's can't just drop thirty five k on a new car meaning it would take awhile to be able to get everyone electric plus the time and money it would take to build up the infrastructure to switch electric but considering that synthetic fuel uses the same stuff as petrol it would be much easier to keep going synthetic.
+6. back on the subject of time, i saw a study saying we could switch completely synthetic by 2024 if we tried. whomever if you look at electric you see company's like GM saying they will have 50 new electric MODELS by 2050, do we really have that time? science say's no.
+
+so if you take these reasons ( and they are not all, i have a few more ) into consideration tesla now might be a good stock with nice returns but now that synthetics are becoming more and more possible i am starting to think they might actually be our future. like i said I'm pretty new and relatively dumb on the mentality of other investors please leave your opinion below.",nml65m,[],0
+7836,2021-05-28,wallstreetbets,"With all the bullshit that went down with GameStop I’m not going to keep using Robinhood but I don’t know what app to switch to. I figure a couple retards here know what a good solution is because frankly I’m not willing to make an effort to research anything on my own and would rather have you all do it for me. So tell me what to do, stay with Robinhood and accept that they will prevent a bunch of retards from making money or should I switch to a more fair and open trading broker? You tell me.",nml83j,[],0
+7839,2021-05-28,wallstreetbets,"TLDR: Just loaded up on some Palantir Options with my sweet tax refund thanks to Uncle Sam <3.
+
+Palantir Options are dirt cheap and there is a lot of eyes on it now. Call options with 100+ day expiry and within $1 of strike are selling for less than $2 per contract. Lots of analysts very bullish on this stock. As always do your own DD.
+
+See you at the top boys.
+
+Position: $40c June 17 '22
+
+\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
+
+Palantir will MOON soon. Get on board before we take off.
+
+1. The company itself, Palantir; one of the only 2 **unicorn** startups to emerge from the defense sector, focused on national security, alongside SpaceX.
+
+A real company that has built its product for **18 years**, & **PROVEN** its products on national level (UK Vaccination), US ARMY , NAVY and soon AIRFORCE, (BP) OIL&GAS Sector, Law Agency, Mining sector (rio tinto), IBM cloud, etc.
+
+2) There were news of Palantir's Enterprise Resource Planning system with Amazon's cloud service platform Amazon Web Services, making it available to all AWS customers. AND PROVEN to be so value-adding, BP used it and saved 50 million in working capital within 2 weeks of installation, with the potential to do more if applied across their worldwide supply chain. The ERP suite can be deployed within days for all AWS customer. This is HUGE , and DOWNPLAYED last friday because of all the market shits that have been going on.
+
+3) I would also say a lot other recent PLTR news have been downplayed, and PLTR always doesn't make a huge marketing about their announcements, like Karp has said, they believe in the long term, the value of PLTR would reveal itself.
+
+4) The insider selloff has made the company undervalued. Remember when insiders were selling their 20% shares in direct listing at $7.50? How undervalued they were before people including Cathie Wood/ArkInvest started to realize and it rose to $27 within a month? You can take advantage of the insiders' selloffs of their long term held shares, infact, i think they are done (a lot were sold initially, but no selloff for last week) and we are going to the fking moon.
+
+5) All the paperhands' shares and insiders' shares are going to diamond hands like Cathie Wood, who are going to hold for years. I see Cathie Wood buying PLTR like TSLA, don't forget Cathie Wood bought TSLA in 2018 (that's some insane gains), and she is the god among all fund managers when it comes to spotting a disruptive/growth stock, she literally does this for a living and got famed as the best investor now at the age of 65.
+
+6) Cathie Wood just keep buying PLTR with 2 ARK funds, owns over 1% of Palantir, and she's not done yet. She bought at $30, $25, every $23.You are literally getting an insurance that Cathie wood would save your ass IF the stock goes under.
+
+7) It's literally inevitable for PLTR to get more contracts and increase its revenue and growth... also not forgetting the stickiness of the contracts and business, it's hard to forgo the product after u have integrated it into your business.
+
+8) In this Era of Big Data, PLTR is literally the leader in the dominating industry of the near future, which company/service is not going to use the best Data Analytics software in the future or even now?
+
+9) Proven Track Record of HUGE Growth and credibility , proven 42% revenue growth YoY, expected 45% for next quarter, AT LEAST 30% for next 5 years, words of Karp. Last Year, Karp said at least 30% for YoY and he did 42% YoY like a boss.
+
+10) Don't forget we got a $34 Price Target from Goldman Sachs after the earnings
+
+11) If investors are justifying growth stocks' value with growth, I see Palantir time and time proven overperformed growth rate as the most bullish factor. Also, its cost is going to drive down because the main costs are from employee stock options now, which will expire in the future. And the accumulation of sticky contracts, it's also easier to maintain/update software installation than installing the software initially in new companies. It also has a huge monopoly in the fast growing industry. (added point from replying a comment)
+
+12) It's ok that the some retards don't join us now, because they will eventually join us in the future, they always join after the rocket is halfway to the moon, they always do. And when that happens, we will still welcome them.",nmlb2d,['PLTR'],1
+7852,2021-05-28,wallstreetbets,"Why you should listen to me!! 
+
+I'm only saying this out of a place of love for the smooth 🧠.  I remember the pain and torment I felt when I was coaxed into believing that GME was team play and we were all going to hold until each and every one of us were millionaires. So I bit hard. I bought $10,000 worth of GME and was committed to riding the rocket until the day a frog could jump without his hind legs bumping his ass. Then I checked my account and within minutes I went from being up 3K to down 7K roughly. It stayed that way for a long time!! So I'm only reminding you out of bro code. If you have made money and you finally have the down payment of your new vehicle or can afford your next vacation with your gains, then cash them out and live life, or roll them into an asset without the crazy volatility and be pleased with 10% gains year over year for the next 10 years. The first half who sell will be sitting nice while those that don't will be sitting on a pineapple. I'm cheering for ya and wish you all free meals at Wendy's forever! FOR ONCE IN YOUR LIFE MAKE A SMART DECISION!! Good night retards!",nmm3mh,['GME'],1
+7853,2021-05-28,wallstreetbets,"I saw an ad to invest in Atlis Motor Company. Its not yet publicly traded and I was thinking of throwing some money in with the hope that it will either get bought out by a larger manufacturer or the share price will increase when they go public. I like how their vehicles look and this seemed interesting to me.
+
+Then I thought about it and thought it was a little weird that a company would advertise to invest in it to the public? Then I thought I remembered someone  told me that the general public cannot invest in a pre IPO stock because they aren't considered a sophisticated investor. Then I thought this might be some type of scam.
+
+Gonna post the link at the bottom.... if anyone knows anything about this please give me some insight. Thanks.
+
+https://www.invest.atlismotorvehicles.com/",nmm3qg,[],0
+7854,2021-05-28,wallstreetbets,"Hello everyone, I am doing my **undergraduate thesis in Economics** and I am looking for **4 statistical, econometric, neural network, SVMs, K-NN, technical analysis** and other **related models** that are applied to **market timing / return predictability / trading / quant investment**; that is to say, that as outputs they give **signals to buy or sell.** 
+
+Basically the idea is to **compare** the performance of the predictions with those of the market **(buy and hold** approach). Some requirements that I have in mind to select the models are:
+
+• That the code is published or available upon request
+
+• Theoretical model published in a journal
+
+• Empirical work on the model published: that applications have been made for different markets and / or financial instruments,
+
+• Published by authors affiliated with departments of ECON / FIN (not exclusive)
+
+• That the model is recent (not exclusive)
+
+Please help me not to disappoint my advisor, if you have any paper in mind, idea, similar research topic, among others; please do not hesitate to contact me at **alejandro.cermeno@protonmail.com,** everything helps. 
+
+&#x200B;
+
+Thanks!!",nmm4vl,[],0

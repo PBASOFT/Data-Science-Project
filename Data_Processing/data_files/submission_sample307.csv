@@ -1,0 +1,237 @@
+,created,subreddit,text,id,Organizations,Sentiment
+21,2021-05-19,investing,"**Background:**
+
+Based out of Los Angeles, California, Tattooed Chef is a plant-based, organic, non-GMO food company that grows and sells products both in private label markets and through their own branded, frozen products. The vertically integrated company was founded by Salvatorre (Sam) Galetti and started by selling “generic” products into Trader Joes under the brand “Intella International.” Sam has over 30 years of experience in the food industry. TTCF’s Chief Growth Officer Matthew Williams has also been in the food industry for over 30 years and has been everywhere from Pepsi to Odwalla and has served in various roles from sales, to marketing, to president. 
+
+**Institutional Ownership:**
+
+Being that Tattooed Chef is a recent reverse-merger and a small-cap company, institutional ownership is scarce. The two largest shareholders are UMB Bank and Falcon Edge Capital, who own 5.76% and 3.68% of the company respectively. Going into the Q2, short float is 35.11%, which I believe can act as a bullish catalyst for a squeeze.
+
+**Valuation:**
+
+I believe the stock should be worth $27.32 today.
+
+[Earnings Estimates](https://imgur.com/a/bcL0QHl) 
+
+Very few sell-side firms cover this stock, so estimates are scare. That said, I do believe these estimates will prove to be conservative. However, I will use these numbers and base my model off of these numbers.
+
+We are going to assume a risk free rate of 2.0% and a terminal rate of 2.0%. ERP of 4.7%. And a discount rate of 6.12%% (Risk free rate + (beta x ERP)).
+
+Going out to 2030 we can estimate **aggregate FCF of $379.**
+
+[FCF Estimates](https://imgur.com/a/u9VNXUZ)
+
+Now we must find the terminal value, assuming 2% in perpetuity. So, FCF2030 × (1 + g) / (Discount Rate – g) = $1,148.619 x (1 + 1.99%) ÷ (6.12% - 1.99%) = **$3,217.61**
+
+Now apply the discount rate to get **$1,836.85**
+
+Now add this back into our aggregate FCF through 2030 to get the total equity value of **$2,215.85**
+
+And divide this by shares outstanding to get fair value of **$27.32** today.
+
+**Growth Potential:**
+
+Just yesterday TTCF signed a deal with Whole Foods to sell their products. This is a big deal as it means they also get access to Amazon. Tattooed Chef is currently in 4,272 stores, but is expected to grow to over 20,000 by the end of CY2022. Currently Tattooed Chef is only sold at Target, Walmart, Costco, and Sam’s Club. Grocery stores such as Kroger and Albertsons are expected to come later this year, but that should likely happen as Target has said that “this was the fastest selling frozen product we have ever seen.”
+
+Additionally, since there are vertically integrated, this allows Tattooed Chef to potentially expand into other markets such as snacks and refrigerated foods. We do know that they are expanding over 300 different SKUs by EoY, so anything is possible!
+
+**Technicals:** 
+
+[https://imgur.com/a/YpPpLD3](https://imgur.com/a/YpPpLD3) 
+
+After breaking out of this falling wedge, which presented a fantastic buying opportunity, we retested the breakout and held. Anchoring a Fib to the most recent low shows us some possible upside targets. The POC shows us that the vast majority of shareholders are underwater currently, so any rips are unfortunately likely to be sold. That said, if we can break the 1.618 extension at $21.5, we could have smooth sailing until the POC at $24.17.
+
+[https://ir.tattooedchef.com/static-files/76eaf800-f6b0-4c43-aa72-3f098d6181e3](https://ir.tattooedchef.com/static-files/76eaf800-f6b0-4c43-aa72-3f098d6181e3)",ngf4l3,[],0
+49,2021-05-10,investing,"It seems many are trying to bail on stocks because inflation. (collectibles that we treat as currency, commodities etc). I wanted to explore is if there are certain categories of stocks that are better positioned against Inflation.
+
+So I came up with a short-list of they type of stocks I might look for in a period with volatile inflation.
+
+1. Established Brand Name. This gives the company pricing power because clients are going to buy their product because of what they are getting is also associated with the brand and not just the product. Think AAPL, MCD, KO.
+2. Commodity selling stocks, industrial sector ([https://etfdb.com/etf/RGI/#holdings](https://etfdb.com/etf/RGI/#holdings)). Think metal mines, lumber, companies that produce commodity byproducts that are used in industry (no discrete product firms, like jewelry makers).
+3. Capitalist Europe. If it goes down in the USA, it all goes down - true, but there is a place where it will go down less relative to others. So, I'm looking at European companies that do not have diversity and inclusion in their 10K. These are actually young companies that are thirsty to grow and will do anything and everything to move up. Alternatively, I look at cultures who are still capitalist, think Russia, Poland, Ireland, Estonia.
+4. Companies with more fixed-rate debt instead of floating rate debt. If the interest is fixed but there is more money in circulation the lenders are in trouble not the borrowers.
+5. Government-backed stocks. Especially those that have defense contracts. I think that bad times create civil unrest with a potential for internal and external escalation. Think Northrop Grumman, Boeing, Lockheed Martin ([https://etfdb.com/etf/DFEN/#holdings](https://etfdb.com/etf/DFEN/#holdings))
+
+What would you do if you were worried about inflation eating your gains?",n93q2k,[],0
+50,2021-05-10,investing,"Mental illness is among the most costly medical expenses in the U.S.,  and it has a high cost to employers in lost productivity. In 2019, 51.5  million adults were living with a mental illness in the U.S., and the  number of people suffering and drug costs, already in the tens of  billions of dollars annually, are projected to grow in the years ahead,  with Covid-19 compounding mental health issues globally.
+
+&#x200B;
+
+Drugs long stigmatized, such as psilocybin and MDMA, are rising in  profile as mental illness treatment options. Just last week, results  from a phase 3 trial of MDMA combined with talk therapy for  post-traumatic stress disorder showed results that were impressive.
+
+“This  is a pivotal event,” said Elemer Piros, a biotech analyst at Roth  Capital Partners who covers the emerging alternative mental health  treatment space. “It may not seem humongous, but it is one of the best  and most rigorously executed trials in the space. And the results  corroborate what we have seen time and time again from smaller studies  over the past two decades,” he said, referencing remission rates double  that of a placebo. “The magical experiences kept showing up, but no one  had the courage to take it through to regulators.”
+
+[https://www.cnbc.com/2021/05/10/psychedelic-drug-boom-in-mental-health-treatment-nears-reality-.html?\_\_source=iosappshare%7Ccom.apple.UIKit.activity.Message](https://www.cnbc.com/2021/05/10/psychedelic-drug-boom-in-mental-health-treatment-nears-reality-.html?__source=iosappshare%7Ccom.apple.UIKit.activity.Message)",n93uwi,[],0
+51,2021-05-10,investing,"Before we get into the juicy details, think for yourself: What are you shooting for? What is your financial goal? How risk-sensitive are you? Answering these questions will help to set you up for eventual success and develop your individual asset allocation strategy accordingly.
+
+Let’s get to the facts: actively trading stocks, and timing market entries and exits come with inherent risks. Missing the best 10 days in the market between 2010 and 2020 would mean an overall decline of 33% (see [*Bank of America chart*](https://www.cnbc.com/2021/03/24/this-chart-shows-why-investors-should-never-try-to-time-the-stock-market.html) below). Moreover, it is unlikely you sell your assets right before a crash and buy back at the bottom. In most cases, the worst days are followed by the best days which would put you back on square one holding your cash waiting for the crash.
+
+### Strategies to Pick Stocks
+
+Although stock-picking follows a more active approach, long-term investing means being active 1% of the time while leaving your portfolio alone for the other 99%. It is important to keep in mind that less than 10% of all public companies drive 100% of long-term stock-market returns. Therefore your mission is to find the 10% and patiently ride the wave.
+
+Some hands-on advice:
+
+* **Limited diversification**, as you cannot continuously research each company you are invested in on a regular basis. The range of 10-15 stocks is healthy, otherwise, go back to the previous section and consider passive investing.
+* **Flexible & innovative companies** can adapt their business model and expand their market potential. The companies with today’s highest market caps all have this trait in common.
+* **Don’t ignore what is familiar**, in 1966 Walt Disney was valued at $80 million and they just produced Mary Poppins turning over $30 million alone on that movie. The company was well-known and anyone could have picked up a few shares. $1000 invested back then would average you over $4 million today.
+* **Know your strengths** and profit from them. If you are mathematically gifted then focus on the fundamentals. If you work in the industry and know the competitive landscape and product lineup, do that. Find your own style of investing.
+* **Google is your friend**, look up the approval rate of the CEO on Glassdoor, read job reviews, check the company’s premises on Google street view and go on the investor relations site of the company. You need to do your own due diligence because nobody physically audits the business you invest in.
+* **Leadership and the CEO** are decisive for the long-term success of a company. If the leader of a company is also its founder and owns lots of stock in it, the interests are aligned with the other shareholders and hence money is invested more efficiently.
+* **Human** **resource management** such as low employee turnover, revenue per employee, diversity, inclusion, and so forth.
+* **Deep dive into the company**: How does it create revenue? What is its market potential? Market growth versus the overall market potential of S&P500? What are the competitive advantages? Cashflow structure? Insider selling? Check on earnings calls, shareholder letters, and sweat the fundamentals a little bit.
+* **Impact**: Does this company contribute to a better future?
+* **Don’t overpay** because even great companies can be too expensive when too much of their future earnings potential is already priced in. Microsoft’s revenue was 3x higher in 2009 than in 1999 and still, the stock had lost 50% of its value in that timeframe.
+* **Avoid** owning a stock you can’t explain or you lack conviction in.
+* **Double down** on companies that you are convinced are great investments for the long run even if you already own shares. If the business proves viable and returns are increasing, then it is likely to follow that trajectory in the near future.
+* **Hold & wait**: trade as little as possible to avoid taxes and to enjoy the runups. The shorter you hold an asset the greater the chance that you have to close the position at a loss. The magic of compound interest will do the rest for you.
+* **“Don’t lose money”** – Warren Buffett & treat every dollar as an investment.
+
+I believe that beating the market is possible if you are patient and willing to invest time. After all, the business world is like a car race. In the last quarter of the race, it becomes more evident who might win, and your odds can be calculated with minimized risk exposure. Then you invest in the top-performing racers and still reap much of the benefits.
+
+Keep in mind that most stocks underperform the market. The outsized gains of a few winners are pushing your portfolio higher and make up for any losses on the way.
+
+## Cash
+
+Oh, sweet cash sitting ducks in my account, what am I going to do with you? At current rates of around 1% (if even) it would take 70 years to double my money. By that time it is more likely that I am buried 6 feet underground. I wouldn't even get to experience my slim gains.
+
+Yet there is some upside to holding a percentage of your overall portfolio in cash. Besides, you can’t pay your expenses off by handing out your stocks. Holding some cash is in both active and passive investing approaches detrimental. I advise holding approximately 5-15% of cash as it allows you to:
+
+* Leave your portfolio in peace
+* Remain calm during market volatility
+* Jump in when prices are low and be opportunistic in the markets
+
+Buying stocks in times of recession has historically brought about outsized gains for investors. It is worth remembering, the more it hurts holding some cash in market booms the more likely you will profit from a swift down-market. The best time to hold cash is when it really hurts to do so. Holding cash allows you to be prepared, and you don’t have to worry about timing the market.
+
+&#x200B;
+
+*Full article on* [leofontana.net](https://leofontana.net)*.*",n94bfc,[],1
+52,2021-05-10,investing,"Hi all,  
+
+
+I've been a lurker and got some nice ideas form here, so thanks for that. Now it's the time for me to give something back. 
+
+I discovered in the weekend that Magnachip is being bought up in a 29$ per share deal while the price of the stock is just 24$ per share. ([https://www.magnachip.com/magnachip-enters-into-definitive-agreement-with-wise-road-capital-in-a-take-private-transaction-valued-at-1-4-billion/](https://www.magnachip.com/magnachip-enters-into-definitive-agreement-with-wise-road-capital-in-a-take-private-transaction-valued-at-1-4-billion/))  
+
+
+The deal has a definitive agreement and ""The transaction is expected to close during the second half of 2021, subject to customary closing conditions, including the receipt of shareholder and regulatory approvals"". Also ""The transaction is fully backed by equity commitments and not contingent on any financing conditions. ""  
+
+
+The way I see it it's a 20% win in less than 6 months (they said second half of the year, so most probably will be sometime September-October-November). The risks are small:
+
+Shareholders might oppose- but this is highly unlikely given the company is 78% own by institutions and the board of directors approves the deal.  
+Regulatory things might kick in: this again I think it's low because we are talking about a 1 bil company, not something the size of ARM.  
+
+
+What do you guys think? I went and put 10% of my portfolio in this, was it dumb?",n98oo3,[],0
+53,2021-05-11,investing,"If your question is ""I have $10,000, what do I do?"" or other ""advice for my personal situation"" questions, you should include relevant information, such as the following:
+
+* How old are you? What country do you live in?  
+* Are you employed/making income? How much?  
+* What are your objectives with this money? (Buy a house? Retirement savings?)  
+* What is your time horizon? Do you need this money next month? Next 20yrs?  
+* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)  
+* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)  
+* Any big debts (include interest rate) or expenses?  
+* And any other relevant financial information will be useful to give you a proper answer.  
+
+Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq
+And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.  
+
+Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered financial rep before making any financial decisions!",n9sn7g,[],1
+163,2021-05-19,investing,"I'm currently investing with some robo accounts (Betterment and Wealthfront) and am about to start a position with a firm that is subject to SEC regulation and requires that I declare and keep up to date all of my security holdings.  Because of this and the level of the position I'm entering, I'm required to integrate my brokerage accounts with their tracking system and BM/WF are not supported.  
+
+So in short, I need to move all my ETF investments to a new home.   Bit I have no idea what I'm doing... 
+
+Vanguard is on the list of supported brokerages, and from the research I've done that seems like a pretty good option (also open to other suggestions), but I'm a little confused about:
+
+1)  Is it possible to move these investments into Vanguard/somewhere else without paying fees or liquidating/reinvesting (which would trigger a rather large and taxable realized gain...) ?   How?
+
+2)  What to do with them once they are there?  Not sure what kind of account in Vanguard I should be looking at for future investments.  I'm pretty amateur at this and not looking to put a ton of effort in.  I just want something basic I can throw money into when I'm able and treat as a long term investment that will give me a balanced portfolio with an average return and charges me a low fee for that service. Right now I'm charged .25% of my overall amount invested and I'd like to keep that number if possible.   Do I need a managed portfolio?   Does Vanguard offer something simple?
+
+3) Assuming I can move my existing ETFs over, do I need to worry about liquidating the non-Vanguard ones and consolidating?  Or should I not worry about that?  If that is something I should be doing, how do I go about that?  (again, I don't want to realize gain that will be taxable)
+
+Would really appreciate any guidance!",ngg2t7,[],0
+261,2021-05-19,investing,"Hey folks!
+
+I'm part of an an investment/vc discord group and one of our mods recently started using [Aspire.app](https://Aspire.app) to share his investments with the community. After about a week, almost half the discord started using it. It's super slick & easy to use for anyone that wants to follow someone's investments or wants to share theirs to others.
+
+Wondering if anyone here has heard of them or knows of a similar tool specifically for people to easily share & follow investments? I know EToro exists for crypto but cant find anything else for public/private markets.",nggmmi,[],1
+373,2021-05-10,investing,"It seems many are trying to bail on stocks because inflation. (collectibles that we treat as currency, commodities etc). I wanted to explore is if there are certain categories of stocks that are better positioned against Inflation.
+
+So I came up with a short-list of they type of stocks I might look for in a period with volatile inflation.
+
+1. Established Brand Name. This gives the company pricing power because clients are going to buy their product because of what they are getting is also associated with the brand and not just the product. Think AAPL, MCD, KO.
+2. Commodity selling stocks, industrial sector ([https://etfdb.com/etf/RGI/#holdings](https://etfdb.com/etf/RGI/#holdings)). Think metal mines, lumber, companies that produce commodity byproducts that are used in industry (no discrete product firms, like jewelry makers).
+3. Capitalist Europe. If it goes down in the USA, it all goes down - true, but there is a place where it will go down less relative to others. So, I'm looking at European companies that do not have diversity and inclusion in their 10K. These are actually young companies that are thirsty to grow and will do anything and everything to move up. Alternatively, I look at cultures who are still capitalist, think Russia, Poland, Ireland, Estonia.
+4. Companies with more fixed-rate debt instead of floating rate debt. If the interest is fixed but there is more money in circulation the lenders are in trouble not the borrowers.
+5. Government-backed stocks. Especially those that have defense contracts. I think that bad times create civil unrest with a potential for internal and external escalation. Think Northrop Grumman, Boeing, Lockheed Martin ([https://etfdb.com/etf/DFEN/#holdings](https://etfdb.com/etf/DFEN/#holdings))
+
+What would you do if you were worried about inflation eating your gains?",n93q2k,[],0
+451,2021-05-19,investing,"Hey everyone, hope your week is going well. Two part question here.
+
+1. This past year, we were able to withdraw retirement funds (401k, IRA, etc.) under C19 without penalty as part of economic relief. Are we still able to do this?
+2. If one were getting a better return from a personally invested portfolio and/or real estate, are there any reasons why you shouldn't withdraw your retirement funds and put them into your own personal investment portfolio before retirement age? The point being pursuing financial independence and early retirement.
+
+Before anyone says anything, I know that every ship has a good captain in fair weather. I'm not under any illusions about my capacity as an investor. Let's just assume for the sake of this hypothetical scenario that I can in fact beat the investment options in my retirement fund.",ngi2w6,[],0
+610,2021-05-10,investing,"Have a general question?  Want to offer some commentary on markets?  Maybe you would just like to throw out a neat fact that doesn't warrant a self post?  Feel free to post here! 
+
+This thread is for: 
+
+* General questions
+* Your personal commentary on markets
+* Opinion gathering on a given stock
+* Non advice beginner questions
+
+Keep in mind that this subreddit, and this thread, is not an appropriate venue for questions that should be directed towards your broker's customer support or google.  
+
+If you would like to ask a question about your personal situation or if you are asking for advice please keep these posts in the daily advice thread as that thread is more well suited for those questions.
+
+Any posts that should be comments in this thread will likely be removed.",n8zy4a,[],1
+615,2021-05-19,investing,"As part of the deal to merge Discovery with AT&T's WarnerMedia unit, all classes of Discovery stock will be consolidated in a single class of stock. This seems like a risky but interesting arbitrage play given the prices of Discovery shares and the high likelihood the merger will go through.
+
+Discovery currently has three classes of shares:
+
+Discovery Class A (DISCA) trading at $33.11
+
+Discovery Class B (DISCB) trading at $77.98
+
+Discovery Class C (DISCK) trading at $31.04
+
+&#x200B;
+
+DISCA is voting stock, DISCB is supervoting stock and DISCK is nonvoting stock. DISCB has too small a float to short safely but going long DISCK and short DISCA seems a reasonable arb. Thoughts ?",ngj9q3,[],0
+896,2021-05-20,investing,"I have been meaning to work on my technical analysis skills since market nowadays favors the day traders and scalpers compared to swingers and long investors.
+
+To be honest, I am more interested in learning price action, how to read volume, L2 compared to learning about different indicators
+
+Any channel recommendations?
+
+I typed in youtube ""technical analysis tutorial for beginners""
+
+**It seems to me Rayner Teo should be my go to guy, I always hear good things about him and seen his videos when I was serious about TA also he has many playlists for me to go over but their are also other channels on here like:**
+
+The Trading Channel
+
+TheChartGuys
+
+DisciplinedTrader
+
+The Traveling Trader
+
+Coin Bureau
+
+Decisive Trading
+
+Tradesociety.com
+
+Trading 212
+
+The Secret Mindset
+
+Wysetrade
+
+Trade Pro
+
+Whats your guys' thoughts on the above list? Any known scammers on there or people I should avoid? What about your favorite traders that you vouch by, maybe I mis",ngmbko,[],1
+921,2021-05-20,investing,"Hello everyone! This is my first time posting to this sub. I am looking into whether or not a Roth IRA makes sense for me, but I am having some trouble determining whether or not I qualify for one. I read up on the irs.gov site about qualifications but honestly I’m still a bit confused. I called Fidelity, my broker, to ask their opinion and they said yes that I qualify but something still seems off to me. The irs.gov site seems to say that if you are covered by a retirement plan by your employer, such as a 403B, then the max income that you can have is much lower than my income. So I’m just confused. Yes I am covered by my employer for a 403B, and my adjusted gross income last year was $95,000. I will file my income taxes this upcoming year as single head of household. Do I qualify for a Roth IRA? Thank you advance!",ngmlr3,[],0
