@@ -1,0 +1,188 @@
+,created,subreddit,text,id,Organizations,Sentiment
+14,2021-05-28,stocks,"I initiated this yesterday at 9am from Fidelity to bring over my entire Robinhood account. I called Fidelity about 1.5 hours after to try and stop it and they said they couldn't because they already sent the request to Robinhood. I fucking EMAILED Robinhood because they are complete pieces of shit that cannot be called and they said they cannot cancel it. WTF!
+
+Edit: these fucking bots said it was too short. I've tried having RH calling me, which is possible through the app. I did it 10 times yesterday and every time it said I'm next in line, Nothing! No fucking Call!!! This company is fucking criminal. How FINRA allows a ""brokerage"" like this is complete bullshit!!!",nmyv8x,[],0
+35,2021-05-28,stocks,"So options for the most part expire every 3rd Friday. I know some are every Friday. But what I am confused by, is I was told today that your option does not expire on Friday, that it actually expires Saturday. So say I write a call on Friday with the goal of it expiring worthless, and after hours Friday it spikes and goes in the money, it executes and sells my shares.
+
+Is this true? I was always told at end of business day on the date of expiry that its worthless if its otm.",nmyyp1,[],0
+107,2021-05-28,stocks,"Company with great revenues, dividends and a LOT of land. Why would anybody want to get in this for cheap? I see you. We all see you. I’ll find all the stocks you are trying to buy for cheap, and I’ll buy all of them. Then I’ll give back half of my gains to the community.",nmzbdc,[],0
+109,2021-05-28,stocks,"I’ll keep it simple. 
+As of now the only way Russians can buy spce is from the St Petersburg exchange. St Petersburg is known to buy company stocks and re-sell them without the permission of the company… 
+
+April 2018: 
+“Under Russian securities laws, a Russian stock exchange can unilaterally admit foreign securities to trading without the consent of the issuer of such securities. In the last several years, the St. Petersburg Stock Exchange admitted securities of a number of foreign companies to trading in a similar fashion.”
+
+So big investors don’t trade there for that reason.. they could be forced to sell their shares, and when they buy shares they have to pay “extra” on them. Our Russian friends always complain about the stock price, when they try to buy we post one number… they see another “higher to buy” lower to sell etc… because of a “delay”.
+
+Anyways, if you noticed during the flight many Russian investors attended the after party of SPCE. Then days later SPCE announced they’ll officially list in the Moscow exchange. 
+
+Is this a coincidence? No. Russian investors are interested in this company, next week we will see “fresh” money buying shares and holding them. 
+
+We will see a difference, just watch!",nmzbs7,['SPCE'],0
+117,2021-05-28,stocks,"I have traded GPS a few times recently and kicked myself for not loading up on GPS this week. Then, I saw that GPS is down $2. 
+
+I could see this partnership helping WMT's stock (or at least their sales) if the home line items are more affordable than they would be in GAP's stores. But, do you think that consumers would be turned off from buying clothing from a store that sells items in WMT? Granted, they're home items. But, there's the ""cheap"" association.",nmzf3d,[],0
+127,2021-05-28,stocks,"The interest rate is defined as the proportion of an amount loaned which a lender charges as interest to the borrower, normally expressed as an annual percentage. It is the rate a bank or other lender charges to borrow its money, or the rate a bank pays its savers for keeping money in an account
+
+If they rise them to fight inflation
+
+where to invest if  they'd rise interest rates? Gold? Food stocks? Silver?",nmzgs1,[],0
+245,2021-05-28,stocks,"I am retired and have sat too long in a work plan with 60% in VITWX.  Educating myself, seems better options.  Did change About 10% to VIIIX.  Want to switch out of work plan for more options.  Is it too late to get into VOO at all time highs? Or room to grow. I would see this as long term- 5-10 yrs.  Thank you for any help!  I learn so much from the answers everyday!.",nn0kyk,[],1
+267,2021-05-28,stocks,"# Motivation
+
+Among the sea of shitposts, memes, gain and loss porn, Wallstreetbets also has some of the best DD I have ever read. From $PRPL, to steel gang, to $GME and beyond, there has been a wealth of incredible DDs on WSB. Unfortunately, there are two issues with DD posted on WSB:
+
+- It is easy to miss the high quality DD among the memes and shitposts
+- Once a post has reached the front page and gained thousands of upvotes, the ticker being recommended may already have seen the implied vol on call options shoot up enormously. Sometimes, depending on the ticker, the popularity of a DD post may even move the stock price itself.
+
+Given the wealth of information contained in these DD posts, it would be useful to have an alert system to inform whether a new DD post has been created, and particularly, one that is perceived to be of high enough quality to reach the front page through Reddit's upvote system. 
+
+# My Solution: a Python WSB DD scraper and alert system
+
+I built a Python tool that scrapes WSB every 5 minutes throughout the day and searches through posts which are flaired as ""DD"" and are 30-35 minutes old. Several pieces of information are extracted from those posts, such as their score, the authors' karma, average comment sentiment, as well as a couple engineered features. This information is stored in a dataframe which contains all the day's DD posts. The user can elect to receive email alerts if one of those DD posts reaches the front page (defined as the top 25 posts when sorted under ""Hot""). In addition, the user has the ability to include a model to predict which posts will reach the front page in advance based on the features being scraped. If included, the tool will send email alert when a post is scraped which has a high probability of reaching the front page.
+
+If interested, you can access the code here:
+https://github.com/CuriousByNature/WSBFrontPageAlert
+
+The README has a full set of instructions for executing the code. The repository also comes with a sample model object trained to predict whether posts will reach the front page using only on one of my engineered features. The model is able to make predictions with just under 90% out-of-sample precision.
+
+
+I hope you guys enjoy this tool as much as I have!",nn0q2o,[],0
+279,2021-05-28,stocks,"this is why I pay attention to technicals and the charts, trust it. absolute easy play on the short and puts, we have some left for it back to 19-20 
+
+we thank you ape redditors, very fast profits and on a Friday and month end.",nn0uzl,[],1
+294,2021-05-28,stocks,"It's lunchtime, Wall St time; time to discuss overlooked stocks that no one is talking about:  Overlooked & possibly undervalued stocks.
+
+All the rules of r/Stocks still apply, so please see the sidebar or [click here.](https://www.reddit.com/r/stocks/about/rules)
+
+**But here's the twist** you can't bring up meme stocks that have been hotly discussed in the past several weeks.  Those stocks that everyone has been talking about, you can't bring up here or they'll be autoremoved.  Why?  It's to keep this thread pure & focused.
+
+The current [list of meme stocks can be found here.](https://www.reddit.com/r/stocks/wiki/meme-stocks)  So don't mention these stocks in this post or your comment will be removed.
+
+Need ideas on which stocks to discuss, [try a screener like this one.](https://finviz.com/screener.ashx?v=111&f=cap_largeover,fa_epsqoq_o10,fa_grossmargin_o70,fa_salesqoq_o10&ft=2)
+
+Important links:
+
+* [Previous discussions on overlooked stocks](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoverlooked&restrict_sr=on&include_over_18=on&sort=new&t=all)
+* [General discussions](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Adiscussion&restrict_sr=on&include_over_18=on&sort=new&t=all)
+* [Rate my portfolio threads](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Arate+my+portfolio&restrict_sr=on&sort=new&t=all)
+* [Check out our wiki](https://www.reddit.com/r/stocks/wiki/index)
+
+After discussing your stock here, feel free to create a post on r/Stocks with all the information you might have just learned.
+
+Thanks & enjoy!",nn109h,[],1
+298,2021-05-28,stocks,"The relentless four-day winning streak in [AMC Entertainment Holdings Inc.](https://www.bloomberg.com/quote/AMC:US) is drawing even more blood from short sellers.
+
+The movie theatre’s 120% surge so far this week has dealt investors betting against it roughly $1.3 billion in losses, according to financial analytics firm S3 Partners. The stock, which has become a poster child for retail traders using Twitter and Reddit to squeeze short-sellers, soared 36% Thursday to the highest level since May 2017.
+
+**Source:** [https://www.bloomberg.com/news/articles/2021-05-27/amc-s-four-day-surge-slaps-short-sellers-with-1-3-billion-loss](https://www.bloomberg.com/news/articles/2021-05-27/amc-s-four-day-surge-slaps-short-sellers-with-1-3-billion-loss)",nn10tr,[],1
+349,2021-05-28,stocks,"https://www.prnewswire.com/news-releases/nasdaq-approves-high-tides-application-to-list-301301434.html
+
+* High Tide becomes the first major publicly traded cannabis retailer to announce it has been approved to trade on Nasdaq.
+
+* High Tide shares expected to begin trading on Nasdaq on June 2nd, 2021
+
+* High Tide has received approval from Nasdaq to list its common shares for trading under the symbol ""HITI""",nn1cu3,[],0
+358,2021-05-28,stocks,"Hello everyone,
+
+I am posting here since it was removed from [r/investing](https://www.reddit.com/r/investing/). I apologize to the mods if this is the right content for this sub.
+
+With the popularity of stock trading at an all-time high, I just wanted to give a small PSA and a note about my experience joining stock trading groups on discord.
+
+Long story short, I have searched around a few different discords to join a community I could learn more about stocks and trading. I can say without a doubt, that the vast majority of them have the following scheme attached to it:
+
+1. Are pump and dumps where the admin, claiming to be an expert, will post a daily watchlist to encourage people to buy into stocks they already have a position in.
+2. Are setup to convince people they need to subscribe to daily video and ""secret advice"" in order to make a quick buck.
+
+Some of the people that run these discords are competent and I can see use manipulation tactics to come off as an authority on subject matters and encourage group think to forward the two objectives above. If you understand and learn the fundamentals of investing, you can tell they lack substance, but people green to investing can easily be enticed.
+
+Be careful and research into communities you plan on joining. A few common red flags of toxic stock discords I have found include:
+
+1. Stocks recommendations that constantly change on a daily basis.
+2. Cult-like praise for public figures like Elon Musk.
+3. Using words and tactics to encourage group-think (Such as ""stock fam"" and encouraging the posting of daily profits).
+4. Due diligence that amounts to ""This company looks dope, they have a cool product,"" or ""Their product is the future"" without providing any knowledge of fundamentals, such as finance and balance sheet.
+
+This may sound silly, but there are people out there who are looking to capitalize hard on this craze. Some will come off as smart and can be charismatic. If you haven't read into the fundamentals of finance and investing, their advice looks very enticing.
+
+If you are looking for a community to join, be careful and always scrutinize people's suggestions.",nn1f5a,[],1
+381,2021-05-28,stocks," 
+
+[https://www.barchart.com/stocks/quotes/EBAY/put-call-ratios](https://www.barchart.com/stocks/quotes/EBAY/put-call-ratios)
+
+I was looking on barchart at put/call ratios, and notices Ebay had a strangely high number of puts given that it has been going up and the TA looks good. Bought 100 shares this morning at market open and it is currently rising nicely.
+
+[https://www.barchart.com/stocks/quotes/EBAY/options](https://www.barchart.com/stocks/quotes/EBAY/options)
+
+As we can see here, many of the puts placed today alone have been on strikes that are currently OTM. EBay is going up and showing no signs of stopping. This will force all of these shorts to buy the stock, creating a surge of volume enough to create a short squeeze.",nn1mcp,[],0
+424,2021-05-28,stocks,"I hold a good bit of ViacomCBS in the form of their class B shares ($VIAC). I was checking the chart this morning and \[this article came up about the upcoming dividend.\]([https://finance.yahoo.com/news/viacomcbs-declares-quarterly-cash-dividends-211700426.html](https://finance.yahoo.com/news/viacomcbs-declares-quarterly-cash-dividends-211700426.html)) What interests me is the following info.
+
+&#x200B;
+
+""ViacomCBS Inc. (NASDAQ: VIAC; VIACA) today announced that its Board of Directors has declared a quarterly cash dividend of $0.24 per share on both its Class A and Class B Common Stock. The dividend will be payable on July 1, 2021 to stockholders of record at the close of business on June 15, 2021.
+
+&#x200B;
+
+At the same time, the Board of Directors also declared a quarterly cash dividend of $1.5493 per share on its 5.75% Series A Mandatory Convertible Preferred Stock (NASDAQ: VIACP). The dividend will be payable on July 1, 2021 to stockholders of record at the close of business on June 15, 2021.""
+
+&#x200B;
+
+Currently, VIAC is trading at about $42.50/share, while VIACP is trading at about $74/share, so VIACP carries less than a 2x premium over VIAC. But the dividend is 6x as much as the class A and class B shares. Can I just sell all my VIAC and get a 6x higher dividend on July 1?",nn20k5,[],0
+435,2021-05-28,stocks,"https://www.nasdaq.com/articles/should-you-review-recent-insider-transactions-at-carvana-co.-nyse%3Acvna-2021-05-28
+
+With the pandemic winding down and no moat inviting constant competition from Vroom, KMax, Hertz, etc. now CVNA is about to take the hit of people returning to dealerships. Throughout the whole pandemic that they sold as a driving force for app based cars salesmen they did not enhance their profitability at all. Now the insiders are getting out it looks like a light breeze could blow down the house of cards.",nn2523,[],1
+465,2021-05-28,stocks,"I'd like some varied opinions and information on what some of you would do in this situation. I'd like to spit it up into a few things, but mostly would like a solid passive revenue stream with a tiny section (~5-10%) of the portfolio for growth.
+
+All suggestions are welcome and I appreciate any help in this regard. Thank you!",nn2efp,[],1
+502,2021-05-28,stocks,"I'm an inexperienced investor who bought NVDA 3 months ago, mostly because of the chip shortage situation and also because I think it's a great company with a bright future.
+Now I'm 25% in the green and while I still don't have the knowledge to understand the market maybe I'm thinking it's a bit overvalued, so thinking about selling.
+
+What do you think? What are you doing? (surely many of you own NVDA)",nn2ox3,[],0
+508,2021-05-28,stocks,"I'm currently invested in VGT (80%) and VTI (20%) and I'm thinking of liquidating my positions and opening poisitions with AMZN, GOOG, MSFT, and AAPL exclusively. Still haven't decided the weights of each within the portfolio, although I'd probably do something like 30% AMZN, 30% AAPL, 25% MSFT, 15% GOOG.
+
+I work in tech and see those four companies as money printers for the foreseeable future, so I'd rather have positions with them than most of VGT or VTI, although people much smarter than me say that's a big investment no-no.
+
+Thoughts?",nn2qne,['AAPL'],0
+537,2021-05-28,stocks,"Best dividend stocks? Looking for a dividend stock with a lot of upside. I am eyeing MRK, but this thing is gonna dip to 70$ pretty soon. I honestly can't find any bargain right now. I think TRIN might be good, but there could be an entry point at $13 in a few months. I think VST would be a safe bet, but I am not sure if it's gonna go up 15% any time soon.",nn2zdg,[],1
+565,2021-05-28,stocks,"Hello r/stocks
+
+I'm a grown ass man that knows essentially nothing about finances despite being financially well off. So I decided to learn and blow 200$ on a brokerage app (WS). I figured if I fuck up and mess up I don't care, it's just 200$ and it'll be like going to the casino.
+
+So I put 200$ in a company that I figured is doing really bad right now but is likely going to be doing better after the pandemic.
+
+Two weeks later I'm at 217.28$ and that's pretty cool I guess.
+
+Just wanted to share.",nn38p8,[],0
+585,2021-05-28,stocks,"[https://dividendmanager.wordpress.com/top-100-dividend-stocks-ranking/](https://dividendmanager.wordpress.com/top-100-dividend-stocks-ranking/)
+
+&#x200B;
+
+All of them are overvalued right now. The only ones that might be worth buying are VZ and T. Is there a list that only includes dividend stocks that have dipped recently or far away from their all-time highs? Almost every website recommend you to buy stocks that have already peaked, and that's probably the worst way to beat the S&P 500. The only way to beat the S&P 500 is to find deep value and buying at the right time.",nn3erk,[],0
+610,2021-05-28,stocks,"Costco last year entered China. They have one store in Shanghai. That one store achieved 400,000 memberships in a year. They have plans to add stores in China,two more in the next year. Taiwan and Japan have shown the locals there love Costco as much as in North America.",nn3lxm,[],1
+663,2021-05-28,stocks,"FXI, POTX, XLF and ARKK. I think all of them will outperform the S&P 500 in the next 1-2 months. Do you have any other recommendation? I am trying to see if there's anything else that's worth buying this month. Feel free to suggest me anything. Thanks.",nn42e5,[],0
+683,2021-05-28,stocks,"Hi,
+
+Looking for an app where you can select particular companies and basically it gives a run off of what that business is doing:
+
+So it could say when these events are such as
+
+Earnings Q4
+Release of new product
+CEO presentation
+
+Things like that really. A way of following the businesses within your portfolio without having to add certain events to a notepad and sometimes miss earnings calls or valuable presentations. An easy way to do DD basically.",nn488n,[],0
+770,2021-05-28,stocks,"So we are starting a long weekend, and yet the market is bullish af and couldnt be working against VIX better. Absolutely contrary to what some articles were saying. 
+
+So, could this be a good sign that we are very likely to start the first day of June super bullish? I would think that people would cash out today to get ready to rebalance for the next month if the prevailing sentiment and volatility werent like this right now.",nn5082,[],0
+828,2021-05-28,stocks,"I bought a couple of stocks back in February when prices were at an all time high. Soon afterwards, both stocks dropped in price and I was left holding the bag.
+
+I said ""fuck it"" and decided it wasn't a loss but a buying opportunity, so I bought more shares of each at lower prices. Eventually I was able to cost-average both stocks down to more realistic levels. And since yesterday, I've broken even on both stocks once again.
+
+Moral of the story? Patience and cost-averaging down works.",nn5pr7,[],0
+842,2021-05-28,stocks,I guess I’m just new to this and wondering how a stock price can go up or down if I am not able to trade it. Wouldn’t that mean that no one else is allowed to trade it either? Rendering it at a standstill until next market open? Or are the scales just tipped that heavily in favor of the wall street boys that they can make moves over the weekend? I’m just not finding a ton of quality explanations from my google searches right now.,nn5tcm,[],0
+962,2021-05-28,stocks,"Is there any way to avoid being forced to sell when a company does a reverse split?    A while back I bought 600 shares at over $30 a share.   The stock tanked and when it was less than $1.00 they did a reverse split.  I went from 600 shares to 62 shares.   Now the stock has climbed up some, but it's still way less than the original.   Was there anyway I could have avoided being forced to sell those shares back to the company at a loss?",nn6res,[],0
+994,2021-05-28,stocks,"Salutations, 
+
+What’s the consensus on Ford? I’m wondering on the huge drop between pre market and the rest of the trading day. Seems a huge pre market run up and then sell off.
+
+Opinions on a mid 15 run up next week or is Ford in for a further dive. Any technical opinions greatly appreciated",nn6zok,[],1

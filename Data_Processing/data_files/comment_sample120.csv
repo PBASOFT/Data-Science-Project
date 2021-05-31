@@ -1,0 +1,1473 @@
+,comment_id,created,parent_id,subreddit,text,Organizations,Sentiment
+0,gzfept9,2021-05-25,t1_gzetgpb,algotrading,AKA the bible :),[],1
+1,gzfeqzc,2021-05-25,t1_gzfept9,algotrading,"Beep. Boop. I'm a robot.
+Here's a copy of 
+
+###[The Bible](https://snewd.com/ebooks/the-king-james-bible/)
+
+Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)",[],0
+2,gzfexiy,2021-05-25,t1_gzewjzg,algotrading,"""The Theory and Practice of Econometrics 2nd Edition"" by Judge et al.  If you are serious, this is a killer reference book for the shelf as well as comprehensive.",[],0
+3,gzfgdqg,2021-05-25,t3_nkfx7f,algotrading,"I read the whole book a couple of years ago, and while they certainly don't go into a tonne of detail (such that you'd have any idea exactly as to what they are doing) there were some things that it seems to point out, if my memory is accurate (please correct where appropriate):
+
+1. The time frame of the algorithm is critical. Their first major advance and first time they made money, was because the took their existing approach and changed from making long term predictions to making short-medium term predictions
+2. Gathering as much data as possible and then developing algorithms that can leverage as much of that data that is useful, by combining the signals in some way. This implies to me a form of ensemble learning or possibly reinforcement learning, and having a really good way of estimating the accuracy and reliability of each signal
+3. Effectively managing bet size (not just timing)
+4. Knowing when to exit a position is critical, taking a profit or minimizing a loss
+5. Cutting trading and execution costs to a minimum is very important. They outline how a bug in the code was costing them a tonne of money until it was removed by a new engineering hire, IIRC. Their edge per trade is tiny, so cutting costs while maintaining a large transaction volume is how they make a lot of their money.
+6. Moving to a single underlying algorithm across different instruments allowed them to concentrate on making one really good model vs a number of mediocre ones.
+7. They were initially much more successful in other markets and it took them a long while to make money in equities. I forget whether it was bonds or commodities or something else where they were first successful, but it wasn't in equities.",[],0
+4,gzfhiw0,2021-05-25,t3_nkfx7f,algotrading,Tell us more about this bookmark,[],0
+5,gzfhk28,2021-05-25,t1_gzd0iw4,algotrading,"This is good and on a similar topic - [https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654) it's about a single trader in the UK who made a fortune trading (and manipulating) the order book, and was subsequently blamed for the flash crash.",[],1
+6,gzfik4t,2021-05-25,t1_gzco60o,algotrading,I didn't think it was very good. Just mini biographies of the key players that gloss over the most interesting parts of their lives.,[],1
+8,gzfj9sc,2021-05-25,t1_gzf7f4t,algotrading,"It would, don't worry about it. You just have to ""sacrifice"" the first x bars to adjust the function, then it'll sync with Binance.",[],1
+9,gzfjg42,2021-05-25,t1_gzfj9sc,algotrading,"Thank you :) I'll try it then, what library would you recommend?",[],1
+10,gzfjw0w,2021-05-25,t3_nkfx7f,algotrading,"So if exhaustive data is locked up, and the truly advanced algorithms require massive data handling and ML computations, implying the use of a super cluster or so forth, and the ALGO is under lock and key meaning we have to develop our own, doesn’t that make it seem kinda futile?
+
+Can I successfully ALGO trade as an individual?",[],0
+11,gzfjyp2,2021-05-25,t1_gzfjg42,algotrading,"I have no idea since I don't use any, but you can use one of the popular ones. I'm a Node dev. My knowledge about Python is very limited.",[],0
+12,gzfk679,2021-05-25,t1_gzfjyp2,algotrading,Thank you so much for your help!,[],0
+13,gzfkm9m,2021-05-25,t3_nkp6xx,algotrading,"NFT's are stupid, this post is spam, and you should feel bad.",[],0
+14,gzfkn0h,2021-05-25,t3_nkp6xx,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+15,gzfkwf8,2021-05-25,t3_nkj9m7,algotrading,"If your algo doesn't address volatility, you will eventually be unpleasantly surprised.",[],0
+16,gzfmh9p,2021-05-25,t1_gzd2f2j,algotrading,"I see, in that case we're kinda on the same approach then. I guess the difference is just the nitty gritty detail of the frameworks.
+
+> The issue I see of applying this to crypto is the volatility of crypto the probability distribution of the 'force' is too wide. You can surely make profitable trades but not optimized trades.
+
+This was an issue I found as well but in my case I solved it by using smaller time window but not too small, otherwise it becomes unstable.
+
+> How are you finding state transition matrix
+
+My state transition is dynamic depending on live data. It's more like reading the current state matrix & the model will come up w/ a coefficient that decides whether to buy/hold/sell. That is, the coefficient basically scores the persistence of current data trend in a given time window and by how strong/weak is the current trend on either side, downward or upward trend. This is why I built my own math transform function but still ensuring that it satisfies Markov process properties, etc.",[],1
+18,gzfnfrv,2021-05-25,t3_nkw74d,algotrading,"151 Trading Strategies  
+https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3247865",[],0
+19,gzfnlby,2021-05-25,t1_gzfexiy,algotrading,"i didn't use that textbook when i was in university, but I'll definitely check it out.",[],1
+20,gzfnsr2,2021-05-25,t3_nkfx7f,algotrading,"Listened to the audio book.
+
+It’s mostly about Jim Simmon’s life, not so much his work examples (if I can remember). More about how mathematicians are taking basic broker jobs starting back in the day.
+
+It was a great listen, don’t know how much it’ll help your trading though.",[],0
+21,gzfo3m1,2021-05-25,t1_gz8nwqm,algotrading,"Yeah the algorithm only handles longs currently, hadn't thought about implementing shorts but I'm gonna build that out and see how the backtests look - thanks for the idea. If you want to see how to invest in the ETF, I'd recommend checking out [Quantbase](https://getquantbase.com).",[],0
+22,gzfp8lh,2021-05-25,t1_gze1odj,algotrading,"This is my understanding of how most people trade at IMC/Optiver/DRW for what it's worth. Most hft has so much infrastructure that it's a bit silly to say you have personal ownership of all the pnl generated from the desk. Are the prop shops you're talking about smaller ones that e.g don't cover a lot of markets?
+
+
+To clarify the above point, if I have an interesting idea I would most likely have to loan a dev to get this built. This algo most likely can be used in other desks - we aren't that silo'd. In this case how does the pnl breakdown? Do I get a cut of the proceeds from other desks too?",[],1
+23,gzfpbre,2021-05-25,t1_gzeepst,algotrading,"Well all of that is good but IMO the best is how much money ur account has before & after running ur algo (even if it's only paper trading for the time being)? Along w/ say Sharpe ratio, drawdown, etc, they're all just statistics & u can't fully know the full extent of ur algo's capability until u find out how much ROI it's actually giving u.",[],1
+24,gzfqosm,2021-05-25,t1_gzfmh9p,algotrading,"Intresting.
+
+How do you factor in the change in state in between the placing order and execution of the said order? Do you buy/sell on the market or push limit orders.",[],1
+25,gzfqwwh,2021-05-25,t3_nkw74d,algotrading,"Two of my favorite blog posts on this topic:
+
+https://financial-hacker.com/please-send-me-a-trading-system/
+
+https://financial-hacker.com/build-better-strategies-part-2-model-based-systems/",[],1
+27,gzfrplt,2021-05-25,t3_nkzyvz,algotrading,"[Polygon.io](https://Polygon.io) provides a real-time US equities feed through our various [Websocket channels](https://polygon.io/sockets). You can get each individual tick (trades/quotes) and aggregates on a second or minute level. 
+
+Disclaimer: I work there
+
+Feel free to ask any questions about it : )",[],0
+28,gzfrqyw,2021-05-25,t3_nkdvhu,algotrading,"You can download historical option pricing from Robinhoods API. 
+Its only in Python though, but I wrote an R script to handle it all and to just source the python when requirwd.",[],0
+29,gzft6cx,2021-05-25,t3_nk2uw6,algotrading,"You could research/design/optimize/backtest strategies using vectorized tools (numpy et al) and only then code it to run on ib_insync. On top of that,  you could do another tool  mimicking ib when working with ib_insync but it would be only to double check results so speed would not be an issue - could be done in python. 
+
+For any backtesting data availability is key and IB is not an easy source. So probably you need a module to pull, organize and store data as well. Also can be done in python as IB throttling is the bottleneck anyway.",[],1
+30,gzftli9,2021-05-25,t3_nkfx7f,algotrading,Quantifiably the best book I've never read,[],1
+123,gzeepst,2021-05-25,t1_gz7u24o,algotrading,"As for me, I check the standard deviation, win rate, minimum, 1st quartile, median, mean, 3rd quartile, and maximum return per trade. What other metrics should I be looking at? Given a large enough sample size and using probability theory, I feel very comfortable with these metrics. What would you recommend as far as other metrics go?",[],0
+124,gzef5pa,2021-05-25,t3_nkfx7f,algotrading,Looks like it would be good but if no strategy what's the point other than selling dreams?,[],1
+125,gzehq1d,2021-05-25,t3_nkq55z,algotrading,Upwork has all kinds of people,[],0
+126,gzeio3j,2021-05-25,t1_gywyajs,algotrading,"Hey u/nysypy!  
+Really interesting! Could you share some examples?",[],1
+127,gzek705,2021-05-25,t1_gzedkvx,algotrading,"Yeah, I know, its been used for quite some time. I just used it as an example to demonstrate that the data can be very different from the typical price/fundamentals/sentiment/etc. data that are available for the average Joe.
+
+Also, the same principles apply to data as to strategies themselves (to some extent); Once any one player has been shown to gain an edge using a certain type of dataset, the others will follow suit and start acquiring similar data. As more and more parties use a particular type of data, the edge of the said data gets largely priced out, eventually.
+
+This is probably the case with satellite imagery at present.",[],1
+128,gzekxdr,2021-05-25,t3_nkdzmn,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+129,gzel64j,2021-05-25,t3_nkrat4,algotrading,"When you say ""increase the hard number"" I assume you mean the distance from the entry price. In which case, this could make sense as you've widened the amount of space for volatility which could have been taking you out of trades too early.
+
+Now, if you mean you literally increased the price of the stop (shortening the difference from entry price) - this too could have similar results, as cutting losses early typically performs better over time than say taking profits early.
+
+Hard number stop losses like this are really likely to succumb to over fitting, so I'd be careful.",[],0
+130,gzeldch,2021-05-25,t1_gz97nhk,algotrading,what is there to develop? Front running is illegal. It does not happen in the context of HFT market making.,[],0
+131,gzemje1,2021-05-25,t1_gzec3xi,algotrading,"> >  Don't write your backtesting engine
+>
+> I agree most the suggestion you made except this.
+
+Why do you disagree with this?",[],0
+133,gzen910,2021-05-25,t3_nkgnt6,algotrading,"Just try tradestation and easy language, pretty similar in simplicity to thinkscript.",[],1
+134,gzenie1,2021-05-25,t3_nkfx7f,algotrading,Just watch $SHAK w Josh on CNBC @halftime!!,[],1
+135,gzenuz5,2021-05-25,t3_nkfx7f,algotrading,"Anyway, I have always treated decentralized projects with some concern, due to their value is not backed by  something worthy. $RAPTOR seems more stable.",[],1
+136,gzeo8fq,2021-05-25,t3_nkfx7f,algotrading,"No talk about algos, mostly about personal relationships of people involved with Ren Tech and the Medallion Fund.",[],0
+137,gzeoigx,2021-05-25,t1_gzeldch,algotrading,Brokerage front-running is illegal. Payment for order flow is not illegal. Is a third party forbidden by law to buy information from a broker and then use it along with its potetially faster speeds and colocation to make profits?,[],1
+138,gzep152,2021-05-25,t3_l9k2pl,algotrading,"fellas what do you think about MRJOBSFINDER? They are creating a revolutionary Binance Smart Chain based ecosystem with a burning mechanism and MRJF coin. lookms like a actually! Good start for the team, what do you think?",[],1
+139,gzern26,2021-05-25,t1_gzeoigx,algotrading,"Yes, that is the definition of front running. The third party that buys the order HAS to fill the order at NBBO or better at the time of receipt. The speed advantage the participant has comes into play after your order has filled and the participant wants to lay off risk.",[],1
+140,gzerw1t,2021-05-25,t1_gzb37gb,algotrading,"Why do you think an RL bot is a bad choice for the execution?
+
+ One can still use whatever funky indicators, transition matrices, trends or forecasts as the input for such a bot to make the decision.",[],0
+141,gzescrk,2021-05-25,t1_gzc3v7s,algotrading,We don’t know whether Medallion used the exact same strategy for all those years. I dare to say they got new strategies/algorithms that replaced older ones,[],0
+142,gzesud6,2021-05-25,t1_gzemje1,algotrading,"If you want your secrecy maintained, better do it within your system.
+
+It is easy to backtest with your own scripts. There are plenty of references or open source you can modify and test it.",[],1
+143,gzesv23,2021-05-25,t1_gzdokie,algotrading,which book is that by de prado?,[],0
+144,gzet0y4,2021-05-25,t1_gzed2lh,algotrading,"Okay well I got confused when you said 'pay yourself' rather than saying taking profits. I usually associate 'Paying yourself' with you paying yourself through the business. Taking profits out of an account is up to you. Sorry about my confusion.
+
+To answer your question: I wouldn't take any money out until you get into the six-figure range. If the strategy you have is actually profitable, then leave the money in there for as long as possible and grow it as much as you can. Eventually you'll size up your lots big enough to see the returning monthly profit be considerably more than what it costs for you to live per month. Once that starts to happen then you can start regularly taking money out of your account (in my eyes). Uuntil you get there, I would just let the money grow.",[],0
+145,gzet7as,2021-05-25,t1_gzern26,algotrading,"No one said the party has to violate Reg NMS. Doesn't the old ""go buy everything before the buy order has arrived to the exchange and then place the sell order"" work anymore?
+
+I would imagine this happening in the following scenario
+1. The trader places a buy market order with the broker for some stock. (Let's say the order is large enough)
+2. Let's say the current NBBO for the asset is X for bid and Y for the offer.
+2. The broker has to route that order to the exchange and fill him within that range
+3. The broker forwards that information to some HFT firm that uses this information to buy the offer before the client's order arrives, then places sell orders at the top of the book with a few cents markup. 
+4. The client's order arrives and starts executing agains the HFT's sell orders
+
+
+Is that kind of behavior illegal? Which step am I getting wrong?",[],0
+146,gzetg24,2021-05-25,t1_gzcrfl0,algotrading,">  understand how 2 different orthogonal domains do magic.
+
+Bisection: https://en.wikipedia.org/wiki/The_Act_of_Creation
+
+https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/",[],0
+148,gzetgpb,2021-05-25,t1_gzesv23,algotrading,https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=nodl_,[],0
+149,gzetwrj,2021-05-25,t1_gz0hhgg,algotrading,"Yep, that's right.",[],1
+150,gzev61w,2021-05-25,t1_gzet7as,algotrading,"You're wrong at step 3. Actually step 3-4 are basically the same. The order is sent to the HFT, hft fills out of inventory and is now short. They can't alter/change the nbbo before filling the order once they have received it. The order also doesn't go from broker->hft->exchange. The exchange is completely cut out of this transaction",[],0
+151,gzevhgg,2021-05-25,t3_nkul4a,algotrading,"Welcome to algo trading :)
+
+Unfortunately, yes data quality is one of the biggest issues and it’s not easy to solve.",[],0
+152,gzevw27,2021-05-25,t1_gzev61w,algotrading,"I see. Thank you for the explanation.
+
+This basically comes down to HFT being able to buy/sell at better prices at some other times - market making, as you mentioned above.
+
+What is the conflict of interest of payment for order flow that everyone keeps talking about then? From what you're saying, the hft is the one actually taking the risk there (in a way)
+
+Fundamentally, the client has nothing to lose if the executing party is forced to execute within the nbbo",[],0
+153,gzew2x4,2021-05-25,t3_nkul4a,algotrading,"Afaik binance doesnt provide indicator data through their api. You can use a technical analysis library to calculate indicator values yourself (e.g. ta4j) from the price data you get from binance.
+
+The indicator values from taapi probably slightly differ because different exchanges dont have the exact same price movement for the same asset",[],0
+154,gzewhkp,2021-05-25,t1_gzek705,algotrading,Not quite as satellite imagery IN GENERAL has been around for years but not at the resolution and refresh frequency that is coming online now. This is area is evolving quickly at the moment.,[],0
+155,gzewjzg,2021-05-25,t1_gze38li,algotrading,a university textbook on econometrics,[],0
+156,gzewllb,2021-05-25,t1_gzet0y4,algotrading,Thanks for your answer /u/hevea_brasiliensis,[],0
+157,gzexdq3,2021-05-25,t1_gzevw27,algotrading,"HFT is making a bet that they'll be able to buy it back at a better price than they sold it to the customer at (or scratch it) so they are taking on principal risk. Generally speaking should make no difference to the unsophisticated customer, but a sophisticated customer might miss out on best-ex opportunities (think mids). Also, the PFOF providers only guarantee price up to 10k shares IIRC so if you're a larger customer, thinks might not work out so well for you.
+
+I'm not sure there are any good conflict of interest arguments? Can you link an example?",[],0
+158,gzey7me,2021-05-25,t1_gzexdq3,algotrading,"I suppose you just listed a few of them, like further from the mid order execution and loosing guarantees in case of a large number of shares. But I don't see why execution quality wouldn't be a property of brokers and exchanges as well, it very much depends on who's buying and selling there, as far as I understand.
+
+I always thought front-running was a argument, but since the firms aren't even allowed to use the order flow information, I'm all out of ideas. 
+
+I suppose investopedia had a mention of a conflict of interest, but I think it might be solved by the various regulations imposed by the SEC over the years.
+ https://www.investopedia.com/terms/p/paymentoforderflow.asp",[],1
+159,gzey8xd,2021-05-25,t1_gzdokie,algotrading,"I read something like this from some comments on HN, so it’s speculation, but might be of interest:
+
+Basically all the quant funds try to buy all the “alternative” data they can, to the point where most people are already looking at most of these data sources. Sometimes people end up collecting more data than they can really make inference from.
+
+Supposedly some of Rentech’s edge comes from an infrastructure that takes in as much data as possible and tries to extract signals from it automatically. So it’s less about the team finding some new swanky datasets and finding a signal from this, but more like researchers and developers refining this automated pipeline which is fed more and more data.",[],0
+160,gzeypxi,2021-05-25,t1_gzey8xd,algotrading,"Not sure which part you’re indicating is hearsay - the stuff about rentech having propriety data is definitely a rumour as far as I’m concerned. And the actual signal extraction is hard, but it has to be a combination of the data and the methods used to extract that data. No?
+
+Edited for typo",[],0
+161,gzezbwl,2021-05-25,t1_gzeypxi,algotrading,"My apologies, I intended to say that the comments from HN are hearsay, not what you said! The data processing is surely vital, but perhaps alternative data is not as alternative as people think, and maybe some funds could be trying to make use of more data than they can handle.",[],0
+162,gzezlbr,2021-05-25,t1_gzdhhxi,algotrading,"I laughed when I read something like ""the algo developed an unusual taste for potatos""",[],0
+163,gzezv1c,2021-05-25,t1_gzdxq6e,algotrading,"""risk free"" isn't risk free, I've worked for two of these in the last list and both have losing days and weeks (though rarely a losing month).
+
+What's the difference between ""adding liquidity"" and the ""market making"" you mention?",[],0
+164,gzf00pi,2021-05-25,t1_gzenuz5,algotrading,Stop with the BS spam,[],0
+165,gzf0enp,2021-05-25,t1_gzezbwl,algotrading,"I completely agree with your last statement - most funds don’t have the teams or knowledge to make proper use, and the edge provided by data tends to decay quickly as more people get their hands on it. In the book I think it even mentions that Rentech will try to estimate capacity of certain strategies and maximize it so that no one else can find and access that edge. 
+
+If you think about it as a 2x2 matrix where you have “Old” Data and “New” Data across the x with “Old” and “New” Methods on the y, good quant firms need to be focusing in the top right. Those in the bottom right will hit limits on the data they can extract from new data with old techniques, top left will run into limitations on old data even with new techniques, and the old/old quadrant will simply die (or are more likely long term fundamental investors).",[],0
+166,gzf17fn,2021-05-25,t1_gzf0enp,algotrading,I like your interpretation,[],1
+167,gzf258h,2021-05-25,t3_nkul4a,algotrading,Why don't you calculate it yourself? It's very easy to do.,[],1
+168,gzf2dvg,2021-05-25,t1_gzey7me,algotrading,"> further from the mid order execution and loosing guarantees in case of a large number of shares
+
+Neither of these are conflicts of interest though.",[],1
+170,gzf2qh0,2021-05-25,t3_nkul4a,algotrading,"Don't scrape, you would achieve nothing.
+
+The best way is to stream the ticks and write or use a technical indicator library of your choice to get what you want. Since the candles are based on 'binning' of executed orders values within a particular timeframe, there's a high probability that your and Binance indicators would not match when your measuring time is small. If you trust the tick data and if you are sure of all the default parameters of a 'ready-made' indicator, then you should trust the indicator values. The other way is to simply implement the indicators so that you trust them 100%.",[],0
+171,gzf2t32,2021-05-25,t3_neu15d,algotrading,Follow,[],0
+172,gzf2v5u,2021-05-25,t1_gzew2x4,algotrading,"From what I understood is that Taapi is Binance only.
+
+Also, I have thought about using some external libraries like you mentioned, do you have a good tutorial for it? I'm scared it will be really complex and hard.
+
+Thank you so much.",[],1
+173,gzf34e3,2021-05-25,t1_gzf2dvg,algotrading,"The client wants to be executed in the best way possible, the broker might assist him/her by doing internal matches with the opposite side or routing to exchanges with smaller spreads, more liquidity (considering such a fair broker exists, that doesn't exploit rebate schemes, etc)
+
+Aren't HFTs incentivised to execute as low as possible while still remaining in the NBBO? 
+
+Isn't that a conflict of interest in a way? Clients and HFTs are both interested in the same thing, but with opposing outcomes",[],0
+174,gzf353j,2021-05-25,t3_nkboc0,algotrading,"Signal generation: simpler = better
+
+But for modelling, complexity could be better. For example order book models. You dont want a naive algo that gives surface level replication. I worked on an algo that looked at how orders would affect order book, and needless to say the naivety caused failure lol. So a model should be complex enough to capture the microstructure.
+
+Also testing methodology can get complex. Instead of testing historically, test on samples and then use gbm/monte-carlo to test million+ paths. Take average of parameters then refine out of sample. Rinse, repeat",[],0
+176,gzf3p27,2021-05-25,t1_gzf34e3,algotrading,"> doing internal matches with the opposite side
+
+In a zero fee world, I don't think this realistically happens anymore. All orders all sold to internalizers (and disclosed as such)
+
+>outing to exchanges with smaller spreads, more liquidity
+
+Nbbo rules, orders are sold to internalizers not routed to market so you're getting a better execution compared to the DISPLAYED liquidity which is all that matters. Interacting with non-displayed liquidity isn't a feature of retail brokerages. You'll need to go with a DMA provider for that (and pay for the execution)
+
+>Aren't HFTs incentivised to execute as low as possible while still remaining in the NBBO?
+
+HFTs are incentivized to get the most order flow, they do this by providing the best price improvement to the broker. Better the price improvement, the larger % of volume they receive from said broker. Every two weeks, brokers compare PFOF providers PI data to determine who gets what % of order flow.",[],0
+177,gzf3tq2,2021-05-25,t1_gzerw1t,algotrading,"The cost function can be very tricky to design. You cannot simply use maximizing networth as a cost function because it might not learn anything most of the time or it will consider hodl as most optimal strategy and would not be optimal.
+
+Also, an inherent problem with RL is, it works optimally on known cases ie the data pattern or trend it has seen in the past. Which generally due to stochasticity wouldn't  be as optimal.
+
+Another reason is the issue of the changin environment and action space choices.
+
+Generally in RL the environment is stable meaning and the action choices has the same outcomes in almost all cases. In case of stock market when the agent moves to a new state the environment changes drastically, say if the stock is at all time high or has a very steep rise it wouldn't have optimal strategy then. In short, the movement of the agent would change the environment itself and consequently the rules of the environment. Also there is no guarantee that the learned strategy is an optimal one as everytime you train the strategy changes slightly and in a stochastic environment it can have a cascading effect.
+
+ These issues might not look too complex at first but these are the problem that is currently preventing RL from industry use.",[],0
+178,gzf3uc8,2021-05-25,t1_gzf2qh0,algotrading,"Thank you so much for the reply, that's what I'm really scared of, getting different values than Binance, I don't want that at all.
+
+Also, I'm curious why you are against scraping lol",[],0
+179,gzf4m52,2021-05-25,t1_gzf3p27,algotrading,"This is great info. Thank you for the insights.
+Is there a public source from where you got all this information or is it from work-related experience?",[],1
+180,gzf4vrh,2021-05-25,t3_nhxzv2,algotrading,"To large extent depends on your plans and intentions; your ultimate goal and what are you trying to achieve.  
+If you are (i) institutional size and plan to trade $1B depo, (ii) pitching some boutique hedge fund, or (iii) working on high-level deck-presentation for investors - can work out comparing to T-bills.
+
+If you are retail trader (accts up to $100K) and developing algo for personal use, just take top-5 strategies on C2 or Darwinex - their metrics would be your best benchmarks.",[],0
+181,gzf5cot,2021-05-25,t1_gzewllb,algotrading,You're welcome!,[],1
+182,gzf7f4t,2021-05-25,t1_gzf258h,algotrading,I feel like calculating it myself would not give me the same values as Binance have ;(,[],1
+183,gzf8597,2021-05-25,t3_nkw35f,algotrading,"You need an API licence key from iqfeed
+
+I use pyiqfeed...his examples on GitHub will get you going
+
+Not sure about other programming languages though 
+I'm not that great of a developer, so my solutions are often the summation of examples and tutorials I found online 
+
+Hope that helps",[],1
+184,gzf8bff,2021-05-25,t1_gzf3uc8,algotrading,I am just against scraping Binance. Some real shitheads have written the backfrontendend.,[],0
+185,gzf8e9c,2021-05-25,t1_gzf8bff,algotrading,"Ah yes, agreed!",[],0
+186,gzf95e4,2021-05-25,t1_gzf4m52,algotrading,decade worth of being in the weeds of microstructure,[],0
+187,gzfa0c0,2021-05-25,t1_gzdcf49,algotrading,"Interesting, what kind of ML techniques performs well? Non parametric I assume. Knn,  boosting, neural nets, hidden markov models? Just wondering. Thanks",[],1
+188,gzfawzo,2021-05-25,t3_nkw74d,algotrading,Pornhub’s comment section is pretty good. Motley Fool is a close second.,[],1
+189,gzfbcs9,2021-05-25,t1_gzdhhxi,algotrading,"\> may have been minimized so as not to scare off the layperson reader with too much math talk
+
+&#x200B;
+
+I think it is because the author had no idea what algos they were using.",[],0
+190,gzfbnv9,2021-05-25,t3_nkfx7f,algotrading,"I prefer to invest some more cash in growth tokens like $50CENTS and be sure that my asset will make big X, than put money in any useless systems.",[],0
+191,gzfc48y,2021-05-25,t1_gzezv1c,algotrading,"market making in derivatives = gain from the spread. classic market making on stocks and futures = orders from clients for the execution service.
+
+the strategy that adds liquidity as rentech does is high frequency statistical arbitrage.",[],1
+192,gzfd22p,2021-05-25,t1_gzcxt4i,algotrading,It all adds up.,[],1
+193,gzfd7z9,2021-05-25,t3_nkfx7f,algotrading,Strategies so good they sell them.,[],1
+194,gzfdqzt,2021-05-25,t3_nkw74d,algotrading,It'll make her look more manly than she already does.,[],0
+196,gzfdsx7,2021-05-25,t3_njhxpj,algotrading,Is this your bot that backtested 10% in one day?,[],1
+197,gzfe674,2021-05-25,t1_gzdokie,algotrading,"Exactly. Their data is key, the book points out the mountain of data they have on everything from price data to weather patterns to satellite photos, and a bunch of other stuff that you'd never think of. One hedge fund was able to figure out that LI was getting bought by MSFT by just looking at the flight logs of private jets between seattle and wherever LI is.",[],0
+198,gzfe7x1,2021-05-25,t3_njxd84,algotrading,"Well done, thanks for sharing.",[],1
+199,gzfenz9,2021-05-25,t1_gzel64j,algotrading,"I appreciate your response. What I did is calculated all the results within a certain trading period to see when it starts to underperform and then put a “if the trade length is 100 bars, close it” which helped a bunch. 
+
+Then I increased the SL to a number I thought was crazy( increasing the difference between the entry price and the sl) and it kept improving the results. As mentioned, it only hit the stoploss .5% of all the trades and as you said, my hope was it allowed the system to test if it worked. How would I test if this is overfitting? Test with different data sets yes?",[],0
+200,gzfept9,2021-05-25,t1_gzetgpb,algotrading,AKA the bible :),[],1
+201,gzfeqzc,2021-05-25,t1_gzfept9,algotrading,"Beep. Boop. I'm a robot.
+Here's a copy of 
+
+###[The Bible](https://snewd.com/ebooks/the-king-james-bible/)
+
+Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)",[],0
+202,gzfexiy,2021-05-25,t1_gzewjzg,algotrading,"""The Theory and Practice of Econometrics 2nd Edition"" by Judge et al.  If you are serious, this is a killer reference book for the shelf as well as comprehensive.",[],0
+203,gzfgdqg,2021-05-25,t3_nkfx7f,algotrading,"I read the whole book a couple of years ago, and while they certainly don't go into a tonne of detail (such that you'd have any idea exactly as to what they are doing) there were some things that it seems to point out, if my memory is accurate (please correct where appropriate):
+
+1. The time frame of the algorithm is critical. Their first major advance and first time they made money, was because the took their existing approach and changed from making long term predictions to making short-medium term predictions
+2. Gathering as much data as possible and then developing algorithms that can leverage as much of that data that is useful, by combining the signals in some way. This implies to me a form of ensemble learning or possibly reinforcement learning, and having a really good way of estimating the accuracy and reliability of each signal
+3. Effectively managing bet size (not just timing)
+4. Knowing when to exit a position is critical, taking a profit or minimizing a loss
+5. Cutting trading and execution costs to a minimum is very important. They outline how a bug in the code was costing them a tonne of money until it was removed by a new engineering hire, IIRC. Their edge per trade is tiny, so cutting costs while maintaining a large transaction volume is how they make a lot of their money.
+6. Moving to a single underlying algorithm across different instruments allowed them to concentrate on making one really good model vs a number of mediocre ones.
+7. They were initially much more successful in other markets and it took them a long while to make money in equities. I forget whether it was bonds or commodities or something else where they were first successful, but it wasn't in equities.",[],0
+204,gzfhiw0,2021-05-25,t3_nkfx7f,algotrading,Tell us more about this bookmark,[],0
+205,gzfhk28,2021-05-25,t1_gzd0iw4,algotrading,"This is good and on a similar topic - [https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654) it's about a single trader in the UK who made a fortune trading (and manipulating) the order book, and was subsequently blamed for the flash crash.",[],1
+206,gzfik4t,2021-05-25,t1_gzco60o,algotrading,I didn't think it was very good. Just mini biographies of the key players that gloss over the most interesting parts of their lives.,[],1
+208,gzfj9sc,2021-05-25,t1_gzf7f4t,algotrading,"It would, don't worry about it. You just have to ""sacrifice"" the first x bars to adjust the function, then it'll sync with Binance.",[],1
+209,gzfjg42,2021-05-25,t1_gzfj9sc,algotrading,"Thank you :) I'll try it then, what library would you recommend?",[],1
+210,gzfjw0w,2021-05-25,t3_nkfx7f,algotrading,"So if exhaustive data is locked up, and the truly advanced algorithms require massive data handling and ML computations, implying the use of a super cluster or so forth, and the ALGO is under lock and key meaning we have to develop our own, doesn’t that make it seem kinda futile?
+
+Can I successfully ALGO trade as an individual?",[],0
+211,gzfjyp2,2021-05-25,t1_gzfjg42,algotrading,"I have no idea since I don't use any, but you can use one of the popular ones. I'm a Node dev. My knowledge about Python is very limited.",[],0
+212,gzfk679,2021-05-25,t1_gzfjyp2,algotrading,Thank you so much for your help!,[],0
+213,gzfkm9m,2021-05-25,t3_nkp6xx,algotrading,"NFT's are stupid, this post is spam, and you should feel bad.",[],0
+214,gzfkn0h,2021-05-25,t3_nkp6xx,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+215,gzfkwf8,2021-05-25,t3_nkj9m7,algotrading,"If your algo doesn't address volatility, you will eventually be unpleasantly surprised.",[],0
+216,gzfmh9p,2021-05-25,t1_gzd2f2j,algotrading,"I see, in that case we're kinda on the same approach then. I guess the difference is just the nitty gritty detail of the frameworks.
+
+> The issue I see of applying this to crypto is the volatility of crypto the probability distribution of the 'force' is too wide. You can surely make profitable trades but not optimized trades.
+
+This was an issue I found as well but in my case I solved it by using smaller time window but not too small, otherwise it becomes unstable.
+
+> How are you finding state transition matrix
+
+My state transition is dynamic depending on live data. It's more like reading the current state matrix & the model will come up w/ a coefficient that decides whether to buy/hold/sell. That is, the coefficient basically scores the persistence of current data trend in a given time window and by how strong/weak is the current trend on either side, downward or upward trend. This is why I built my own math transform function but still ensuring that it satisfies Markov process properties, etc.",[],1
+218,gzfnfrv,2021-05-25,t3_nkw74d,algotrading,"151 Trading Strategies  
+https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3247865",[],0
+219,gzfnlby,2021-05-25,t1_gzfexiy,algotrading,"i didn't use that textbook when i was in university, but I'll definitely check it out.",[],1
+220,gzfnsr2,2021-05-25,t3_nkfx7f,algotrading,"Listened to the audio book.
+
+It’s mostly about Jim Simmon’s life, not so much his work examples (if I can remember). More about how mathematicians are taking basic broker jobs starting back in the day.
+
+It was a great listen, don’t know how much it’ll help your trading though.",[],0
+221,gzfo3m1,2021-05-25,t1_gz8nwqm,algotrading,"Yeah the algorithm only handles longs currently, hadn't thought about implementing shorts but I'm gonna build that out and see how the backtests look - thanks for the idea. If you want to see how to invest in the ETF, I'd recommend checking out [Quantbase](https://getquantbase.com).",[],0
+222,gzfp8lh,2021-05-25,t1_gze1odj,algotrading,"This is my understanding of how most people trade at IMC/Optiver/DRW for what it's worth. Most hft has so much infrastructure that it's a bit silly to say you have personal ownership of all the pnl generated from the desk. Are the prop shops you're talking about smaller ones that e.g don't cover a lot of markets?
+
+
+To clarify the above point, if I have an interesting idea I would most likely have to loan a dev to get this built. This algo most likely can be used in other desks - we aren't that silo'd. In this case how does the pnl breakdown? Do I get a cut of the proceeds from other desks too?",[],1
+223,gzfpbre,2021-05-25,t1_gzeepst,algotrading,"Well all of that is good but IMO the best is how much money ur account has before & after running ur algo (even if it's only paper trading for the time being)? Along w/ say Sharpe ratio, drawdown, etc, they're all just statistics & u can't fully know the full extent of ur algo's capability until u find out how much ROI it's actually giving u.",[],1
+224,gzfqosm,2021-05-25,t1_gzfmh9p,algotrading,"Intresting.
+
+How do you factor in the change in state in between the placing order and execution of the said order? Do you buy/sell on the market or push limit orders.",[],1
+225,gzfqwwh,2021-05-25,t3_nkw74d,algotrading,"Two of my favorite blog posts on this topic:
+
+https://financial-hacker.com/please-send-me-a-trading-system/
+
+https://financial-hacker.com/build-better-strategies-part-2-model-based-systems/",[],1
+227,gzfrplt,2021-05-25,t3_nkzyvz,algotrading,"[Polygon.io](https://Polygon.io) provides a real-time US equities feed through our various [Websocket channels](https://polygon.io/sockets). You can get each individual tick (trades/quotes) and aggregates on a second or minute level. 
+
+Disclaimer: I work there
+
+Feel free to ask any questions about it : )",[],0
+228,gzfrqyw,2021-05-25,t3_nkdvhu,algotrading,"You can download historical option pricing from Robinhoods API. 
+Its only in Python though, but I wrote an R script to handle it all and to just source the python when requirwd.",[],0
+229,gzft6cx,2021-05-25,t3_nk2uw6,algotrading,"You could research/design/optimize/backtest strategies using vectorized tools (numpy et al) and only then code it to run on ib_insync. On top of that,  you could do another tool  mimicking ib when working with ib_insync but it would be only to double check results so speed would not be an issue - could be done in python. 
+
+For any backtesting data availability is key and IB is not an easy source. So probably you need a module to pull, organize and store data as well. Also can be done in python as IB throttling is the bottleneck anyway.",[],1
+230,gzftli9,2021-05-25,t3_nkfx7f,algotrading,Quantifiably the best book I've never read,[],1
+323,gzeepst,2021-05-25,t1_gz7u24o,algotrading,"As for me, I check the standard deviation, win rate, minimum, 1st quartile, median, mean, 3rd quartile, and maximum return per trade. What other metrics should I be looking at? Given a large enough sample size and using probability theory, I feel very comfortable with these metrics. What would you recommend as far as other metrics go?",[],0
+324,gzef5pa,2021-05-25,t3_nkfx7f,algotrading,Looks like it would be good but if no strategy what's the point other than selling dreams?,[],1
+325,gzehq1d,2021-05-25,t3_nkq55z,algotrading,Upwork has all kinds of people,[],0
+326,gzeio3j,2021-05-25,t1_gywyajs,algotrading,"Hey u/nysypy!  
+Really interesting! Could you share some examples?",[],1
+327,gzek705,2021-05-25,t1_gzedkvx,algotrading,"Yeah, I know, its been used for quite some time. I just used it as an example to demonstrate that the data can be very different from the typical price/fundamentals/sentiment/etc. data that are available for the average Joe.
+
+Also, the same principles apply to data as to strategies themselves (to some extent); Once any one player has been shown to gain an edge using a certain type of dataset, the others will follow suit and start acquiring similar data. As more and more parties use a particular type of data, the edge of the said data gets largely priced out, eventually.
+
+This is probably the case with satellite imagery at present.",[],1
+328,gzekxdr,2021-05-25,t3_nkdzmn,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+329,gzel64j,2021-05-25,t3_nkrat4,algotrading,"When you say ""increase the hard number"" I assume you mean the distance from the entry price. In which case, this could make sense as you've widened the amount of space for volatility which could have been taking you out of trades too early.
+
+Now, if you mean you literally increased the price of the stop (shortening the difference from entry price) - this too could have similar results, as cutting losses early typically performs better over time than say taking profits early.
+
+Hard number stop losses like this are really likely to succumb to over fitting, so I'd be careful.",[],0
+330,gzeldch,2021-05-25,t1_gz97nhk,algotrading,what is there to develop? Front running is illegal. It does not happen in the context of HFT market making.,[],0
+331,gzemje1,2021-05-25,t1_gzec3xi,algotrading,"> >  Don't write your backtesting engine
+>
+> I agree most the suggestion you made except this.
+
+Why do you disagree with this?",[],0
+333,gzen910,2021-05-25,t3_nkgnt6,algotrading,"Just try tradestation and easy language, pretty similar in simplicity to thinkscript.",[],1
+334,gzenie1,2021-05-25,t3_nkfx7f,algotrading,Just watch $SHAK w Josh on CNBC @halftime!!,[],1
+335,gzenuz5,2021-05-25,t3_nkfx7f,algotrading,"Anyway, I have always treated decentralized projects with some concern, due to their value is not backed by  something worthy. $RAPTOR seems more stable.",[],1
+336,gzeo8fq,2021-05-25,t3_nkfx7f,algotrading,"No talk about algos, mostly about personal relationships of people involved with Ren Tech and the Medallion Fund.",[],0
+337,gzeoigx,2021-05-25,t1_gzeldch,algotrading,Brokerage front-running is illegal. Payment for order flow is not illegal. Is a third party forbidden by law to buy information from a broker and then use it along with its potetially faster speeds and colocation to make profits?,[],1
+338,gzep152,2021-05-25,t3_l9k2pl,algotrading,"fellas what do you think about MRJOBSFINDER? They are creating a revolutionary Binance Smart Chain based ecosystem with a burning mechanism and MRJF coin. lookms like a actually! Good start for the team, what do you think?",[],1
+339,gzern26,2021-05-25,t1_gzeoigx,algotrading,"Yes, that is the definition of front running. The third party that buys the order HAS to fill the order at NBBO or better at the time of receipt. The speed advantage the participant has comes into play after your order has filled and the participant wants to lay off risk.",[],1
+340,gzerw1t,2021-05-25,t1_gzb37gb,algotrading,"Why do you think an RL bot is a bad choice for the execution?
+
+ One can still use whatever funky indicators, transition matrices, trends or forecasts as the input for such a bot to make the decision.",[],0
+341,gzescrk,2021-05-25,t1_gzc3v7s,algotrading,We don’t know whether Medallion used the exact same strategy for all those years. I dare to say they got new strategies/algorithms that replaced older ones,[],0
+342,gzesud6,2021-05-25,t1_gzemje1,algotrading,"If you want your secrecy maintained, better do it within your system.
+
+It is easy to backtest with your own scripts. There are plenty of references or open source you can modify and test it.",[],1
+343,gzesv23,2021-05-25,t1_gzdokie,algotrading,which book is that by de prado?,[],0
+344,gzet0y4,2021-05-25,t1_gzed2lh,algotrading,"Okay well I got confused when you said 'pay yourself' rather than saying taking profits. I usually associate 'Paying yourself' with you paying yourself through the business. Taking profits out of an account is up to you. Sorry about my confusion.
+
+To answer your question: I wouldn't take any money out until you get into the six-figure range. If the strategy you have is actually profitable, then leave the money in there for as long as possible and grow it as much as you can. Eventually you'll size up your lots big enough to see the returning monthly profit be considerably more than what it costs for you to live per month. Once that starts to happen then you can start regularly taking money out of your account (in my eyes). Uuntil you get there, I would just let the money grow.",[],0
+345,gzet7as,2021-05-25,t1_gzern26,algotrading,"No one said the party has to violate Reg NMS. Doesn't the old ""go buy everything before the buy order has arrived to the exchange and then place the sell order"" work anymore?
+
+I would imagine this happening in the following scenario
+1. The trader places a buy market order with the broker for some stock. (Let's say the order is large enough)
+2. Let's say the current NBBO for the asset is X for bid and Y for the offer.
+2. The broker has to route that order to the exchange and fill him within that range
+3. The broker forwards that information to some HFT firm that uses this information to buy the offer before the client's order arrives, then places sell orders at the top of the book with a few cents markup. 
+4. The client's order arrives and starts executing agains the HFT's sell orders
+
+
+Is that kind of behavior illegal? Which step am I getting wrong?",[],0
+346,gzetg24,2021-05-25,t1_gzcrfl0,algotrading,">  understand how 2 different orthogonal domains do magic.
+
+Bisection: https://en.wikipedia.org/wiki/The_Act_of_Creation
+
+https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/",[],0
+348,gzetgpb,2021-05-25,t1_gzesv23,algotrading,https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=nodl_,[],0
+349,gzetwrj,2021-05-25,t1_gz0hhgg,algotrading,"Yep, that's right.",[],1
+350,gzev61w,2021-05-25,t1_gzet7as,algotrading,"You're wrong at step 3. Actually step 3-4 are basically the same. The order is sent to the HFT, hft fills out of inventory and is now short. They can't alter/change the nbbo before filling the order once they have received it. The order also doesn't go from broker->hft->exchange. The exchange is completely cut out of this transaction",[],0
+351,gzevhgg,2021-05-25,t3_nkul4a,algotrading,"Welcome to algo trading :)
+
+Unfortunately, yes data quality is one of the biggest issues and it’s not easy to solve.",[],0
+352,gzevw27,2021-05-25,t1_gzev61w,algotrading,"I see. Thank you for the explanation.
+
+This basically comes down to HFT being able to buy/sell at better prices at some other times - market making, as you mentioned above.
+
+What is the conflict of interest of payment for order flow that everyone keeps talking about then? From what you're saying, the hft is the one actually taking the risk there (in a way)
+
+Fundamentally, the client has nothing to lose if the executing party is forced to execute within the nbbo",[],0
+353,gzew2x4,2021-05-25,t3_nkul4a,algotrading,"Afaik binance doesnt provide indicator data through their api. You can use a technical analysis library to calculate indicator values yourself (e.g. ta4j) from the price data you get from binance.
+
+The indicator values from taapi probably slightly differ because different exchanges dont have the exact same price movement for the same asset",[],0
+354,gzewhkp,2021-05-25,t1_gzek705,algotrading,Not quite as satellite imagery IN GENERAL has been around for years but not at the resolution and refresh frequency that is coming online now. This is area is evolving quickly at the moment.,[],0
+355,gzewjzg,2021-05-25,t1_gze38li,algotrading,a university textbook on econometrics,[],0
+356,gzewllb,2021-05-25,t1_gzet0y4,algotrading,Thanks for your answer /u/hevea_brasiliensis,[],0
+357,gzexdq3,2021-05-25,t1_gzevw27,algotrading,"HFT is making a bet that they'll be able to buy it back at a better price than they sold it to the customer at (or scratch it) so they are taking on principal risk. Generally speaking should make no difference to the unsophisticated customer, but a sophisticated customer might miss out on best-ex opportunities (think mids). Also, the PFOF providers only guarantee price up to 10k shares IIRC so if you're a larger customer, thinks might not work out so well for you.
+
+I'm not sure there are any good conflict of interest arguments? Can you link an example?",[],0
+358,gzey7me,2021-05-25,t1_gzexdq3,algotrading,"I suppose you just listed a few of them, like further from the mid order execution and loosing guarantees in case of a large number of shares. But I don't see why execution quality wouldn't be a property of brokers and exchanges as well, it very much depends on who's buying and selling there, as far as I understand.
+
+I always thought front-running was a argument, but since the firms aren't even allowed to use the order flow information, I'm all out of ideas. 
+
+I suppose investopedia had a mention of a conflict of interest, but I think it might be solved by the various regulations imposed by the SEC over the years.
+ https://www.investopedia.com/terms/p/paymentoforderflow.asp",[],1
+359,gzey8xd,2021-05-25,t1_gzdokie,algotrading,"I read something like this from some comments on HN, so it’s speculation, but might be of interest:
+
+Basically all the quant funds try to buy all the “alternative” data they can, to the point where most people are already looking at most of these data sources. Sometimes people end up collecting more data than they can really make inference from.
+
+Supposedly some of Rentech’s edge comes from an infrastructure that takes in as much data as possible and tries to extract signals from it automatically. So it’s less about the team finding some new swanky datasets and finding a signal from this, but more like researchers and developers refining this automated pipeline which is fed more and more data.",[],0
+360,gzeypxi,2021-05-25,t1_gzey8xd,algotrading,"Not sure which part you’re indicating is hearsay - the stuff about rentech having propriety data is definitely a rumour as far as I’m concerned. And the actual signal extraction is hard, but it has to be a combination of the data and the methods used to extract that data. No?
+
+Edited for typo",[],0
+361,gzezbwl,2021-05-25,t1_gzeypxi,algotrading,"My apologies, I intended to say that the comments from HN are hearsay, not what you said! The data processing is surely vital, but perhaps alternative data is not as alternative as people think, and maybe some funds could be trying to make use of more data than they can handle.",[],0
+362,gzezlbr,2021-05-25,t1_gzdhhxi,algotrading,"I laughed when I read something like ""the algo developed an unusual taste for potatos""",[],0
+363,gzezv1c,2021-05-25,t1_gzdxq6e,algotrading,"""risk free"" isn't risk free, I've worked for two of these in the last list and both have losing days and weeks (though rarely a losing month).
+
+What's the difference between ""adding liquidity"" and the ""market making"" you mention?",[],0
+364,gzf00pi,2021-05-25,t1_gzenuz5,algotrading,Stop with the BS spam,[],0
+365,gzf0enp,2021-05-25,t1_gzezbwl,algotrading,"I completely agree with your last statement - most funds don’t have the teams or knowledge to make proper use, and the edge provided by data tends to decay quickly as more people get their hands on it. In the book I think it even mentions that Rentech will try to estimate capacity of certain strategies and maximize it so that no one else can find and access that edge. 
+
+If you think about it as a 2x2 matrix where you have “Old” Data and “New” Data across the x with “Old” and “New” Methods on the y, good quant firms need to be focusing in the top right. Those in the bottom right will hit limits on the data they can extract from new data with old techniques, top left will run into limitations on old data even with new techniques, and the old/old quadrant will simply die (or are more likely long term fundamental investors).",[],0
+366,gzf17fn,2021-05-25,t1_gzf0enp,algotrading,I like your interpretation,[],1
+367,gzf258h,2021-05-25,t3_nkul4a,algotrading,Why don't you calculate it yourself? It's very easy to do.,[],1
+368,gzf2dvg,2021-05-25,t1_gzey7me,algotrading,"> further from the mid order execution and loosing guarantees in case of a large number of shares
+
+Neither of these are conflicts of interest though.",[],1
+370,gzf2qh0,2021-05-25,t3_nkul4a,algotrading,"Don't scrape, you would achieve nothing.
+
+The best way is to stream the ticks and write or use a technical indicator library of your choice to get what you want. Since the candles are based on 'binning' of executed orders values within a particular timeframe, there's a high probability that your and Binance indicators would not match when your measuring time is small. If you trust the tick data and if you are sure of all the default parameters of a 'ready-made' indicator, then you should trust the indicator values. The other way is to simply implement the indicators so that you trust them 100%.",[],0
+371,gzf2t32,2021-05-25,t3_neu15d,algotrading,Follow,[],0
+372,gzf2v5u,2021-05-25,t1_gzew2x4,algotrading,"From what I understood is that Taapi is Binance only.
+
+Also, I have thought about using some external libraries like you mentioned, do you have a good tutorial for it? I'm scared it will be really complex and hard.
+
+Thank you so much.",[],1
+373,gzf34e3,2021-05-25,t1_gzf2dvg,algotrading,"The client wants to be executed in the best way possible, the broker might assist him/her by doing internal matches with the opposite side or routing to exchanges with smaller spreads, more liquidity (considering such a fair broker exists, that doesn't exploit rebate schemes, etc)
+
+Aren't HFTs incentivised to execute as low as possible while still remaining in the NBBO? 
+
+Isn't that a conflict of interest in a way? Clients and HFTs are both interested in the same thing, but with opposing outcomes",[],0
+374,gzf353j,2021-05-25,t3_nkboc0,algotrading,"Signal generation: simpler = better
+
+But for modelling, complexity could be better. For example order book models. You dont want a naive algo that gives surface level replication. I worked on an algo that looked at how orders would affect order book, and needless to say the naivety caused failure lol. So a model should be complex enough to capture the microstructure.
+
+Also testing methodology can get complex. Instead of testing historically, test on samples and then use gbm/monte-carlo to test million+ paths. Take average of parameters then refine out of sample. Rinse, repeat",[],0
+376,gzf3p27,2021-05-25,t1_gzf34e3,algotrading,"> doing internal matches with the opposite side
+
+In a zero fee world, I don't think this realistically happens anymore. All orders all sold to internalizers (and disclosed as such)
+
+>outing to exchanges with smaller spreads, more liquidity
+
+Nbbo rules, orders are sold to internalizers not routed to market so you're getting a better execution compared to the DISPLAYED liquidity which is all that matters. Interacting with non-displayed liquidity isn't a feature of retail brokerages. You'll need to go with a DMA provider for that (and pay for the execution)
+
+>Aren't HFTs incentivised to execute as low as possible while still remaining in the NBBO?
+
+HFTs are incentivized to get the most order flow, they do this by providing the best price improvement to the broker. Better the price improvement, the larger % of volume they receive from said broker. Every two weeks, brokers compare PFOF providers PI data to determine who gets what % of order flow.",[],0
+377,gzf3tq2,2021-05-25,t1_gzerw1t,algotrading,"The cost function can be very tricky to design. You cannot simply use maximizing networth as a cost function because it might not learn anything most of the time or it will consider hodl as most optimal strategy and would not be optimal.
+
+Also, an inherent problem with RL is, it works optimally on known cases ie the data pattern or trend it has seen in the past. Which generally due to stochasticity wouldn't  be as optimal.
+
+Another reason is the issue of the changin environment and action space choices.
+
+Generally in RL the environment is stable meaning and the action choices has the same outcomes in almost all cases. In case of stock market when the agent moves to a new state the environment changes drastically, say if the stock is at all time high or has a very steep rise it wouldn't have optimal strategy then. In short, the movement of the agent would change the environment itself and consequently the rules of the environment. Also there is no guarantee that the learned strategy is an optimal one as everytime you train the strategy changes slightly and in a stochastic environment it can have a cascading effect.
+
+ These issues might not look too complex at first but these are the problem that is currently preventing RL from industry use.",[],0
+378,gzf3uc8,2021-05-25,t1_gzf2qh0,algotrading,"Thank you so much for the reply, that's what I'm really scared of, getting different values than Binance, I don't want that at all.
+
+Also, I'm curious why you are against scraping lol",[],0
+379,gzf4m52,2021-05-25,t1_gzf3p27,algotrading,"This is great info. Thank you for the insights.
+Is there a public source from where you got all this information or is it from work-related experience?",[],1
+380,gzf4vrh,2021-05-25,t3_nhxzv2,algotrading,"To large extent depends on your plans and intentions; your ultimate goal and what are you trying to achieve.  
+If you are (i) institutional size and plan to trade $1B depo, (ii) pitching some boutique hedge fund, or (iii) working on high-level deck-presentation for investors - can work out comparing to T-bills.
+
+If you are retail trader (accts up to $100K) and developing algo for personal use, just take top-5 strategies on C2 or Darwinex - their metrics would be your best benchmarks.",[],0
+381,gzf5cot,2021-05-25,t1_gzewllb,algotrading,You're welcome!,[],1
+382,gzf7f4t,2021-05-25,t1_gzf258h,algotrading,I feel like calculating it myself would not give me the same values as Binance have ;(,[],1
+383,gzf8597,2021-05-25,t3_nkw35f,algotrading,"You need an API licence key from iqfeed
+
+I use pyiqfeed...his examples on GitHub will get you going
+
+Not sure about other programming languages though 
+I'm not that great of a developer, so my solutions are often the summation of examples and tutorials I found online 
+
+Hope that helps",[],1
+384,gzf8bff,2021-05-25,t1_gzf3uc8,algotrading,I am just against scraping Binance. Some real shitheads have written the backfrontendend.,[],0
+385,gzf8e9c,2021-05-25,t1_gzf8bff,algotrading,"Ah yes, agreed!",[],0
+386,gzf95e4,2021-05-25,t1_gzf4m52,algotrading,decade worth of being in the weeds of microstructure,[],0
+387,gzfa0c0,2021-05-25,t1_gzdcf49,algotrading,"Interesting, what kind of ML techniques performs well? Non parametric I assume. Knn,  boosting, neural nets, hidden markov models? Just wondering. Thanks",[],1
+388,gzfawzo,2021-05-25,t3_nkw74d,algotrading,Pornhub’s comment section is pretty good. Motley Fool is a close second.,[],1
+389,gzfbcs9,2021-05-25,t1_gzdhhxi,algotrading,"\> may have been minimized so as not to scare off the layperson reader with too much math talk
+
+&#x200B;
+
+I think it is because the author had no idea what algos they were using.",[],0
+390,gzfbnv9,2021-05-25,t3_nkfx7f,algotrading,"I prefer to invest some more cash in growth tokens like $50CENTS and be sure that my asset will make big X, than put money in any useless systems.",[],0
+391,gzfc48y,2021-05-25,t1_gzezv1c,algotrading,"market making in derivatives = gain from the spread. classic market making on stocks and futures = orders from clients for the execution service.
+
+the strategy that adds liquidity as rentech does is high frequency statistical arbitrage.",[],1
+392,gzfd22p,2021-05-25,t1_gzcxt4i,algotrading,It all adds up.,[],1
+393,gzfd7z9,2021-05-25,t3_nkfx7f,algotrading,Strategies so good they sell them.,[],1
+394,gzfdqzt,2021-05-25,t3_nkw74d,algotrading,It'll make her look more manly than she already does.,[],0
+396,gzfdsx7,2021-05-25,t3_njhxpj,algotrading,Is this your bot that backtested 10% in one day?,[],1
+397,gzfe674,2021-05-25,t1_gzdokie,algotrading,"Exactly. Their data is key, the book points out the mountain of data they have on everything from price data to weather patterns to satellite photos, and a bunch of other stuff that you'd never think of. One hedge fund was able to figure out that LI was getting bought by MSFT by just looking at the flight logs of private jets between seattle and wherever LI is.",[],0
+398,gzfe7x1,2021-05-25,t3_njxd84,algotrading,"Well done, thanks for sharing.",[],1
+399,gzfenz9,2021-05-25,t1_gzel64j,algotrading,"I appreciate your response. What I did is calculated all the results within a certain trading period to see when it starts to underperform and then put a “if the trade length is 100 bars, close it” which helped a bunch. 
+
+Then I increased the SL to a number I thought was crazy( increasing the difference between the entry price and the sl) and it kept improving the results. As mentioned, it only hit the stoploss .5% of all the trades and as you said, my hope was it allowed the system to test if it worked. How would I test if this is overfitting? Test with different data sets yes?",[],0
+400,gzfept9,2021-05-25,t1_gzetgpb,algotrading,AKA the bible :),[],1
+401,gzfeqzc,2021-05-25,t1_gzfept9,algotrading,"Beep. Boop. I'm a robot.
+Here's a copy of 
+
+###[The Bible](https://snewd.com/ebooks/the-king-james-bible/)
+
+Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)",[],0
+402,gzfexiy,2021-05-25,t1_gzewjzg,algotrading,"""The Theory and Practice of Econometrics 2nd Edition"" by Judge et al.  If you are serious, this is a killer reference book for the shelf as well as comprehensive.",[],0
+403,gzfgdqg,2021-05-25,t3_nkfx7f,algotrading,"I read the whole book a couple of years ago, and while they certainly don't go into a tonne of detail (such that you'd have any idea exactly as to what they are doing) there were some things that it seems to point out, if my memory is accurate (please correct where appropriate):
+
+1. The time frame of the algorithm is critical. Their first major advance and first time they made money, was because the took their existing approach and changed from making long term predictions to making short-medium term predictions
+2. Gathering as much data as possible and then developing algorithms that can leverage as much of that data that is useful, by combining the signals in some way. This implies to me a form of ensemble learning or possibly reinforcement learning, and having a really good way of estimating the accuracy and reliability of each signal
+3. Effectively managing bet size (not just timing)
+4. Knowing when to exit a position is critical, taking a profit or minimizing a loss
+5. Cutting trading and execution costs to a minimum is very important. They outline how a bug in the code was costing them a tonne of money until it was removed by a new engineering hire, IIRC. Their edge per trade is tiny, so cutting costs while maintaining a large transaction volume is how they make a lot of their money.
+6. Moving to a single underlying algorithm across different instruments allowed them to concentrate on making one really good model vs a number of mediocre ones.
+7. They were initially much more successful in other markets and it took them a long while to make money in equities. I forget whether it was bonds or commodities or something else where they were first successful, but it wasn't in equities.",[],0
+404,gzfhiw0,2021-05-25,t3_nkfx7f,algotrading,Tell us more about this bookmark,[],0
+405,gzfhk28,2021-05-25,t1_gzd0iw4,algotrading,"This is good and on a similar topic - [https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654) it's about a single trader in the UK who made a fortune trading (and manipulating) the order book, and was subsequently blamed for the flash crash.",[],1
+406,gzfik4t,2021-05-25,t1_gzco60o,algotrading,I didn't think it was very good. Just mini biographies of the key players that gloss over the most interesting parts of their lives.,[],1
+408,gzfj9sc,2021-05-25,t1_gzf7f4t,algotrading,"It would, don't worry about it. You just have to ""sacrifice"" the first x bars to adjust the function, then it'll sync with Binance.",[],1
+409,gzfjg42,2021-05-25,t1_gzfj9sc,algotrading,"Thank you :) I'll try it then, what library would you recommend?",[],1
+410,gzfjw0w,2021-05-25,t3_nkfx7f,algotrading,"So if exhaustive data is locked up, and the truly advanced algorithms require massive data handling and ML computations, implying the use of a super cluster or so forth, and the ALGO is under lock and key meaning we have to develop our own, doesn’t that make it seem kinda futile?
+
+Can I successfully ALGO trade as an individual?",[],0
+411,gzfjyp2,2021-05-25,t1_gzfjg42,algotrading,"I have no idea since I don't use any, but you can use one of the popular ones. I'm a Node dev. My knowledge about Python is very limited.",[],0
+412,gzfk679,2021-05-25,t1_gzfjyp2,algotrading,Thank you so much for your help!,[],0
+413,gzfkm9m,2021-05-25,t3_nkp6xx,algotrading,"NFT's are stupid, this post is spam, and you should feel bad.",[],0
+414,gzfkn0h,2021-05-25,t3_nkp6xx,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+415,gzfkwf8,2021-05-25,t3_nkj9m7,algotrading,"If your algo doesn't address volatility, you will eventually be unpleasantly surprised.",[],0
+416,gzfmh9p,2021-05-25,t1_gzd2f2j,algotrading,"I see, in that case we're kinda on the same approach then. I guess the difference is just the nitty gritty detail of the frameworks.
+
+> The issue I see of applying this to crypto is the volatility of crypto the probability distribution of the 'force' is too wide. You can surely make profitable trades but not optimized trades.
+
+This was an issue I found as well but in my case I solved it by using smaller time window but not too small, otherwise it becomes unstable.
+
+> How are you finding state transition matrix
+
+My state transition is dynamic depending on live data. It's more like reading the current state matrix & the model will come up w/ a coefficient that decides whether to buy/hold/sell. That is, the coefficient basically scores the persistence of current data trend in a given time window and by how strong/weak is the current trend on either side, downward or upward trend. This is why I built my own math transform function but still ensuring that it satisfies Markov process properties, etc.",[],1
+418,gzfnfrv,2021-05-25,t3_nkw74d,algotrading,"151 Trading Strategies  
+https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3247865",[],0
+419,gzfnlby,2021-05-25,t1_gzfexiy,algotrading,"i didn't use that textbook when i was in university, but I'll definitely check it out.",[],1
+420,gzfnsr2,2021-05-25,t3_nkfx7f,algotrading,"Listened to the audio book.
+
+It’s mostly about Jim Simmon’s life, not so much his work examples (if I can remember). More about how mathematicians are taking basic broker jobs starting back in the day.
+
+It was a great listen, don’t know how much it’ll help your trading though.",[],0
+421,gzfo3m1,2021-05-25,t1_gz8nwqm,algotrading,"Yeah the algorithm only handles longs currently, hadn't thought about implementing shorts but I'm gonna build that out and see how the backtests look - thanks for the idea. If you want to see how to invest in the ETF, I'd recommend checking out [Quantbase](https://getquantbase.com).",[],0
+422,gzfp8lh,2021-05-25,t1_gze1odj,algotrading,"This is my understanding of how most people trade at IMC/Optiver/DRW for what it's worth. Most hft has so much infrastructure that it's a bit silly to say you have personal ownership of all the pnl generated from the desk. Are the prop shops you're talking about smaller ones that e.g don't cover a lot of markets?
+
+
+To clarify the above point, if I have an interesting idea I would most likely have to loan a dev to get this built. This algo most likely can be used in other desks - we aren't that silo'd. In this case how does the pnl breakdown? Do I get a cut of the proceeds from other desks too?",[],1
+423,gzfpbre,2021-05-25,t1_gzeepst,algotrading,"Well all of that is good but IMO the best is how much money ur account has before & after running ur algo (even if it's only paper trading for the time being)? Along w/ say Sharpe ratio, drawdown, etc, they're all just statistics & u can't fully know the full extent of ur algo's capability until u find out how much ROI it's actually giving u.",[],1
+424,gzfqosm,2021-05-25,t1_gzfmh9p,algotrading,"Intresting.
+
+How do you factor in the change in state in between the placing order and execution of the said order? Do you buy/sell on the market or push limit orders.",[],1
+425,gzfqwwh,2021-05-25,t3_nkw74d,algotrading,"Two of my favorite blog posts on this topic:
+
+https://financial-hacker.com/please-send-me-a-trading-system/
+
+https://financial-hacker.com/build-better-strategies-part-2-model-based-systems/",[],1
+427,gzfrplt,2021-05-25,t3_nkzyvz,algotrading,"[Polygon.io](https://Polygon.io) provides a real-time US equities feed through our various [Websocket channels](https://polygon.io/sockets). You can get each individual tick (trades/quotes) and aggregates on a second or minute level. 
+
+Disclaimer: I work there
+
+Feel free to ask any questions about it : )",[],0
+428,gzfrqyw,2021-05-25,t3_nkdvhu,algotrading,"You can download historical option pricing from Robinhoods API. 
+Its only in Python though, but I wrote an R script to handle it all and to just source the python when requirwd.",[],0
+429,gzft6cx,2021-05-25,t3_nk2uw6,algotrading,"You could research/design/optimize/backtest strategies using vectorized tools (numpy et al) and only then code it to run on ib_insync. On top of that,  you could do another tool  mimicking ib when working with ib_insync but it would be only to double check results so speed would not be an issue - could be done in python. 
+
+For any backtesting data availability is key and IB is not an easy source. So probably you need a module to pull, organize and store data as well. Also can be done in python as IB throttling is the bottleneck anyway.",[],1
+430,gzftli9,2021-05-25,t3_nkfx7f,algotrading,Quantifiably the best book I've never read,[],1
+431,gzfuckd,2021-05-25,t1_gzfqosm,algotrading,"Oh I just placed a market order cos if here's potential profit right there & then, might as well grab it ASAP. I know this means higher fees but I don't mind if my model can correctly pick up the data trend almost surely most of the time.",[],1
+432,gzfxltp,2021-05-25,t1_gzfjg42,algotrading,I like the Python [ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) library.,[],1
+433,gzfxmv2,2021-05-25,t1_gzfxltp,algotrading,"It seems that your comment contains 1 or more links that are hard to tap for mobile users. 
+I will extend those so they're easier for our sausage fingers to click!
+
+
+[Here is link number 1](https://technical-analysis-library-in-python.readthedocs.io/en/latest/) - Previous text ""ta""
+
+
+
+----
+^Please ^PM ^/u/eganwall ^with ^issues ^or ^feedback! ^| ^[Delete](https://reddit.com/message/compose/?to=FatFingerHelperBot&subject=delete&message=delete%20gzfxmv2)",[],0
+434,gzfyb9v,2021-05-25,t3_nkfx7f,algotrading,It's the worst book in history. 1/3 is something about Trump.,[],0
+435,gzg0akk,2021-05-25,t3_nkul4a,algotrading,You can use talib library for using built-in technical indicators. Let me know if you need any help ❤,[],0
+436,gzg0q74,2021-05-25,t1_gz68k4j,algotrading,"Is it easier to get things working in Excel? That seems like a whole learning curve of its own although I suppose if you can get the data in and then apply whatever rules you want to it, it could work",[],1
+437,gzg171o,2021-05-25,t3_nkzyvz,algotrading,Start with your broker. If you want to use a platform check out quantconnect. Polygon is nice.,[],1
+438,gzg1a48,2021-05-25,t3_nkzyvz,algotrading,Your broker,[],0
+439,gzg1cjy,2021-05-25,t1_gzck92k,algotrading,">80-95% profitable trades
+
+What risk/reward ratio are you using for that?",[],0
+440,gzg2qnl,2021-05-25,t3_nkw74d,algotrading,I test things I see on Tik Tok suprisingly there actually is some interesting concepts there if u follow the right people.,[],1
+441,gzg45e2,2021-05-25,t3_nkgnt6,algotrading,"if you go the td-api route, make sure you don't have advanced features turned on on tos. most of the functionality like order info and cancellation is stale/borked with adv features on. i just turned off advanced features on tos recently to be able to get my custom trader to work. it doesn't have streaming order notification but other than that works pretty well.",[],0
+443,gzg5t9v,2021-05-25,t3_nkboc0,algotrading,Complexity is relative (unless we are talking about algorithm run time). Most algorithms I wrote that worked were simple the end product felt pretty complicated though.,[],1
+444,gzg65eb,2021-05-25,t1_gzctwaj,algotrading,Yeah the computer totally programmed itself.,[],0
+445,gzg6f3z,2021-05-25,t3_njo0w8,algotrading,I know a guy who used expert systems (just lots of if else statements) and he seems to be doing well for himself,[],1
+446,gzg6ryk,2021-05-25,t1_gzfjg42,algotrading,ta lib is the standard i think,[],0
+447,gzg6tlt,2021-05-25,t3_nkymrk,algotrading,we don't support such market research actions here... post will remain removed.,[],0
+448,gzg6xey,2021-05-25,t1_gzfgdqg,algotrading,Makes sense they started in the FICC space. It’s a much lower sentiment driven area. I’ve worked in that area institutionally my whole career and it’s littered with PhDs. In equities? LOL. It’s a bunch of snake oil salesmen and punters.,[],0
+449,gzg70tl,2021-05-25,t3_nj27r4,algotrading,Well HFT is pretty much synonymous with FPGAs... and those cost thousands of dollars. If your rich I would try to contact a bulge bracket bank otherwise ur gona have to build out the infrastructure urself.,[],0
+451,gzg73ob,2021-05-25,t3_nkzyvz,algotrading,"1. Your broker
+
+2. [alpaca.markets](https://alpaca.markets)
+
+3. [Yahoo Finance API](https://yahoofinanceapi.com)",[],0
+452,gzg77hj,2021-05-25,t3_nl2ba5,algotrading,"Walk forward analysis. 
+Out of sample testing.",[],0
+453,gzg7kqu,2021-05-25,t1_gzdk0nj,algotrading,"Dunno if it was mentioned in the book but one of my favorite Mercer stories was a huge lawsuit he got into because he was upset at some contractor he hired to help him build a multi-million model train setup.
+
+Whatever you think of his politics (he’s pretty whacko no doubt), he’s basically an autistic spectrum genius with billions of dollars trying to fulfill childhood fantasies.",[],1
+456,gzg8jkq,2021-05-25,t3_nl2ba5,algotrading,"I was messing around with Keras LSTM and was getting like 70-80% prediction accuracy. I checked the code multiple times and it was all correct. I decided to leave it until the next day.... The next day I go and look and spot the problem, I was putting half of the testing data into the training data. I usually use the last 1000 days or the last 500 days of data to test against. I forgot which one and hence the awesome performance.",[],1
+457,gzg8n6x,2021-05-25,t1_gzg1cjy,algotrading,"I produce a daily report on 40 futures that have continuous contracts. On most days 80-95% of the trades are profitable. Yesterday, of the 40 contracts, 21 were long 1 contract each, and 19 of those were profitable, 2 were showing losses. The largest gainer was YM(Dow) +$17,140. The largest losing position was LC(Live Cattle) -$150. Total net gain for all 40 was $88,323, 1 contract each. See below yesterday's report for Mon 5/23:
+
+Symbol	Position Buy Price	Last	      Strategy P/L
+@YM	Long 1	30,979.00	34,407.00	$17,140.00 
+@GC	Long 1	 1,713.00	1,881.60	$16,860.00 
+@SI	Long 1	   26.095         27.855	 $8,800.00 
+@HG	Long 1	      4.2	   4.538	 $8,437.50 
+@C	Long 1	    512.25           658	 $7,287.50 
+@KC	Long 1	    133.95	     149	 $5,643.75 
+@BO	Long 1	      56.5	   65.24	 $5,244.00 
+@S	Long 1	  1,444.75	1,521.75	 $3,850.00 
+@SF	Long 1	     1.085         1.115	 $3,787.50 
+@CD	Long 1	     0.798          0.83	 $3,200.00 
+@EC	Long 1	     1.199	   1.222	 $2,856.25 
+@LH	Long 1	   109.075	  113.35	 $1,710.00 
+@BP	Long 1	     1.395         1.416	 $1,300.00 
+@FC	Long 1	   152.325	 154.125           $900.00 
+@RB	Long 1	     2.102         2.118	   $693.00 
+@FV	Long 1	   123.773       124.297	   $523.44 
+@TY	Long 1	   132.531	 132.641	   $109.38 
+@TU	Long 1	   110.371       110.414	    $85.94 
+@ED	Long 1	    99.825	  99.855	    $75.00 
+@OJ	Long 1	    117.25	  117.05	   ($30.00)
+@LC	Long 1	   117.125	  116.75	  ($150.00)
+@O	Flat			                $88,323.26 Total G/L
+@SM	Flat			
+@W	Flat			
+@US	Flat			
+@BTM	Flat			
+@EMD	Flat			
+@ES	Flat			
+@NQ	Flat			
+@RTY	Flat			
+@VX	Flat			
+@CL	Flat			
+@NG	Flat			
+@CC	Flat			
+@CT	Flat			
+@KW	Flat			
+@SB	Flat			
+@AD	Flat			
+@DX	Flat			
+@JY	Flat",[],0
+458,gzg8p8v,2021-05-25,t3_nl2ba5,algotrading,"I've got a friend that we bounce stuff back and forth.  I'll explain the strategy to him, and he'll code it up independently and back-test.  If the results don't match, then you know one of you have either a coding error, or there was something in your explanation that wasn't well defined and you both made different assumptions.  
+
+And besides, this stuff is more fun when you have a friend you're working with.",[],1
+460,gzgamxo,2021-05-25,t1_gzg6f3z,algotrading,"well, machine learning is not if-else... and nested loops wouldn't be optimal",[],1
+461,gzgaxrn,2021-05-25,t1_grfgcvs,algotrading,"Very interested in this, could you share the parameters of the swing trade method you use so I could scan for them?",[],0
+462,gzgb3xt,2021-05-25,t3_nl35ye,algotrading,transform of some kind,[],1
+463,gzgb6dm,2021-05-25,t1_gzgb3xt,algotrading,Can you elaborate?,[],0
+464,gzgc95f,2021-05-25,t1_gzgb6dm,algotrading,"find a set of basis functions that span the space and are meaningful to what you’re looking for, deconstruct the underlying accordingly",[],1
+465,gzgci9q,2021-05-25,t3_nl35ye,algotrading,"You can look for 5 bar ""fractals"", say down, down down, up, up and at the low of the 3rd candle mark a pivot point. There are perhaps faster ways of finding pivots (support is generally found at pivots) but you may not need them if what you're searching for is just a/r levels. If you search around and look at indicators for thinkorswim or tradeview you can examine the code. It's fairly straight forward.",[],1
+466,gzgds3u,2021-05-26,t3_nkfx7f,algotrading,What is he talking about in this book?,[],0
+467,gzgdumy,2021-05-26,t1_gzfeqzc,algotrading,Any algorithmic trading strategies in there?,[],0
+468,gzgdz3h,2021-05-26,t1_gzg8p8v,algotrading,"That's how the pros do it! Your answer reminded me of this:  
+""At AQR, we usually try to replicate academic research to see how it holds up, and, similarly, when an internal researcher finds a new result, we have someone else independently replicate the work to ensure that it is valid.""  
+https://www.aqr.com/Insights/Perspectives/The-Replication-Crisis-That-Wasnt",[],1
+469,gzge7if,2021-05-26,t3_nl2ba5,algotrading,"I'm going through this very issue right now. Usually when this happens it's because I have leakage - my validation and training samples are getting mixed up somehow. Even normalizing, etc, needs to be done separately and sometimes I get careless.",[],1
+470,gzgfqe9,2021-05-26,t3_nl35ye,algotrading,Volume weighted moving averages might work,[],0
+471,gzgfz4n,2021-05-26,t1_gszohiz,algotrading,"do you have any resouces where I could read tax code related to trading? 
+
+I figured there would be something like this but had no clue where to start looking. 
+
+Anything helps, thanks.",[],0
+472,gzgg6xe,2021-05-26,t1_gzgamxo,algotrading,"i know, expert systems are if else statements, do your googles",[],1
+473,gzggth0,2021-05-26,t3_nkfx7f,algotrading,Haven’t read this one but I’m currently reading Flash Crash about Nav Sarao. Truly autistic trader.,[],0
+474,gzggvab,2021-05-26,t1_gzcrfl0,algotrading,Flash Crash goes into some detail about algos,[],1
+475,gzghk0l,2021-05-26,t3_nl2ba5,algotrading,I carefully rewrite the code so that it returns a prediction and ONLY THEN do I input the next period price so there's zero chance it's inadvertently looking ahead.,[],0
+476,gzgihku,2021-05-26,t3_nkzyvz,algotrading,Robinhood has a pretty good api and you can get stock and option pricing. I found that many brokers like to keep you in their application and don’t really provide the information I look for.,[],1
+477,gzgiynw,2021-05-26,t1_gzg0q74,algotrading,It depends on what you are trying to do. I kept my logic simple using if then statements and stats methods. Then used historical data to test my logic and overtime gradually refined it. Then used it to code with.,[],1
+478,gzgj3xa,2021-05-26,t3_nkw74d,algotrading,Usually starts with what and why you want to trade. Then research trading strategies out there. Biggest obstacle people have trading is emotion gets involved.,[],1
+479,gzgjrk4,2021-05-26,t1_gzgg6xe,algotrading,"I dont what scope of expert systems you are talking about, there might be there might not be if-else based (1950-1960 systems were)... All I am saying is I am not looking for suboptimal prior knowledge-based systems. Want to make something that required rudimentary financial knowledge and based on fairly advanced ML concepts.",[],0
+480,gzgklog,2021-05-26,t1_gzfrplt,algotrading,Good shit,[],1
+482,gzgmg62,2021-05-26,t3_nl2ba5,algotrading,"Here's my process:
+
+1. Out of sample verification -- I'll roll my test window forward or back a year and test again. If it suddenly tanks (compared to a control strategy for the same period like ""buy and hold"") then it's probably overfit.
+2. Jiggle the strategy parameters to verify that it can handle minor tweaks -- For example, if my strategy depends on a simple moving average over the last 47 bars and using a window of 51 (+10%) completely tanks it, then it's probably too brittle to handle a real-world market which is always changing.
+3. Reimplement it in a different backtesting platform and test it again, just in case the framework I used sucks or my coding had a bug.
+4. Still cautiously optimistic? Live-test with real money, but start small, and increase investment as confidence improves.",[],0
+483,gzgmv2f,2021-05-26,t1_gzgmg62,algotrading,"Great response, thank you.",[],1
+484,gzgn0kp,2021-05-26,t1_gzge7if,algotrading,"Yup,  recently ran into something similar when I was dealing with outliers. Was adjusting the entire set before splitting into training/test and that introduces future bias.",[],0
+485,gzgn44d,2021-05-26,t1_gzfrplt,algotrading,I’ve thought about switching to this several times! Is there any plan to add option data to it?,[],0
+486,gzgn9g7,2021-05-26,t1_gzgihku,algotrading,Isn’t the Robinhood API like hidden or like no official docs? Something like that,[],1
+487,gzgnsxu,2021-05-26,t1_gysmo7t,algotrading,"When I read the post I initially thought the same thing. Now that I'm thinking about it however, if your target is not to predict price action but instead human behaviour, considering visual chart representations are how many people inform their trading decisions, I believe there may be some merit here.",[],0
+488,gzgo8ck,2021-05-26,t1_gzey8xd,algotrading,"this. their whole process is automated, they are on another level compared to any other quant fund.",[],1
+489,gzgosdh,2021-05-26,t1_gzdxjv1,algotrading,the successor to ed thorps hedge fund is still around today and last time i looked on their website they were looking for tax analysts. rentec has a big tax lawsuit apparently..or atleast they did,[],0
+490,gzgp6kn,2021-05-26,t1_gze1vh2,algotrading,do you have any other examples of alt data? i always hear satelite imagery but thats not really outlandish anymore. maybe 20 years ago. do they get cell phone data for example near certain locations? how granular is the weather data?,[],0
+491,gzgr6ts,2021-05-26,t1_gzfgdqg,algotrading,futures & fx was their big ones apparently,[],0
+492,gzgr9d1,2021-05-26,t3_nkfx7f,algotrading,"Look at me I read, fuck you",[],0
+493,gzgrnxt,2021-05-26,t1_gzg73ob,algotrading,is there a limit for Yahoo Finance API ? i.e. how many call per mins or per day max.,[],0
+494,gzgssv6,2021-05-26,t3_nl2u32,algotrading,"I look at price increase over the past X months.
+
+Price itself can be a filter. Stocks >$20 may behave different than those less than $20.
+
+What about if an equity is a part of an index, maybe thats a fundamental i suppose.",[],0
+495,gzglyhx,2021-05-26,t3_nl35ye,algotrading,"Machine learning algorithm, LSTM or CNN or maybe both",[],0
+496,gzgsy78,2021-05-26,t3_nkzb1t,algotrading,Is this accuracy on validation set? What is the AUC? Is the distribution on training and validation similar?,[],1
+497,gzgt3nk,2021-05-26,t1_gzgjrk4,algotrading,Would love to point you in the right direction message me,[],1
+498,gzgu219,2021-05-26,t3_nl4rx8,algotrading,I’ve noticed this too. You also can’t enter spx options using the regular TDA app.,[],1
+499,gzgu6yq,2021-05-26,t1_gzfrplt,algotrading,Beautiful web design,[],1
+500,gzgu9y3,2021-05-26,t3_nl4rx8,algotrading,Try $SPX.X,[],0
+502,gzgujfp,2021-05-26,t3_nkzyvz,algotrading,Everyone’s saying your broker... do they usually provide unlimited # of calls using their API? is it usually free?,[],1
+503,gzgulpm,2021-05-26,t1_gzgrnxt,algotrading,I think it’s 2000 calls per hour.,[],0
+504,gzguws6,2021-05-26,t1_gzg45e2,algotrading,"Got it, is there a way to access studies, like VWAP and EMA?",[],0
+505,gzgvfwo,2021-05-26,t3_nl2ba5,algotrading,"Check that the features you are using are actually from data collected before the prices.
+
+Check that your training data was from before the test data.",[],1
+507,gzgx6ez,2021-05-26,t1_gzg65eb,algotrading,"for sure. combination of everything, if you will.",[],0
+509,gzgy0io,2021-05-26,t3_nkfx7f,algotrading,"Most quant equity firms just trade forced trades like ipo lockups, 13f trades, insider trades (executive options for example), factor rebalances",[],1
+510,gzgy62j,2021-05-26,t1_gzfa0c0,algotrading,nonlinear dimensionality reduction on z scored returns,[],0
+511,gzgy8tt,2021-05-26,t1_gzgujfp,algotrading,"What OP describes is streaming data, not rest api calls. Regardless, there are always limits. TD Ameritrade, for example, doesn't limit some api calls, but limits some to 120 per minute. As for streaming, there is a limit to the number of symbols you can subscribe to, but I'm not sure what the limit is.",[],0
+512,gzgybfw,2021-05-26,t1_gzdcuzf,algotrading,bayesian additive regression trees are pretty good,[],1
+514,gzgzq76,2021-05-26,t3_nkfx7f,algotrading,It was a good inspiration! I read it last spring when I first started working on algos.,[],0
+515,gzh04ha,2021-05-26,t1_gzgsy78,algotrading,"THANK YOU! someone who knows what they are talking about.
+
+The AUC tends to be around .7 .
+
+I set it so the classes are equal, but you are right they may not be evenly divided in the validation set.
+
+I can weight the classes so that class 1 true positive rate increases, but of course that also increases the false positive rate.
+
+I think it is best to avoid bad buys, right?  Should I leave things as they are or try to weight the classes?",[],0
+516,gzh0dg6,2021-05-26,t3_nkzyvz,algotrading,I just webscrape oops,[],0
+517,gzh2r6l,2021-05-26,t1_gzd4ezv,algotrading,"I don't do anything with SPY so I don't want to tell you one thing or another.
+
+IB has an API team that will, sometimes, answer your questions.
+
+That's their current website. The documentation is awful and outdated as well.",[],0
+518,gzh2xcn,2021-05-26,t1_gzg2qnl,algotrading,Any examples by chance? I’m new to the game,[],0
+519,gzh5fuy,2021-05-26,t1_gzditn3,algotrading,Yep that's it.,[],0
+520,gzh5gz3,2021-05-26,t3_nl6rf0,algotrading,If you're fluent in programming you should have no problem adopting another language.,[],0
+521,gzh5p31,2021-05-26,t3_nkboc0,algotrading,I KISS. I'm sure the fancy quants and ML guys do well but I like to KISS.,[],1
+522,gzh5u6g,2021-05-26,t3_njyg3d,algotrading,I just take it out when I need.,[],1
+523,gzh5wr4,2021-05-26,t1_gzfrplt,algotrading,Nice work. When will you support option data?,[],1
+524,gzh66ee,2021-05-26,t1_gzguws6,algotrading,you get some instrument data for equities. full docs are here: https://developer.tdameritrade.com/apis,[],1
+525,gzh686r,2021-05-26,t3_nkw74d,algotrading,RemindMe! 5days,[],0
+526,gzh88nb,2021-05-26,t3_nl35ye,algotrading,The naive solution is go through all prices and set a time threshold (let's say 20 or 100 bars). And just take the relative minima/maxima you encounter within that sliding window. Afterwards you can count how many times each value shows up and only keep the ones that show up multiple times (strong S/R)? Volume or trade data might also help indicate S/R zones.,[],0
+527,gzh8e0g,2021-05-26,t1_gzdxq6e,algotrading,">They do not upset the market but rather make it better because they add liquidity.
+
+[Except when you really need it](https://mebfaber.com/2020/06/03/episode-226-vineer-bhansali-longtail-alpha-the-bigger-question-to-me-is-not-whether-tail-risk-hedging-is-good-or-bad-but-whether-it-is-good-or-bad-for-your-current-portfolio-posture/):
+>When stuff happens and they see a supply coming, whether it’s in the E-mini contract or the 10-year futures contract, which is what happened in February and March of this year, and also in January of 2018 and December of 2018, the bots completely turn off. So now what you’ve got is residual liquidity that is basically being provided by the market makers who are human. And there’s very few of them. I think there was a point where I was counting myself as probably one of four people who were actually actively…we turned our bots off. We were actually trading E-minis by hand, so to speak. So in that environment, and I have charts, which I’m happy to share with you, Meb. In March, the futures contract liquidity went from roughly $80 million to $90 million top of book, and you can see that in the future stack if you have real-time data, to less than $2 million top of stack.",[],0
+528,gzh8i14,2021-05-26,t1_gzh88nb,algotrading,"Yes, that has been what I have come up with so far.",[],1
+529,gzhbbwz,2021-05-26,t1_gzewjzg,algotrading,"Haha True but I meant something lighter, something you can enjoy on the beach like this one",[],1
+530,gzhbknv,2021-05-26,t3_nl2ba5,algotrading,I usually mess up in python by multiplying my strategy position by df['return'] instead of df['return'].shift(-1),[],0
+531,gzhecjp,2021-05-26,t3_nl2ba5,algotrading,"Unexpected risk. Backtest on unfavorable price movement. There is no risk free strategy (except arbitrage), because risk=potential profit | loss.",[],0
+532,gzhere6,2021-05-26,t1_gzgu9y3,algotrading,That worked. Thank you so much.,[],1
+533,gzhfa0m,2021-05-26,t1_gzg77hj,algotrading,this - normally exceptional returns are the result of overfitting. Your algo is perfectly in sync with the exact market conditions ... that never come about again ...,[],1
+534,gzhfemj,2021-05-26,t3_nl73tb,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+535,gzhgg1r,2021-05-26,t1_gzc3v7s,algotrading,"Not all strategies need to be tweaked. For example a simple buy and hold, or CC’s, or the wheel on any index will work always in the long run.",[],1
+536,gzhglz2,2021-05-26,t3_nkzyvz,algotrading,What about dtn's iqfeed? Been enjoying them for awhile now. Polygon sounds nice but is expensive. iqfeed might take more upfront effort to implement.,[],1
+537,gzhinjk,2021-05-26,t1_gzghk0l,algotrading,"Yep, this is it for me, too. It's also not fun when what I thought was an excellent idea manages mediocre returns even with perfect knowledge of the future...",[],1
+538,gzhiunh,2021-05-26,t3_nl2ba5,algotrading,Painting,[],0
+539,gzhj8l5,2021-05-26,t3_nl2ba5,algotrading,Double check spread and comisions are right,[],0
+540,gzhk9va,2021-05-26,t3_nl2ba5,algotrading,"Everything.. I've been screwed by look ahead bias, wrong spreads, overfitting and more.
+
+Basically take apart your system until it makes sense or compare against paper trading results",[],0
+541,gzhkb1w,2021-05-26,t3_nkw74d,algotrading,GME TO THE MOON 🚀,['GME'],0
+542,gzhkp60,2021-05-26,t3_nl2ba5,algotrading,"After reading most of the comments, I feel dumb now. I just export all the trades that my system had taken and the write another code to calculate return from that to compare.",[],0
+543,gzhl27l,2021-05-26,t3_nl6nf9,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+544,gzhn33u,2021-05-26,t1_gzhglz2,algotrading,"DTN is a truely reliable and in the industry well known provider. But it's expensive and I take it, most cs hobbyists here interested in algo trading already begin to oscillate if a premium data vendor's service comes at $50/month. It's hilarious actually.",[],1
+545,gzhn504,2021-05-26,t1_gzh0dg6,algotrading,Totally unsuited and actually out of the question for anything remotely serious and/or real-time.,[],0
+546,gzhnrjq,2021-05-26,t3_lke71j,algotrading,"I'm a developer as well, i've been using Royal Q for about 7 months and got about 20-40% returns per month so far. Apparently it's the number 1 used bot in SEA and costs only a 100usd per year. It links to your binance through an API binding and uses a martingale system which i personally feel is great risk management. You can try it out with my referral link: https://raqsy.com/s/CYUQK and if you have not created a binance account can use my link as well: https://accounts.binance.cc/en/register?ref=168682543 
+
+Happy Trading!",[],1
+547,gzhnx97,2021-05-26,t3_kepfxt,algotrading,"I'm a developer for the past 12 years, personally i've been using Royal Q bot for about 7 months and got about 20-40% returns per month so far. Apparently it's the number 1 used bot in SEA and costs only a 100usd per year. It links to your binance through an API binding and uses a martingale system which i personally feel is great risk management. You can try it out with my referral link: https://raqsy.com/s/CYUQK and if you have not created a binance account can use my link as well: https://accounts.binance.cc/en/register?ref=168682543 
+
+Happy Trading!",[],1
+548,gzhnybv,2021-05-26,t3_ngte3g,algotrading,"I'm a developer for the past 12 years, personally i've been using Royal Q bot for about 7 months and got about 20-40% returns per month so far. Apparently it's the number 1 used bot in SEA and costs only a 100usd per year. It links to your binance through an API binding and uses a martingale system which i personally feel is great risk management. You can try it out with my referral link: https://raqsy.com/s/CYUQK and if you have not created a binance account can use my link as well: https://accounts.binance.cc/en/register?ref=168682543 
+
+Happy Trading!",[],1
+549,gzho1yw,2021-05-26,t1_gzgn44d,algotrading,"[https://polygon.io/options](https://polygon.io/options)
+
+(i.e. ""coming soon"")
+
+Although I was going to ask if there's any kind of ETA ;)",[],1
+550,gzhrnpm,2021-05-26,t3_nl2ba5,algotrading,"Out-of-sample testing with real money in a no commission environment, very small trades (de minimus risk exposure).  Helpful if you have an autotrade or semi-autotrade functionality attached to your platform.
+
+Tweak parameters by 10% up/down and see if still profitable.
+
+Apply to other asset classes with broadly similar settings and see if results are replicated.
+
+Understand the source of your alpha gen so that you have confidence in your system.
+
+Test across very different market environments (VIX Levels as a filter for example if on stocks).",[],0
+551,gzhrv1a,2021-05-26,t3_nl2ba5,algotrading,"""Too good"" is not a quantitative metric, what seems ""too good"" in your shop could be rather poor for your neighbour or quite mediocre in the industry. 
+
+Give us little bit more details and some numbers, then more intelligent/useful answer could be provided.",[],0
+552,gzhsvd2,2021-05-26,t3_nl35ye,algotrading,"I would go with volume profile for skeleton.
+
+1. Get smoothed volume profile
+2. Find minimums and maximums. With derivative or x1<x2>x3 for maximum or x1>x2<x3
+3. Fetch ohlcs where wicks/closes are near minimum
+
+Little bit other tweaking required but this should be pretty good starting point.",[],0
+553,gzhszvt,2021-05-26,t1_gzhsvd2,algotrading,That is a totally new idea for me. You would use a volume low to detect a price support/resistance?,[],0
+554,gzht0is,2021-05-26,t3_nl6rf0,algotrading,"Great question, as MT5 is one of the best for years to come  
+ \-- Python should be fine - API connector to MT5 is available (links below)
+
+NOTE-1:  
+ \-- MT4 - is mql4, subset of the C language  
+ \-- MT5 - is mql5, similar to the syntax of C++
+
+NOTE-2: Python, or any other programming language, will not improve your strategy.  
+https://pypi.org/project/MetaTrader5/  
+https://www.metatrader5.com/en/metaeditor/help/development/python",[],1
+555,gzhtcjo,2021-05-26,t3_nl2u32,algotrading,"Each market is different. Dont overfit. Better to get lower profit, than overfit system and be rekt on unexpected move.",[],1
+556,gzhtoqz,2021-05-26,t3_nl35ye,algotrading,"One of the good approaches is to use mean shift https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html
+This will help you to create clusters of prices. Use smaller time frames to get more accurate",[],1
+557,gzhtx3h,2021-05-26,t3_njhxpj,algotrading,"Put less effirt in backtesting. Throw some play money in algo and play with it until its profitable. Once it is profitable for extended period, throw in some more money. 
+
+You can backtest while developing/tweaking the algo and adjust params in real time.
+
+Be a chad and risk some money while developing.",[],0
+558,gzhugwv,2021-05-26,t3_nl35ye,algotrading,"This the tweaking part. Its not exactly low, some treshold from minimum should be put. 
+
+Or, consider volume profile average from one low to another and cut off everything below it. Something like that.",[],0
+559,gzhuif9,2021-05-26,t1_gzhszvt,algotrading,"This the tweaking part. Its not exactly low, some treshold from minimum should be put. 
+
+Or, consider volume profile average from one low to another and cut off everything below it. Something like that.",[],0
+560,gzhvw2v,2021-05-26,t1_gzhtoqz,algotrading,"Very interesting, thank you!",[],1
+561,gzhvzcc,2021-05-26,t1_gzhuif9,algotrading,"I always wanted to use volume data more in my models, so that‘s an interesting approach.",[],1
+562,gzi0ta4,2021-05-26,t3_nl35ye,algotrading,"Hi I had same question few days ago, this is how I solved . It's not very precise but you can then use these values as reference to find good values on your dataframe . 
+
+Point pivot = (last high + last low + last close) / 3
+
+Resistance 1 = (2*PP) - last low
+Suporte 1 = (2*PP) - last high 
+
+Resistance 2 = PP + ( resistance 1 - suporte 1)
+Suporte 2 = PP - ( resistance 1 - suporte 1)",[],0
+563,gzi2x0e,2021-05-26,t1_gzi0ta4,algotrading,"Thanks, but this is not based on the price repeatedly bouncing off a certain support or resistance level in the past.",[],0
+564,gzi3o50,2021-05-26,t3_nl2ba5,algotrading,"Test is by changing small details which could've been overfitted. Change your rolling windows by +/-1. Instead of starting the trade at XX:XX o' clock, try +/-5, 10, 15mins. Instead of starting on the 1st Jan 2019, try backtesting since 1st Feb 2019.",[],0
+565,gzi4agu,2021-05-26,t3_nl2ba5,algotrading,"Test it in a normally distributed stationary random walk.
+Test it in many monte-carlo simulations and compute the mean alpha.
+
+Reasoning: if its a random walk no signal might exist. In monte-carlo you can test many scenarios and see if the strategy is general or is just overfitting to any random time series or has lookahead bias",[],0
+566,gzi4m4s,2021-05-26,t1_gzfnfrv,algotrading,wow thx,[],1
+567,gzi4oeq,2021-05-26,t1_gzg2qnl,algotrading,would be interesting,[],1
+569,gzi52aj,2021-05-26,t1_gzg8p8v,algotrading,"Have a quick minute?
+https://www.reddit.com/r/algotrading/comments/nlf4l2/math_for_an_algo/?utm_source=share&utm_medium=mweb",[],0
+570,gzi54ap,2021-05-26,t3_nkzyvz,algotrading,Is web scraping ([http://theautomatic.net/yahoo\_fin-documentation](http://theautomatic.net/yahoo_fin-documentation)) really not worth doing?,[],1
+571,gzi72wn,2021-05-26,t1_gz8ezm1,algotrading,That's per account. So it's still over 25k/day. Even csv's get pretty big,[],1
+572,gzi7ccb,2021-05-26,t1_gzh2r6l,algotrading,"It seems the docs are up to date just the website has a really old design. 
+
+But I also want tick data. So looks like TD is out of the question, I have to go with IB. Are you also going with IB for tick data?",[],0
+574,gzi7voe,2021-05-26,t3_nlf4l2,algotrading,"I can try to help. Would give me an excuse to finally look into scipy more. 
+
+Just calculating programmatically is highly likely the easy part though.",[],0
+576,gzia9mi,2021-05-26,t3_nl2ba5,algotrading,"The 'details' of the actual trading.  It's fairly trivial to build an algo that performs well in a world of instant trades with no slippage.  However, I've had more than a few collapse when faces with the real challenges of trading (aka I want to buy x now, but no one wants to sell, or sell enough, or I want to sell now but no one is buying).  That slippage is an absolute killer and depending on the pace and time period you are looking at trading over it can easily wipe out profits.
+
+&#x200B;
+
+I have an algo that repeatedly tests out magically.. in practice, while it is still profittable it's about 1/5 the estimated profit due to liquidity issues.",[],1
+578,gzibis7,2021-05-26,t1_gzhbknv,algotrading,Hahha. I was wondering for week and a half why my method wors so good only to realize I i had data upside down,[],1
+579,gzibj2w,2021-05-26,t1_gzfa0c0,algotrading,"HMM's and KNN's are too naive to be, at least when you are talking about grade A+++ edge. I'll tell you something. Look for Linkedin/Indeed recruitments for a tech company with an altogether new techstack => maybe they are working with some new product => buy it(not an investment advice😇). Markets are all about narratives. If you can convert narratives into a code, you will be a ninja for sure. Ponder why GME popped up all of a sudden? Learn psychology. Involve emotions with code. Think like a machine - low spreads. Timely calculation of emotions.....",['GME'],0
+580,gzibldt,2021-05-26,t3_nlf4l2,algotrading,"Be cautious most people here never reach profitability and will attempt to steal anything you have. Coding is the easy part, if you do decide to work with a programmer don’t give them the sauce without work. Although in my experience they never last past step 1 of building a real complex program. They usually will try to copypasta some terrible github project or bullshit you just enough to steal your concepts and/or algorithm reaping on what they believe is your naivety in programming.",[],0
+581,gzibzxy,2021-05-26,t3_nkzb1t,algotrading,"Try catboost, it has feature for auto weighting classes. if your db is small you can try cross validation with folds",[],0
+582,gzicrvi,2021-05-26,t1_gzibldt,algotrading,"Thanks, I get that. Sad really, and pathetic. Though that's the way of the world.",[],0
+584,gzidxsg,2021-05-26,t1_gzgn9g7,algotrading,I use robin-stocks for Python it is in their pypi.org repository. Cross my fingers I haven’t had any troubles yet.,[],1
+585,gziejcn,2021-05-26,t1_gzh5wr4,algotrading,"It's possible some sort of beta might be offered, but the full suite will not be available until later Q3 or early Q4. 
+
+Sign up for notifications on our [options page](https://polygon.io/options), all updates will be pushed there, as well as a lottery of beta testers.",[],0
+586,gzif1ei,2021-05-26,t1_gzey8xd,algotrading,"Consider that getting the entire datasets, even if they can be bought by the public, requires an incredible amount of computing and human power to get cleaned up, catalogued, and stored. You're going to be commonly measuring things in Exabytes.",[],0
+587,gzif1ws,2021-05-26,t1_gzgu6yq,algotrading,"Just wait till you see our APIs! lol
+
+We're always looking for feedback, so we really appreciate the kind words.",[],0
+588,gzig6u4,2021-05-26,t1_gzfp8lh,algotrading,">IMC/Optiver/DRW 
+
+I'm referring to more traditional prop firms, not HFT operations. Smaller in terms of volume sure, but can trade anything our prime will clear for us.
+
+>In this case how does the pnl breakdown? Do I get a cut of the proceeds from other desks too?
+
+I don't know how this would work at the firms you mentioned above. At my firm, no. Everyone is only responsible for their own pnl.",[],1
+589,gzigaro,2021-05-26,t3_nlfp1c,algotrading,Seeking Alpha.,[],0
+590,gziglrp,2021-05-26,t1_gzfenz9,algotrading,"How often does your stop-loss actually get hit? It sounds like probably never (always exit at the 100 candle mark more likely). This may work on shorter time-frames, but the longer you hold the more you expose yourself to price not continuing in your favor.
+
+It could just be that your time-based exit is performing well in a bullish trend. But how would it fair if the markets aren't in your favor? I suspect poorly.  
+
+
+To answer your question, I'd try testing with more (and larger) datasets, from different timeframes to make sure you're not fitting your strategy to one type of market condition",[],1
+591,gziguxb,2021-05-26,t3_nlgdml,algotrading,Found something useful. Thanks,[],1
+592,gzigwwt,2021-05-26,t1_gzigaro,algotrading,"i used to like SA but over time i feel the quality is really low because either the author is unsure (without taking a position) or the article feels like it's trying to sway the market or the article is just one of those ""hind-sight"" writings. just my person views.",[],1
+593,gzigzle,2021-05-26,t3_nlgdml,algotrading,This is freakin awesome. Thank you!,[],1
+594,gzih0gz,2021-05-26,t1_gziglrp,algotrading,"You are right, it hit 12 times over 4000 trades in the last five years. I’ll give it a test, thank you very much, refrigidator!",[],1
+595,gzihd3w,2021-05-26,t3_nlfp1c,algotrading,I’ve enjoyed Koyfin and Tiingo for stock specific research.,[],1
+596,gzihjjl,2021-05-26,t3_nlfp1c,algotrading,The Brain.,[],0
+597,gzihl89,2021-05-26,t1_gzihd3w,algotrading,Koyfin is good,[],1
+598,gzihoz5,2021-05-26,t3_nlfp1c,algotrading,Anyone using paid tools?,[],0
+599,gzihrq0,2021-05-26,t1_gzia9mi,algotrading,"Is this something you can test, or is it just something you have to acknowledge in your assessment pre-employment?",[],0
+600,gzily51,2021-05-26,t3_nfdvnk,algotrading,"As far as I know, algoseek can provide a file (Security Master File) that provides information about symbol changes, security names, ISINs, etc. on a historical level for US stocks:  
+[https://www.algoseek.com/products.html#us\_equity\_reference\_data](https://www.algoseek.com/products.html#us_equity_reference_data)
+
+Hope it helps you.",[],1
+602,gzinb9x,2021-05-26,t3_nlgpny,algotrading,Bloomberg is your friend is you are interested in fixed income.,[],1
+603,gziofh8,2021-05-26,t1_gzihrq0,algotrading,Tough to test because liquidity is inherently volatile.  Best to plan for it.  If your algorithm doesn't absolutely kill it in back testing (and i mean be in too good to be true realms) you will likely struggle irl.  To give you some idea last night back tested at 45%.  My actual wad 5%.,[],1
+605,gzipgsx,2021-05-26,t3_nlgdml,algotrading,Very nice,[],1
+606,gzipkw3,2021-05-26,t3_nlgdml,algotrading,"Thanks, so nice",[],1
+607,gzipsts,2021-05-26,t3_nlis7j,algotrading,Wrong sub.,[],0
+608,gziq8k8,2021-05-26,t3_nlf4l2,algotrading,"Is the equation simple enough to do in excel/google sheets? 
+
+If so, use the various broker APIs to pull data there.",[],0
+609,gziqxp2,2021-05-26,t1_gw8rcw9,algotrading,"u/WiredSpike is there also a percentage of profit you should aim for per grid? The higher I put my grid number, the smaller the percentage per grid, but the more times the price will move through multiple grids, which is good right?",[],1
+610,gzir3b8,2021-05-26,t1_gzfdsx7,algotrading,"I fucked up the calc in that post because I'm retarded and thought going from a single ticker to a list of tickers would be additive; once I looked into on MATLAB it was 0.6458% profit so it confirmed that I am in fact retarded. The bot profited, just not +10%",[],0
+611,gzirgzl,2021-05-26,t3_nlis7j,algotrading,[A person has the only indisputable value - ability to work. Everybody wants to take all this value from him in their favor. That's why this Stingy Purposeful Shopping with cynical unbrand tips is so important](http://purposeful.site),[],0
+612,gzirk0v,2021-05-26,t3_nlif5f,algotrading,"Try working through [Algorithmic Trading with Python: Quantitative Methods and Strategy Development](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG). 
+Personally I learned “Python for trading” by just deciding I wanted to build some code for a project and just start hacking away. I’ve found that Python is such a powerful language it’s actually pretty easy to learn. Every time I get stuck I find there is a built-in function or library that does exactly what I need.",[],1
+613,gzis1n9,2021-05-26,t3_nlg1cn,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+614,gzisf3k,2021-05-26,t3_nlfp1c,algotrading,Stock Charts,[],1
+615,gziss89,2021-05-26,t1_gzaz44s,algotrading,Maybe you should work on making money,[],0
+616,gzit9vf,2021-05-26,t1_gzipsts,algotrading,"oh no, these retards know. they spam anyways",[],0
+617,gzitezq,2021-05-26,t3_nlfp1c,algotrading,"Koyfin, Yahoo, Docoh.",[],0
+618,gzitlvt,2021-05-26,t1_gzig6u4,algotrading,Moving to pm,[],0
+619,gziu6q3,2021-05-26,t1_gzir3b8,algotrading,"Don't be too hard on yourself. I've made myself a millionaire with spreadsheets 100 times over. Keep on keepin' on, brother.",[],0
+620,gziuper,2021-05-26,t3_nlis7j,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+621,gziv4l3,2021-05-26,t3_nlgpny,algotrading,"Most swap trades get published to an SDR. DTCC operates one, and Bloomberg used to operate one as well. The data is publicly available. Note that blocks are published with up to 15min delay and show a capped notional.",[],0
+622,gziw0bb,2021-05-26,t3_nlf4l2,algotrading,"I'm up for the challenge and I'm curious as to how other people strategize, would it be a 50:50 ownership of the final code?",[],0
+623,gzix6mq,2021-05-26,t3_nlgdml,algotrading,"Wow, found some useful stuff I'd given up searching for on my own.  Thanks for sharing!",[],1
+624,gziy9eu,2021-05-26,t3_nlif5f,algotrading,"there is an ebook called python bible for finance by florian debov that guides through webscraping, using panda/numpy/etc libs and working with excel",[],0
+625,gziyb2t,2021-05-26,t1_gzgy8tt,algotrading,"I'm really retarded, can you explain what the difference is between rest api calls and streaming data?",[],0
+626,gziyfup,2021-05-26,t1_gzgulpm,algotrading,and alpaca is 200 / minute FYI,[],0
+627,gziynuq,2021-05-26,t1_gzinb9x,algotrading,Thank you.,[],1
+628,gziyos3,2021-05-26,t1_gziv4l3,algotrading,Thank you.,[],1
+629,gziyr6x,2021-05-26,t1_gzfrplt,algotrading,is the free version of Polygon better/more accurate/faster time-scale than alpaca market's api rest data?,[],1
+630,gziyxdt,2021-05-26,t3_nlif5f,algotrading,I gotchu if you code in colab,[],0
+631,gzizmcc,2021-05-26,t3_nl35ye,algotrading,"One of many, many ways could follow this (very simplified) approach:
+
+1. Create a function that finds local extremas within af given range.
+2. Use a sequence of extrema points (minima for support, maxima for resistance) to create several a regression lines. Note, that the points for the regression lines should be formed for various combinations from the sequence. i.e point 1,2, 4 and 6 in a sequence going from 1-8.  
+3. Discard all regression lines where the slope is not close to being horizontal and where the regression line is positioned far enough away from the moving average of the points using some sort of threshold value.
+4. Regression lines that satisfies both conditions in (3)  should resemble support/resistance levels. You have to experiment with how you implement your algorithm for building regression lines using combinatorics from your sequences of extremas.",[],0
+632,gzj03s1,2021-05-26,t1_gzho1yw,algotrading,Oh hey that’s new from when I checked last! Nice catch. Hopefully it’s not too far out.,[],1
+633,gzj109i,2021-05-26,t3_nlfp1c,algotrading,I already have TOS you can make a custom screener. As long as you keep $250 in there it's all for free. They do not charge a no activity fee.,[],0
+634,gzj144r,2021-05-26,t3_nkw74d,algotrading,"Learn the fundamentals of how different things work, then play around until you find something you like",[],1
+638,gzj3hv3,2021-05-26,t1_gziofh8,algotrading,"So actually I think this really gets to the heart of my question, which is that your ""too good to be true"" results may be legitimate in a vacuum with none of the variables you have to deal with in real time (slippage, commissions, liquidity, etc). I've been replicating an academic paper on firm-specific risk in emerging markets and adding a machine learning element to predict and aggregate portfolios based on expected idiosyncratic volatility, and some of the highest expected volatility portfolios have annualized returns above 50%. In reality, those portfolios may even underperform when liquidity of small markets is taken into account.",[],1
+641,gzj51so,2021-05-26,t3_nlif5f,algotrading,"I have found the most value in doing competitive coding (codewars, leetcode, google codejam, etc...).  Codewars is especially nice because of the simple difficulty/topic system, and the fact that you can see others' implementation of the solution after you pass the tests. I've learned a ton that way.
+
+You really want to achieve general fluency in whatever language you're going to be using -- detached from any trading specific application. You can use this general knowledge to more easily translate your ideas into code. Most 'crash course' style resources for algotrading that I've checked out leave much to be desired. Also realize that for this to be effective you'll have to momentarily set aside any thoughts of building a trading system to fully focus on becoming a better programmer, which might be frustrating. The same goes for learning math/stats, market microstructure, etc... 
+
+If you approach this with the mentality of 'saving time' and learning as fast as possible, I don't see a good outcome, unless you're some sort of genius. Algotrading is a vast field that sits right at the intersection of finance, computer science, and statistics.
+
+The best single resource I still refer to is 'Successful Algorithmic Trading' by Michael Halls-Moore. There are PDFs floating around on GitHub that you should be able to find with a simple Google search.",[],1
+642,gzj55i9,2021-05-26,t1_gzgfqe9,algotrading,volume weighted moving average prices or volume weighted moving average price changes? I could see some potential in the latter,[],0
+643,gzj5c76,2021-05-26,t1_gzhtoqz,algotrading,wouldn't this be related to: [https://en.wikipedia.org/wiki/Clustering\_illusion#Examples](https://en.wikipedia.org/wiki/Clustering_illusion#Examples) ?,[],1
+644,gzj5n9z,2021-05-26,t1_gzj3hv3,algotrading,"Yes.  They are true in an idealized world but I have several strategies that in an ideal world return north of 100% a day.  But then liquidity becomes a major issue.  
+
+Very short term trends are easy enough to identify algorithmically and put up huge returns.  But reality is a bitch so if you want to minimize your risk look at longer time frames.  These can be harder to read accurately and won't return as much by a long shot but you derisk your exercise substantially and your net is the same with lower overall chance of shitting the bed totally.
+
+Edit:  so I'm clear I'm speaking of returns in crypto.  Things like the stock mark i can get half of that in theory  the dynamics of liquidity are the same however.  There are things you can do to mitigate liquidity issues as well like tracking volume etc.",[],0
+645,gzj77qh,2021-05-26,t1_gziqxp2,algotrading,"Not exactly, because if it moves through without bounces you lose profit.  You make profit on a return to the same price, a bounce.  Say the price moves from 20 to 25 and then back to 20, of you catch that bounces it's 5$ profit.  But if there is 5 lines in that range, you get only 1$, because you rebuy on the way down, needing the equivalent of 5 times the price moving back and forth in that full range to make the same profit. Like 25 bounces.
+
+The smaller the grid width, the higher the number of bounces it will have to make to get the same profit, squared.
+
+Say you choose twice as many levels in your grid, you will need 4 ltimes as many bounces to get the same profit of the price were to move from bottom to top. 3 times as many lines, 9 times as many bounces. 
+(It's not exactly that relation, but describes it well)
+
+The secret to success is to not be greedy, and imagine the probability of the number of bounces on the full range.  If the price only zig zag 1-2 times on the way up, you are much better off not having levels catching those bounces.
+
+The perfect grid bot has only 2 lines.  
+If you can find the pair to go with it ... You'll be happy 😉
+I usually only have 4-5 levels.
+
+Do a simulation on paper with 2, 5, 10, 20 and 100 levels.",[],1
+646,gzj7g6r,2021-05-26,t1_gziyb2t,algotrading,"With REST API calls you get pricing updates only when you make a request to the server, whereas for streaming the server is sending updates to you as they happen in real-time (or at a fixed interval).",[],0
+647,gzj8f00,2021-05-26,t3_njxd84,algotrading,Cool,[],1
+648,gzjads8,2021-05-26,t1_gzgci9q,algotrading,Alright.,[],0
+649,gzjap7q,2021-05-26,t3_nkzyvz,algotrading,Is there any provider who can provide real time API quote along with vwap indicator?,[],1
+650,gzjar7p,2021-05-26,t1_gzihjjl,algotrading,Fingers too.,[],1
+651,gzjbt59,2021-05-26,t1_gyup7et,algotrading,Gets face melted like candle wax,[],1
+652,gzjd2c1,2021-05-26,t3_ngte3g,algotrading,"I'm using a bot called RoyalQ, its popularity is gaining on the Asia market itself. I would say that it is ""safe"" because it trades SPOT, so I can't get margin called. Furthermore, I use it on coins that I personally want to buy therefore I'm comfortable with the bot. It uses a DCA strategy and the settings can be set to your personal preference.  
+  
+You can use this link to sign up: https://raqsy.com/s/TLLT4  
+  
+If you have any questions, you can drop me a message too.",[],1
+653,gzjes82,2021-05-26,t3_nll54k,algotrading,"> Hand trading this arb takes time and results in sub-optimal fills.
+
+Yeah but actually doing the trade is very easy, this is like 101 stuff that requires no fancy math and minimal trading knowledge.  What exactly are you contributing to the value equation here?",[],1
+654,gzjfb4k,2021-05-26,t3_nlkln8,algotrading,"One thing to consider - a few years ago when i was coding a forex algo, I chose a commission account with oanda’s lower spreads instead of the no-commission account with wider spreads. If I remember correctly I hit an issue with the API that I could not get bid/ask from the commission free price. Only the bid/ask from the wider spreads was possible. So my price in the platforms would not match the quotes my bot got. 
+
+Could this be a factor?",[],0
+656,gzjg3b5,2021-05-26,t3_nlkln8,algotrading,The time stamp provided in the API call is in UTC and I'm guessing the candle you're looking at on the website is using your local timezone. Could this be it?,[],0
+657,gzjg710,2021-05-26,t1_gzitlvt,algotrading,">Are these mostly discretionary trading in that case?
+
+Not specifically, lots of automated too. Agree on variance.
+
+>Is there any collaboration between traders at your firm?
+
+As much as you want there to be. You can come in and collaborate with people who have different skill sets than you in exchange for a % split of profits. We don't specifically have defined pods but we do naturally fall into groups of people that we are friendly with, collaborate with and trade similar to. I find it pretty beneficial to have people to bounce ideas off of. Backend dev is supplied by firm but strategy dev is done by traders (or can be hired externally/partnered)",[],1
+658,gzjgcq4,2021-05-26,t1_gzjg3b5,algotrading,Although looks like your granularity is 1D so I'm not so sure,[],0
+659,gzjgi1q,2021-05-26,t1_gzjes82,algotrading,"I agree 200%+ apy trades with 0 delta risk is considered almost a waste of time in crypto. My guess was that this sub might find value in a trade with this level of return, maybe everyone here considers this too low
+
+There are risks involved with the basis, understanding how trading bands, the liquidation engine, etc work. The information is all out there though
+
+This is a simple trade and idea, I don't view that as a negative",[],0
+660,gzjgp36,2021-05-26,t3_nj1wnn,algotrading,"Welcome to the Club! This one should be fine to start with  
+[https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/](https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/)  
+
+
+NOTE: coding is \~10% of entire work scope   
+Good luck!  
+🙂",[],1
+661,gzjguaa,2021-05-26,t3_nlmy9m,algotrading,"Of course, since with CFDs they have to hedge the underlying by buying the stock/future. The markup on fees/spread/overnight fee is their profit margin.
+
+In very rare cases CFDs can be cheaper than the underlying, which was the case for a while with GME because of the borrowing fee.",['GME'],0
+662,gzjh93t,2021-05-26,t1_gzjg9dj,algotrading,"This is an example of why this trade is still profitable. I post an API call that trivially (as duality noted) allows you to re-construct the trades and the returns, the data is fresh from the current hour
+ 
+Then replies look like this",[],0
+663,gzjhmak,2021-05-26,t1_gzi7ccb,algotrading,"They're not ;)
+
+You'll find that out when you get your hands dirty.
+
+I am with IB for tick data now, but what they didn't tell us prior to signing up was you only get data for three symbols. If you want any more you have to go elsewhere.",[],0
+664,gzjhy95,2021-05-26,t1_gzjbt59,algotrading,"I didn't say it fared well, just that I've done it that way lol. Because, yes. My face is permanently this way now.",[],0
+665,gzjhygh,2021-05-26,t1_gzgrnxt,algotrading,300 calls per minute,[],0
+666,gzjlw1c,2021-05-26,t3_nll54k,algotrading,"You're about two weeks too late to the party.  I was running this exact trade for the past year, after last week it's basically collapsed.  You really don't need an algo for it either; I was making 20% without trying, half a percent in slippage wasn't the end of the world.",[],1
+668,gzjmdjv,2021-05-26,t1_gzjlw1c,algotrading,"Historic funding rates are available, they are in fact what best signals the overall market structure. And they show that this trade will continue to have value. Yes, it is easier when funding is at .0150% per hour for a month straight. If your benchmark is 500+% apy then it could be weeks until conditions like that return, and they may only be temporal. Having a BOT allows the capture of lesser value spreads",[],0
+669,gzjmj7l,2021-05-26,t1_gzjgcq4,algotrading,"I'm quite confused to be honest. Changing the timezone changes the values, but I can't get them to lign up no matter what, but on the other hand, as you say, shouldn't daily historical daily candles be the same no matter what timezone?",[],0
+670,gzjmtj0,2021-05-26,t3_nlnz3e,algotrading,"The reality is that you have an extremely low chance of beating the market with such an approach... if you wanna get into automated trading, there’s no way around the hard work of mastering the toolkits of statistics, probability, and programming.",[],1
+671,gzjnez2,2021-05-26,t3_nlgdml,algotrading,Nothing special under python 😏,[],1
+672,gzjnky2,2021-05-26,t1_gzjmtj0,algotrading,I think you are right for getting great results. I would love to see what results I can get with average effort. I can imagine with an educated selection of shares and percentages and lots of patience (hence the testing) it could yield decent results,[],0
+673,gzjo210,2021-05-26,t1_gzjnky2,algotrading,The question is whether you can do better a benchmark buy-and-hold strategy. I’m guessing you will find it hard to pick a fixed ‘x’ and ‘y’ which will give you good results on any forward testing.,[],1
+675,gzjoqv2,2021-05-26,t1_gzig6u4,algotrading,"> and you keep your own ip
+
+Did they change the contract?",[],0
+676,gzjptt2,2021-05-26,t1_gzirk0v,algotrading,Any online course that you’d recommend for beginners?,[],0
+677,gzjpwbb,2021-05-26,t1_gzjmdjv,algotrading,"> Historic funding rates are available, they are in fact what best signals the overall market structure.
+
+This is what people thought running inter exchange arb back in 2017.  Turns out it wasn't the case, and that it was indeed an anomaly that had gone away for good.  The high funding rate is wholly dependent on retail folks who believe BTC is going to moon and that only a sucker would sell a future at a 30% premium.  After the crash, those people have disappeared into the woodwork.  It will take another parabolic increase to bring them back.
+
+Another reason they stuck around so long as that that this trade is not available to US residents.",[],1
+678,gzjq1ii,2021-05-26,t3_nlnz3e,algotrading,"Well, to answer your question, you can try [Option Alpha](https://optionalpha.com). Their trading bot is in beta and costs at least $2K. But it is legit and supported. The realistic answer is what everyone else said lol.",[],0
+679,gzjq7e8,2021-05-26,t1_gzjpwbb,algotrading,"If you can't click on the current API link and see the rates for yourself, I can't help you
+
+Sub is so violently hostile to the idea of a simple easy high return trade (good), but won't spend 15 seconds to verify something (weak)",[],1
+680,gzjqcvj,2021-05-26,t1_gzjq1ii,algotrading,"Thanks! I wanted to start/test on a small scale, there are no ""ready to use"" open source packages that have instructions how to test ideas with past data?",[],0
+681,gzjqek6,2021-05-26,t1_gzjq7e8,algotrading,"So my original question still stands.  If you are locking in triple digit returns, why are you concerned with a point or two of slippage?
+
+This sub isn't hostile to any ideas, the sub is hostile to people coming in with something that's been well known and trumpeting it like it's some shiny new thing, and that something this easy is something a halfway competent developer would need help with.  These trades have been discussed to death in various crypto subreddits like r/bitcoinMarkets and such.",[],0
+682,gzjqk95,2021-05-26,t1_gziw0bb,algotrading,Something like that,[],1
+683,gzjr0u4,2021-05-26,t1_gziq8k8,algotrading,"Yes, I have it in Google sheets and use nomics  to pull data",[],0
+684,gzjr6ps,2021-05-26,t1_gziq8k8,algotrading,It has so if and statements for the strategy though that aren’t codified,[],0
+685,gzjrwak,2021-05-26,t3_nll54k,algotrading,What country are you located in?,[],0
+686,gzjry6u,2021-05-26,t3_nlnz3e,algotrading,"You can get decent data on cryptocurrencies free of charge through the APIs of the crypto-exchanges.
+
+Four daily OHLC data, Yahoo Finance could be used. 
+
+There's a backtesting framework in python, too:
+https://pypi.org/project/Backtesting/",[],0
+687,gzjtvjy,2021-05-26,t1_gzj5c76,algotrading,"Not related I believe, mean shift approach similar to linear regression where one calculates shortest distances to a nearest points, in our case prices that would in due create a cluster and center of that cluster would be approximate resistance price",[],1
+688,gzju958,2021-05-26,t1_gzhvw2v,algotrading,"You are welcome, another good one k-means where you can specify how many clusters / support resistance levels you want https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html",[],0
+689,gzjuo72,2021-05-26,t1_gzjrwak,algotrading,Non US,[],0
+690,gzjutr0,2021-05-26,t1_gzjuo72,algotrading,Lucky you.  I'd love to trade these but can't get around KYC as a US resident.,[],1
+691,gzjuw6f,2021-05-26,t3_nlgdml,algotrading,No love for node. :(,[],1
+692,gzjvmm3,2021-05-26,t3_nlod0l,algotrading,"Guy use the web portal gateway? It's unstable, can't you use the gateway?",[],1
+693,gzjxnz4,2021-05-26,t1_gzjqek6,algotrading,"The OP says I am not concerned with slight slippage, the bot improves on me just smashing the books by hand (adds up over time)
+ 
+I called it simple and basic (the carry trade) and said 200% a year might not be interesting to everyone, you call this ""trumpeting""
+ 
+I have met a lot of talented people on reddit, if there is a better place to find them that would help. I like being able to read their past posts as it really gives a clue into how mentally organized they are and if they can keep their cool-",[],1
+694,gzjxzls,2021-05-26,t3_nlgdml,algotrading,Not bad!,[],0
+695,gzk10t3,2021-05-26,t3_nlif5f,algotrading,"Coding is just telling your comouter to do what you want it to do.
+So you have the trading strategy that is one thing totally independant of the code, and the code.
+I recommend ta-lib for all the trading fonctions.
+First you should learn how to code.
+Then there is the trading strategy which is the hard stuff :p",[],0
+696,gzk136k,2021-05-26,t3_nlkln8,algotrading,"I used oanda a few years ago. The trouble I had was the data wasn't consistent. I would get data after close and then build my model, then I'd look at the data a few hours later and the closing price was different. The closing price for the day before would even do this sometimes.",[],0
+697,gzk24v2,2021-05-26,t3_nlnz3e,algotrading,"I can send you my code for binance.
+But I only do live trading so I didn't implement back testing",[],0
+789,gzif1ws,2021-05-26,t1_gzgu6yq,algotrading,"Just wait till you see our APIs! lol
+
+We're always looking for feedback, so we really appreciate the kind words.",[],0
+790,gzig6u4,2021-05-26,t1_gzfp8lh,algotrading,">IMC/Optiver/DRW 
+
+I'm referring to more traditional prop firms, not HFT operations. Smaller in terms of volume sure, but can trade anything our prime will clear for us.
+
+>In this case how does the pnl breakdown? Do I get a cut of the proceeds from other desks too?
+
+I don't know how this would work at the firms you mentioned above. At my firm, no. Everyone is only responsible for their own pnl and you keep your own ip",[],1
+791,gzigaro,2021-05-26,t3_nlfp1c,algotrading,Seeking Alpha.,[],0
+792,gziglrp,2021-05-26,t1_gzfenz9,algotrading,"How often does your stop-loss actually get hit? It sounds like probably never (always exit at the 100 candle mark more likely). This may work on shorter time-frames, but the longer you hold the more you expose yourself to price not continuing in your favor.
+
+It could just be that your time-based exit is performing well in a bullish trend. But how would it fair if the markets aren't in your favor? I suspect poorly.  
+
+
+To answer your question, I'd try testing with more (and larger) datasets, from different timeframes to make sure you're not fitting your strategy to one type of market condition",[],1
+793,gziguxb,2021-05-26,t3_nlgdml,algotrading,Found something useful. Thanks,[],1
+794,gzigwwt,2021-05-26,t1_gzigaro,algotrading,"i used to like SA but over time i feel the quality is really low because either the author is unsure (without taking a position) or the article feels like it's trying to sway the market or the article is just one of those ""hind-sight"" writings. just my person views.",[],1
+795,gzigzle,2021-05-26,t3_nlgdml,algotrading,This is freakin awesome. Thank you!,[],1
+796,gzih0gz,2021-05-26,t1_gziglrp,algotrading,"You are right, it hit 12 times over 4000 trades in the last five years. I’ll give it a test, thank you very much, refrigidator!",[],1
+797,gzihd3w,2021-05-26,t3_nlfp1c,algotrading,I’ve enjoyed Koyfin and Tiingo for stock specific research.,[],1
+798,gzihjjl,2021-05-26,t3_nlfp1c,algotrading,The Brain.,[],0
+799,gzihl89,2021-05-26,t1_gzihd3w,algotrading,Koyfin is good,[],1
+800,gzihoz5,2021-05-26,t3_nlfp1c,algotrading,Anyone using paid tools?,[],0
+801,gzihrq0,2021-05-26,t1_gzia9mi,algotrading,"Is this something you can test, or is it just something you have to acknowledge in your assessment pre-employment?",[],0
+802,gzily51,2021-05-26,t3_nfdvnk,algotrading,"As far as I know, algoseek can provide a file (Security Master File) that provides information about symbol changes, security names, ISINs, etc. on a historical level for US stocks:  
+[https://www.algoseek.com/products.html#us\_equity\_reference\_data](https://www.algoseek.com/products.html#us_equity_reference_data)
+
+Hope it helps you.",[],1
+804,gzinb9x,2021-05-26,t3_nlgpny,algotrading,Bloomberg is your friend is you are interested in fixed income.,[],1
+805,gziofh8,2021-05-26,t1_gzihrq0,algotrading,Tough to test because liquidity is inherently volatile.  Best to plan for it.  If your algorithm doesn't absolutely kill it in back testing (and i mean be in too good to be true realms) you will likely struggle irl.  To give you some idea last night back tested at 45%.  My actual wad 5%.,[],1
+806,gzipgsx,2021-05-26,t3_nlgdml,algotrading,Very nice,[],1
+807,gzipkw3,2021-05-26,t3_nlgdml,algotrading,"Thanks, so nice",[],1
+808,gzipsts,2021-05-26,t3_nlis7j,algotrading,Wrong sub.,[],0
+809,gziq8k8,2021-05-26,t3_nlf4l2,algotrading,"Is the equation simple enough to do in excel/google sheets? 
+
+If so, use the various broker APIs to pull data there.",[],0
+810,gziqxp2,2021-05-26,t1_gw8rcw9,algotrading,"u/WiredSpike is there also a percentage of profit you should aim for per grid? The higher I put my grid number, the smaller the percentage per grid, but the more times the price will move through multiple grids, which is good right?",[],1
+811,gzir3b8,2021-05-26,t1_gzfdsx7,algotrading,"I fucked up the calc in that post because I'm retarded and thought going from a single ticker to a list of tickers would be additive; once I looked into on MATLAB it was 0.6458% profit so it confirmed that I am in fact retarded. The bot profited, just not +10%",[],0
+812,gzirk0v,2021-05-26,t3_nlif5f,algotrading,"Try working through [Algorithmic Trading with Python: Quantitative Methods and Strategy Development](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG). 
+Personally I learned “Python for trading” by just deciding I wanted to build some code for a project and just start hacking away. I’ve found that Python is such a powerful language it’s actually pretty easy to learn. Every time I get stuck I find there is a built-in function or library that does exactly what I need.",[],1
+813,gzis1n9,2021-05-26,t3_nlg1cn,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+814,gzisf3k,2021-05-26,t3_nlfp1c,algotrading,Stock Charts,[],1
+815,gziss89,2021-05-26,t1_gzaz44s,algotrading,Maybe you should work on making money,[],0
+816,gzit9vf,2021-05-26,t1_gzipsts,algotrading,"oh no, these retards know. they spam anyways",[],0
+817,gzitezq,2021-05-26,t3_nlfp1c,algotrading,"Koyfin, Yahoo, Docoh.",[],0
+818,gzitlvt,2021-05-26,t1_gzig6u4,algotrading,"Are these mostly discretionary trading in that case? A lot of value in systematic trading for HFT is fairly translatable (at least intra-exchange), improvements in pricing algos normally work in multiple settings. 
+
+I wonder if the PnL cap is higher for traditional prop firms... Definitely more high variance. 
+
+Optiver has pay system based on 'marbles' (basically # bps on total firm pnl) based on responsiblity/seniority level and your performance ranking within that. Others are pretty similar, generally less explicit than Optiver which is totally transparent.
+
+Is there any collaboration between traders at your firm? I'm aware other places e.g Citadel sec/ Jump run in pods, so the pnl is more separatable- think the quant/dev teams are still shared though",[],0
+819,gziu6q3,2021-05-26,t1_gzir3b8,algotrading,"Don't be too hard on yourself. I've made myself a millionaire with spreadsheets 100 times over. Keep on keepin' on, brother.",[],0
+820,gziuper,2021-05-26,t3_nlis7j,algotrading,"Warning, your post has received two or more reports and has been removed until a moderator can review it.
+
+Please ensure you are providing quality content.
+
+All reports will be reviewed by the moderators and appropriate action will be taken.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/algotrading) if you have any questions or concerns.*",[],0
+821,gziv4l3,2021-05-26,t3_nlgpny,algotrading,"Most swap trades get published to an SDR. DTCC operates one, and Bloomberg used to operate one as well. The data is publicly available. Note that blocks are published with up to 15min delay and show a capped notional.",[],0
+822,gziw0bb,2021-05-26,t3_nlf4l2,algotrading,"I'm up for the challenge and I'm curious as to how other people strategize, would it be a 50:50 ownership of the final code?",[],0
+823,gzix6mq,2021-05-26,t3_nlgdml,algotrading,"Wow, found some useful stuff I'd given up searching for on my own.  Thanks for sharing!",[],1
+824,gziy9eu,2021-05-26,t3_nlif5f,algotrading,"there is an ebook called python bible for finance by florian debov that guides through webscraping, using panda/numpy/etc libs and working with excel",[],0
+825,gziyb2t,2021-05-26,t1_gzgy8tt,algotrading,"I'm really retarded, can you explain what the difference is between rest api calls and streaming data?",[],0
+826,gziyfup,2021-05-26,t1_gzgulpm,algotrading,and alpaca is 200 / minute FYI,[],0
+827,gziynuq,2021-05-26,t1_gzinb9x,algotrading,Thank you.,[],1
+828,gziyos3,2021-05-26,t1_gziv4l3,algotrading,Thank you.,[],1
+829,gziyr6x,2021-05-26,t1_gzfrplt,algotrading,is the free version of Polygon better/more accurate/faster time-scale than alpaca market's api rest data?,[],1
+830,gziyxdt,2021-05-26,t3_nlif5f,algotrading,I gotchu if you code in colab,[],0
+831,gzizmcc,2021-05-26,t3_nl35ye,algotrading,"One of many, many ways could follow this (very simplified) approach:
+
+1. Create a function that finds local extremas within af given range.
+2. Use a sequence of extrema points (minima for support, maxima for resistance) to create several a regression lines. Note, that the points for the regression lines should be formed for various combinations from the sequence. i.e point 1,2, 4 and 6 in a sequence going from 1-8.  
+3. Discard all regression lines where the slope is not close to being horizontal and where the regression line is positioned far enough away from the moving average of the points using some sort of threshold value.
+4. Regression lines that satisfies both conditions in (3)  should resemble support/resistance levels. You have to experiment with how you implement your algorithm for building regression lines using combinatorics from your sequences of extremas.",[],0
+832,gzj03s1,2021-05-26,t1_gzho1yw,algotrading,Oh hey that’s new from when I checked last! Nice catch. Hopefully it’s not too far out.,[],1
+833,gzj109i,2021-05-26,t3_nlfp1c,algotrading,I already have TOS you can make a custom screener. As long as you keep $250 in there it's all for free. They do not charge a no activity fee.,[],0
+834,gzj144r,2021-05-26,t3_nkw74d,algotrading,"Learn the fundamentals of how different things work, then play around until you find something you like",[],1
+838,gzj3hv3,2021-05-26,t1_gziofh8,algotrading,"So actually I think this really gets to the heart of my question, which is that your ""too good to be true"" results may be legitimate in a vacuum with none of the variables you have to deal with in real time (slippage, commissions, liquidity, etc). I've been replicating an academic paper on firm-specific risk in emerging markets and adding a machine learning element to predict and aggregate portfolios based on expected idiosyncratic volatility, and some of the highest expected volatility portfolios have annualized returns above 50%. In reality, those portfolios may even underperform when liquidity of small markets is taken into account.",[],1
+841,gzj51so,2021-05-26,t3_nlif5f,algotrading,"I have found the most value in doing competitive coding (codewars, leetcode, google codejam, etc...).  Codewars is especially nice because of the simple difficulty/topic system, and the fact that you can see others' implementation of the solution after you pass the tests. I've learned a ton that way.
+
+You really want to achieve general fluency in whatever language you're going to be using -- detached from any trading specific application. You can use this general knowledge to more easily translate your ideas into code. Most 'crash course' style resources for algotrading that I've checked out leave much to be desired. Also realize that for this to be effective you'll have to momentarily set aside any thoughts of building a trading system to fully focus on becoming a better programmer, which might be frustrating. The same goes for learning math/stats, market microstructure, etc... 
+
+If you approach this with the mentality of 'saving time' and learning as fast as possible, I don't see a good outcome, unless you're some sort of genius. Algotrading is a vast field that sits right at the intersection of finance, computer science, and statistics.
+
+The best single resource I still refer to is 'Successful Algorithmic Trading' by Michael Halls-Moore. There are PDFs floating around on GitHub that you should be able to find with a simple Google search.",[],1
+842,gzj55i9,2021-05-26,t1_gzgfqe9,algotrading,volume weighted moving average prices or volume weighted moving average price changes? I could see some potential in the latter,[],0
+843,gzj5c76,2021-05-26,t1_gzhtoqz,algotrading,wouldn't this be related to: [https://en.wikipedia.org/wiki/Clustering\_illusion#Examples](https://en.wikipedia.org/wiki/Clustering_illusion#Examples) ?,[],1
+844,gzj5n9z,2021-05-26,t1_gzj3hv3,algotrading,"Yes.  They are true in an idealized world but I have several strategies that in an ideal world return north of 100% a day.  But then liquidity becomes a major issue.  
+
+Very short term trends are easy enough to identify algorithmically and put up huge returns.  But reality is a bitch so if you want to minimize your risk look at longer time frames.  These can be harder to read accurately and won't return as much by a long shot but you derisk your exercise substantially and your net is the same with lower overall chance of shitting the bed totally.
+
+Edit:  so I'm clear I'm speaking of returns in crypto.  Things like the stock mark i can get half of that in theory  the dynamics of liquidity are the same however.  There are things you can do to mitigate liquidity issues as well like tracking volume etc.",[],0
+845,gzj77qh,2021-05-26,t1_gziqxp2,algotrading,"Not exactly, because if it moves through without bounces you lose profit.  You make profit on a return to the same price, a bounce.  Say the price moves from 20 to 25 and then back to 20, of you catch that bounces it's 5$ profit.  But if there is 5 lines in that range, you get only 1$, because you rebuy on the way down, needing the equivalent of 5 times the price moving back and forth in that full range to make the same profit. Like 25 bounces.
+
+The smaller the grid width, the higher the number of bounces it will have to make to get the same profit, squared.
+
+Say you choose twice as many levels in your grid, you will need 4 ltimes as many bounces to get the same profit of the price were to move from bottom to top. 3 times as many lines, 9 times as many bounces. 
+(It's not exactly that relation, but describes it well)
+
+The secret to success is to not be greedy, and imagine the probability of the number of bounces on the full range.  If the price only zig zag 1-2 times on the way up, you are much better off not having levels catching those bounces.
+
+The perfect grid bot has only 2 lines.  
+If you can find the pair to go with it ... You'll be happy 😉
+I usually only have 4-5 levels.
+
+Do a simulation on paper with 2, 5, 10, 20 and 100 levels.",[],1
+846,gzj7g6r,2021-05-26,t1_gziyb2t,algotrading,"With REST API calls you get pricing updates only when you make a request to the server, whereas for streaming the server is sending updates to you as they happen in real-time (or at a fixed interval).",[],0
+847,gzj8f00,2021-05-26,t3_njxd84,algotrading,Cool,[],1
+848,gzjads8,2021-05-26,t1_gzgci9q,algotrading,Alright.,[],0
+849,gzjap7q,2021-05-26,t3_nkzyvz,algotrading,Is there any provider who can provide real time API quote along with vwap indicator?,[],1
+850,gzjar7p,2021-05-26,t1_gzihjjl,algotrading,Fingers too.,[],1
+851,gzjbt59,2021-05-26,t1_gyup7et,algotrading,Gets face melted like candle wax,[],1
+852,gzjd2c1,2021-05-26,t3_ngte3g,algotrading,"I'm using a bot called RoyalQ, its popularity is gaining on the Asia market itself. I would say that it is ""safe"" because it trades SPOT, so I can't get margin called. Furthermore, I use it on coins that I personally want to buy therefore I'm comfortable with the bot. It uses a DCA strategy and the settings can be set to your personal preference.  
+  
+You can use this link to sign up: https://raqsy.com/s/TLLT4  
+  
+If you have any questions, you can drop me a message too.",[],1
+853,gzjes82,2021-05-26,t3_nll54k,algotrading,"> Hand trading this arb takes time and results in sub-optimal fills.
+
+Yeah but actually doing the trade is very easy, this is like 101 stuff that requires no fancy math and minimal trading knowledge.  What exactly are you contributing to the value equation here?",[],1
+854,gzjfb4k,2021-05-26,t3_nlkln8,algotrading,"One thing to consider - a few years ago when i was coding a forex algo, I chose a commission account with oanda’s lower spreads instead of the no-commission account with wider spreads. If I remember correctly I hit an issue with the API that I could not get bid/ask from the commission free price. Only the bid/ask from the wider spreads was possible. So my price in the platforms would not match the quotes my bot got. 
+
+Could this be a factor?",[],0
+856,gzjg3b5,2021-05-26,t3_nlkln8,algotrading,The time stamp provided in the API call is in UTC and I'm guessing the candle you're looking at on the website is using your local timezone. Could this be it?,[],0
+857,gzjg710,2021-05-26,t1_gzitlvt,algotrading,">Are these mostly discretionary trading in that case?
+
+Not specifically, lots of automated too. Agree on variance.
+
+>Is there any collaboration between traders at your firm?
+
+As much as you want there to be. You can come in and collaborate with people who have different skill sets than you in exchange for a % split of profits. We don't specifically have defined pods but we do naturally fall into groups of people that we are friendly with, collaborate with and trade similar to. I find it pretty beneficial to have people to bounce ideas off of. Backend dev is supplied by firm but strategy dev is done by traders (or can be hired externally/partnered)",[],1
+858,gzjgcq4,2021-05-26,t1_gzjg3b5,algotrading,Although looks like your granularity is 1D so I'm not so sure,[],0
+859,gzjgi1q,2021-05-26,t1_gzjes82,algotrading,"I agree 200%+ apy trades with 0 delta risk is considered almost a waste of time in crypto. My guess was that this sub might find value in a trade with this level of return, maybe everyone here considers this too low
+
+There are risks involved with the basis, understanding how trading bands, the liquidation engine, etc work. The information is all out there though
+
+This is a simple trade and idea, I don't view that as a negative",[],0
+860,gzjgp36,2021-05-26,t3_nj1wnn,algotrading,"Welcome to the Club! This one should be fine to start with  
+[https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/](https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/)  
+
+
+NOTE: coding is \~10% of entire work scope   
+Good luck!  
+🙂",[],1
+861,gzjguaa,2021-05-26,t3_nlmy9m,algotrading,"Of course, since with CFDs they have to hedge the underlying by buying the stock/future. The markup on fees/spread/overnight fee is their profit margin.
+
+In very rare cases CFDs can be cheaper than the underlying, which was the case for a while with GME because of the borrowing fee.",['GME'],0
+862,gzjh93t,2021-05-26,t1_gzjg9dj,algotrading,"This is an example of why this trade is still profitable. I post an API call that trivially (as duality noted) allows you to re-construct the trades and the returns, the data is fresh from the current hour
+ 
+Then replies look like this",[],0
+863,gzjhmak,2021-05-26,t1_gzi7ccb,algotrading,"They're not ;)
+
+You'll find that out when you get your hands dirty.
+
+I am with IB for tick data now, but what they didn't tell us prior to signing up was you only get data for three symbols. If you want any more you have to go elsewhere.",[],0
+864,gzjhy95,2021-05-26,t1_gzjbt59,algotrading,"I didn't say it fared well, just that I've done it that way lol. Because, yes. My face is permanently this way now.",[],0
+865,gzjhygh,2021-05-26,t1_gzgrnxt,algotrading,300 calls per minute,[],0
+866,gzjlw1c,2021-05-26,t3_nll54k,algotrading,"You're about two weeks too late to the party.  I was running this exact trade for the past year, after last week it's basically collapsed.  You really don't need an algo for it either; I was making 20% without trying, half a percent in slippage wasn't the end of the world.",[],1
+868,gzjmdjv,2021-05-26,t1_gzjlw1c,algotrading,"Historic funding rates are available, they are in fact what best signals the overall market structure. And they show that this trade will continue to have value. Yes, it is easier when funding is at .0150% per hour for a month straight. If your benchmark is 500+% apy then it could be weeks until conditions like that return, and they may only be temporal. Having a BOT allows the capture of lesser value spreads",[],0
+869,gzjmj7l,2021-05-26,t1_gzjgcq4,algotrading,"I'm quite confused to be honest. Changing the timezone changes the values, but I can't get them to lign up no matter what, but on the other hand, as you say, shouldn't daily historical daily candles be the same no matter what timezone?",[],0
+870,gzjmtj0,2021-05-26,t3_nlnz3e,algotrading,"The reality is that you have an extremely low chance of beating the market with such an approach... if you wanna get into automated trading, there’s no way around the hard work of mastering the toolkits of statistics, probability, and programming.",[],1
+871,gzjnez2,2021-05-26,t3_nlgdml,algotrading,Nothing special under python 😏,[],1
+872,gzjnky2,2021-05-26,t1_gzjmtj0,algotrading,I think you are right for getting great results. I would love to see what results I can get with average effort. I can imagine with an educated selection of shares and percentages and lots of patience (hence the testing) it could yield decent results,[],0
+873,gzjo210,2021-05-26,t1_gzjnky2,algotrading,The question is whether you can do better a benchmark buy-and-hold strategy. I’m guessing you will find it hard to pick a fixed ‘x’ and ‘y’ which will give you good results on any forward testing.,[],1
+875,gzjoqv2,2021-05-26,t1_gzig6u4,algotrading,"> and you keep your own ip
+
+Did they change the contract?",[],0
+876,gzjptt2,2021-05-26,t1_gzirk0v,algotrading,Any online course that you’d recommend for beginners?,[],0
+877,gzjpwbb,2021-05-26,t1_gzjmdjv,algotrading,"> Historic funding rates are available, they are in fact what best signals the overall market structure.
+
+This is what people thought running inter exchange arb back in 2017.  Turns out it wasn't the case, and that it was indeed an anomaly that had gone away for good.  The high funding rate is wholly dependent on retail folks who believe BTC is going to moon and that only a sucker would sell a future at a 30% premium.  After the crash, those people have disappeared into the woodwork.  It will take another parabolic increase to bring them back.
+
+Another reason they stuck around so long as that that this trade is not available to US residents.",[],1
+878,gzjq1ii,2021-05-26,t3_nlnz3e,algotrading,"Well, to answer your question, you can try [Option Alpha](https://optionalpha.com). Their trading bot is in beta and costs at least $2K. But it is legit and supported. The realistic answer is what everyone else said lol.",[],0
+879,gzjq7e8,2021-05-26,t1_gzjpwbb,algotrading,"If you can't click on the current API link and see the rates for yourself, I can't help you
+
+Sub is so violently hostile to the idea of a simple easy high return trade (good), but won't spend 15 seconds to verify something (weak)",[],1
+880,gzjqcvj,2021-05-26,t1_gzjq1ii,algotrading,"Thanks! I wanted to start/test on a small scale, there are no ""ready to use"" open source packages that have instructions how to test ideas with past data?",[],0
+881,gzjqek6,2021-05-26,t1_gzjq7e8,algotrading,"So my original question still stands.  If you are locking in triple digit returns, why are you concerned with a point or two of slippage?
+
+This sub isn't hostile to any ideas, the sub is hostile to people coming in with something that's been well known and trumpeting it like it's some shiny new thing, and that something this easy is something a halfway competent developer would need help with.  These trades have been discussed to death in various crypto subreddits like r/bitcoinMarkets and such.",[],0
+882,gzjqk95,2021-05-26,t1_gziw0bb,algotrading,Something like that,[],1
+883,gzjr0u4,2021-05-26,t1_gziq8k8,algotrading,"Yes, I have it in Google sheets and use nomics  to pull data",[],0
+884,gzjr6ps,2021-05-26,t1_gziq8k8,algotrading,It has so if and statements for the strategy though that aren’t codified,[],0
+885,gzjrwak,2021-05-26,t3_nll54k,algotrading,What country are you located in?,[],0
+886,gzjry6u,2021-05-26,t3_nlnz3e,algotrading,"You can get decent data on cryptocurrencies free of charge through the APIs of the crypto-exchanges.
+
+Four daily OHLC data, Yahoo Finance could be used. 
+
+There's a backtesting framework in python, too:
+https://pypi.org/project/Backtesting/",[],0
+887,gzjtvjy,2021-05-26,t1_gzj5c76,algotrading,"Not related I believe, mean shift approach similar to linear regression where one calculates shortest distances to a nearest points, in our case prices that would in due create a cluster and center of that cluster would be approximate resistance price.
+It would be related if you believe that support and resistance are random formations",[],1
+888,gzju958,2021-05-26,t1_gzhvw2v,algotrading,"You are welcome, another good one k-means where you can specify how many clusters / support resistance levels you want https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html",[],0
+889,gzjuo72,2021-05-26,t1_gzjrwak,algotrading,Non US,[],0
+890,gzjutr0,2021-05-26,t1_gzjuo72,algotrading,Lucky you.  I'd love to trade these but can't get around KYC as a US resident.,[],1
+891,gzjuw6f,2021-05-26,t3_nlgdml,algotrading,No love for node. :(,[],1
+892,gzjvmm3,2021-05-26,t3_nlod0l,algotrading,"Guy use the web portal gateway? It's unstable, can't you use the gateway?",[],1
+893,gzjxnz4,2021-05-26,t1_gzjqek6,algotrading,"The OP says I am not concerned with slight slippage, the bot improves on me just smashing the books by hand (adds up over time)
+ 
+I called it simple and basic (the carry trade) and said 200% a year might not be interesting to everyone, you call this ""trumpeting""
+ 
+I have met a lot of talented people on reddit, if there is a better place to find them that would help. I like being able to read their past posts as it really gives a clue into how mentally organized they are and if they can keep their cool-",[],1
+894,gzjxzls,2021-05-26,t3_nlgdml,algotrading,Not bad!,[],0
+895,gzk10t3,2021-05-26,t3_nlif5f,algotrading,"Coding is just telling your comouter to do what you want it to do.
+So you have the trading strategy that is one thing totally independant of the code, and the code.
+I recommend ta-lib for all the trading fonctions.
+First you should learn how to code.
+Then there is the trading strategy which is the hard stuff :p",[],0
+896,gzk136k,2021-05-26,t3_nlkln8,algotrading,"I used oanda a few years ago. The trouble I had was the data wasn't consistent. I would get data after close and then build my model, then I'd look at the data a few hours later and the closing price was different. The closing price for the day before would even do this sometimes.",[],0
+897,gzk24v2,2021-05-26,t3_nlnz3e,algotrading,"I can send you my python  code for binance.
+But I only do live trading so I didn't implement back testing",[],0
+898,gzk2baw,2021-05-26,t3_nlnz3e,algotrading,Who's your broker?  That level of automation may already be in their software.,[],0
+899,gzk2qnq,2021-05-26,t1_gziyxdt,algotrading,"Does collab do active runs?
+
+I am looking for a language that can o create a dashboard that wouod just tell me what stocks are setting up to run based on my strat....
+
+I would still actually do the buy and sell... But i jut want something to tell me ""hey look at these"".. Then I look and buy myself",[],0
+900,gzk41x5,2021-05-26,t1_gzigaro,algotrading,I like the ratings screeners they have.,[],0
+901,gzk7947,2021-05-26,t1_gzj7g6r,algotrading,thank you for the explanation,[],0
+902,gzk7ry4,2021-05-26,t3_nlgdml,algotrading,Thanks for sharing,[],1
+903,gzk888l,2021-05-26,t1_gzj109i,algotrading,TOS?,[],0
+904,gzk8o3r,2021-05-26,t3_nlif5f,algotrading,Coursera has a couple you can find pretty easily.,[],0
+906,gzk9xkx,2021-05-26,t1_gz7u24o,algotrading,Yeah I heard ducks are high in cholesterol,[],0
+907,gzk9y8j,2021-05-26,t3_nlrqcy,algotrading,Saving this to read after work. Thanks for this.,[],1
+908,gzkbv32,2021-05-26,t1_gzk2qnq,algotrading,it's python but as a google drive document so I'm sure that could be done. Why people downvoted me I have no idea lol,[],0
+909,gzkd7b8,2021-05-26,t1_gzk136k,algotrading,Whick broker do you use now?,[],0
+910,gzkdmsp,2021-05-26,t3_nlrqcy,algotrading,"Nice work. As the backtesting results seem to show, it works well until it doesn't! I have a feeling most people can't stomach a 95% drawdown.",[],1
+911,gzkdo5y,2021-05-26,t3_nlrqcy,algotrading,Max drawdown 92% 😂😂. Ahmm... not for the faint of heart I suppose!,[],1
+912,gzkdpk7,2021-05-26,t1_gzjtvjy,algotrading,"well support and resistance are patterns you're recognizing after the fact, and thus, it's hindsight bias; it's literally cited in the wiki link I sent about this topic lol",[],0
+914,gzkgr2l,2021-05-26,t3_nlnz3e,algotrading,"TOS can let you do that. With close to no coding experience. I do not have the link to the series of videos here, but google it up.
+
+""Thinkorswim algo trading almost""",[],0
+915,gzkknb7,2021-05-26,t3_nkthd9,algotrading,I've had that happen sometimes when the window times out. Keeping the page open in an active tab seems to prevent it from happening for me.,[],0
+916,gzklknu,2021-05-26,t1_gzjqcvj,algotrading,"No there isn’t, except for maybe super simple strategies . You pay for a service or you roll your own with Python. Even if you pay for a service you will get frustrated by the lack of features/flexibility. Best to learn some Python and take advantage of the large amount of trading/analysis code that is out there.",[],0
+917,gzklnly,2021-05-26,t1_gzkdo5y,algotrading,That's gonna give someone a heart attack,[],0
+918,gzklrp0,2021-05-26,t1_gzjuw6f,algotrading,"I love node. You can use my lib for TDA, lol.
+
+I also have a charts lib but I didn't make that public yet.",[],1
+919,gzkn9vq,2021-05-26,t3_nlslej,algotrading,"I wonder how many of those subscribers are bots from January’s w s b shenanigans, the sharpest rise coincides with that time period.",[],1
+920,gzknflz,2021-05-26,t1_gzk888l,algotrading,"I'm assuming he is talking about, Think Or Swim",[],0
+921,gzknp0i,2021-05-26,t1_gzkn9vq,algotrading,"oh good point, havent though about that.",[],1
+922,gzkolhm,2021-05-26,t1_gzkd7b8,algotrading,"I don't trade currencies anymore, they are harder to model and have less correlation and such. I use alpaca now.",[],0
+923,gzkorn2,2021-05-26,t3_nlif5f,algotrading,Try this: https://www.youtube.com/watch?v=4skdlQg2Oxo,[],0
+924,gzkppo9,2021-05-26,t3_nl35ye,algotrading,Try this: https://pypi.org/project/trendln/,[],0
+925,gzkpycv,2021-05-26,t3_nkthd9,algotrading,I face that issue all the time. But it works so not complaining.,[],0
+926,gzkr9o2,2021-05-26,t1_gzkdpk7,algotrading,"I’m aware that it’s after the fact, but it does not make it any more random. 
+Also this is besides the point, question that was asked is how to algorithmically find them and my suggestion that works for me is to use mean distance between points where price appears more often on a giving time interval. I’m not here to debate if price action is random or not.
+Hindsight bias have nothing to do with the question as no prediction is proposed here, I think you are missing the point",[],1
+927,gzkrkwe,2021-05-26,t3_nlnz3e,algotrading,"I write my own backtesting code using some open source api/frameworks in python. Your logic seems pretty easy to implement. If I am not mistaken, what you want is if ROC(Rate of change) % is less than or equals negative x% then you want to open a buy position on a next candle open and if ROC% is greater than or equals positive y% then you want to close the position. It’s very easy to implement. I can probably add it to my strategy and share you the results?",[],0
+928,gzkrr6t,2021-05-26,t1_gzkpycv,algotrading,"that's what I'm saying lol the tab is red (i.e. instead of gray which is running or yellow which means it stopped) and it says the executed time indicating it had stopped, but then I'm watching the folder continue saving new files and everything!",[],0
+929,gzks74v,2021-05-26,t1_gzkknb7,algotrading,"it's not even timing out, it ""stops running"" as indicated by the executed time, the color of the document (i.e yellow = not running; red = not running because of an error; gray = running), and the status shows ""connecting"" but it never ends up initializing. But it is running because new files continue being saved in my drive! lol it doesn't make sense",[],1
+930,gzkt17n,2021-05-26,t3_nlkln8,algotrading,"Check the time zone, the API provides UTC and the chart may differ according to your country. 
+Also check if the chart is showing ask price, bid or mid price.",[],1
+931,gzkt5hw,2021-05-26,t1_gzkdo5y,algotrading,Staging is part of the skill of the job,[],1
+932,gzktfbw,2021-05-26,t3_nlrqcy,algotrading,"If you don't mind me asking, how did you backtest for 1928-2015?",[],1
+933,gzkthwj,2021-05-26,t3_nlrqcy,algotrading,"Always wondered why everyone seems to want to use 3x leveraged ETF instead of CFD’s, the leverage is the same (or waaay higher if you want to) and you don’t have that stupid rebalancing",[],0
+934,gzktid3,2021-05-26,t1_gzkt17n,algotrading,"I see that your chart shows mid price as well as the API data. 
+But your time zone on the graph is UTC + 2 and the API provides UTC your issue must be there",[],0
+935,gzktubr,2021-05-26,t3_ni0d76,algotrading,One guy I follow on twitter made this video for beginner algo traders. Check it out: https://www.youtube.com/watch?v=4skdlQg2Oxo,[],1
+936,gzktug7,2021-05-26,t1_gzkthwj,algotrading,Can you even trade CFD in US?,[],0
+937,gzkv55g,2021-05-27,t1_gzjtvjy,algotrading,I see. Got to try that!,[],0
+938,gzkv5ud,2021-05-27,t3_nlslej,algotrading,It rose pretty fast after I bought in in January... I think I’m the good luck charm...,[],1
+939,gzkvg89,2021-05-27,t1_gzkppo9,algotrading,I think this is exactly what I was looking for. Thank you very much!,[],1
+940,gzkvumu,2021-05-27,t1_gzhn504,algotrading,webscrape is perfectly fine for serious and real-time if you do it properly.,[],1
+941,gzkw4rz,2021-05-27,t1_gzktug7,algotrading,"I think no, but here in switzerland (and so europe) yes",[],0
+942,gzkxdkq,2021-05-27,t3_nlslej,algotrading,"tbf people subscribe because r/algotrading sounds interesting but not necessarily because they actually code, or intend to participate in the community, or comment on post, etc.  
+
+
+Think about the average prehistoric caveman or banana-eating ape over at r/Daytrading or r/walstreetbets who probably saw this sub hit the front page once or it was a suggested subreddit or something and clicked the join button yet doesn't actively contribute to our community; but I'm sure a ton of bots are also present.",[],1
+943,gzkykhe,2021-05-27,t3_nlslej,algotrading,"Trading with algorithms has been around for quite some time. Things have changed because of it, and things will continue to change. I think more brokers are offering API's than 10-15 years ago.",[],1
+945,gzkzrdm,2021-05-27,t3_nlslej,algotrading,Maybe markets become slightly more efficient (or more wrong together) but i don’t think it will have a noticeable effect. Personally I doubt that the sharp increase is from people who either are doing or are learning to do algotrading.,[],1
+946,gzl04yh,2021-05-27,t1_gzkr9o2,algotrading,"what I meant was that support or resistance as you defined it depends on the outcome--only later prices reveal whether it was support or resistance; and unless you're identifying s/r correctly significantly more often than incorrectly, the s/r patterns you're seeing is due to hindsight bias.",[],0
+947,gzl13by,2021-05-27,t1_gzgn9g7,algotrading,"It's out  there, but you need to do some serious googling. Knowing robin hood,  they'll seriously rate limit you.",[],1
+948,gzl149r,2021-05-27,t1_gzl13by,algotrading,"Beep. Boop. I'm a robot.
+Here's a copy of 
+
+###[Robin Hood](https://snewd.com/ebooks/the-merry-adventures-of-robin-hood/)
+
+Was I a good bot? | [info](https://www.reddit.com/user/Reddit-Book-Bot/) | [More Books](https://old.reddit.com/user/Reddit-Book-Bot/comments/i15x1d/full_list_of_books_and_commands/)",[],0
+949,gzl1gps,2021-05-27,t3_nkzb1t,algotrading,couldn't this be just a difference in the number of samples? if there are 100 price data points and your classifier says 90 of the 100 data points are not good buys and 10 of them are and of those 10 5 of them are good buys... do you see where I'm going?,[],1
+950,gzl1r8d,2021-05-27,t1_gzl04yh,algotrading,"I understand what you mean, yes this method based on the past data. There is no forward indication whether or not it would stay the same or will be breached. This algorithm just tells you what it is as of now. I have never indicated otherwise",[],0
+951,gzl2dpb,2021-05-27,t1_gz9ozxd,algotrading,"backtesting is using historic data; testing my code in real-time with paper trading is the closest I can get to actually testing it but not actually using real money since you know, it's a test. But go ahead and backtest your bot in the '90s through early '00s I'm sure it'll give you insight into today's market lol",[],0
+952,gzl2eht,2021-05-27,t3_nlslej,algotrading,"It is simple, trading (and life more generally) is an information game. The more people, the best chance you have to exploit information. Now wether you will profit from the venue of new players depends on :
+
+1) your amout of skill 
+2) the average skill of new entrants.
+
+It is simplified ok, but the idea remains the same. Markets should behave more systematically (against erratically) (example if every one know that 100 is a resistance then it increase the power of that resistance)
+
+Most of retail algo are pretty dumb if you can somehow exploit the same indicator you can literally spoil the order flow. The only limitation is the available liquidity for your move. 
+
+Tl;Dr they should become more predictable",[],1
+953,gzl2fx2,2021-05-27,t1_gzkw4rz,algotrading,"Good to know. 
+
+I can create a similar position by buying ITM SPX options.",[],1
+954,gzl2kp2,2021-05-27,t1_gz7qkys,algotrading,don't know where I said anything about an exit strategy but you're not wrong so I'm going to downvote you lol,[],1
+955,gzl2xoh,2021-05-27,t1_gzbw3m2,algotrading,I pointed out that backtesting isn't a necessary step and many of the members in this community backtest,[],1
+956,gzl4s1f,2021-05-27,t1_gzl2dpb,algotrading,"considering I've been doing this profitably for over a decade, yeah I'll stick to what I know.",[],1
+957,gzl5uo5,2021-05-27,t3_nl6rf0,algotrading,"If you know how to write a DLL, you can bridge it to programs written in any language.  In fact, this is how Zorro Trader is bridged with MT4 and MT5 so that you can write trading scripts in C.",[],0
