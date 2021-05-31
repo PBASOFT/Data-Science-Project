@@ -92,7 +92,6 @@ def save_data(stockprices, stock_name ,stock_ticker):
 
         session.add(stock)
         session.commit()
-            
 
 
 
