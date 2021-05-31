@@ -59,7 +59,7 @@ prices_schema = PriceSchema(many = True)
 @app.route('/prices/<string:ticker>/<string:date>')
 def index(ticker, date):
 
-    all_prices = session.query(Price_Records.price, Price_Records.date).filter(Price_Records.stock_ticker == 'GME', Price_Records.date == date).all()
+    all_prices = session.query(Price_Records.price).filter(Price_Records.stock_ticker == 'GME', Price_Records.date == date).all()
     #session.query(Price_Records.price, Date.date).join(Price_Records, Date.id == Price_Records.date_id).filter(Price_Records.stock_ticker == ticker)
     #all_prices  = session.query(func.public.get_stock("GME")).all()
     print(all_prices)

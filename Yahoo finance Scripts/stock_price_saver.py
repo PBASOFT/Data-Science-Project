@@ -16,12 +16,12 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
 
-START_DATE = '2020-12-10'
+START_DATE = '2015-12-10'
 end_date_temp = datetime.now() - timedelta(days=1)
 END_DATE = end_date_temp.strftime('%Y-%m-%d')
 
@@ -41,8 +41,8 @@ class Price_Records(Base):
     __tablename__ = 'price_records'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
-    stock_ticker = Column(String(10), ForeignKey('stocks.ticker'))
-    date = Column(Date)
+    stock_ticker = Column(String(10), ForeignKey('stocks.ticker'), index=True)
+    date = Column(Date, index=True)
     
 
 
@@ -69,7 +69,7 @@ def get_data(ticker, name):
 def clean_data(stock_data, col):
     weekdays = pd.date_range(start=START_DATE, end= END_DATE)
     clean_data = stock_data[col].reindex(weekdays)
-    print(clean_data.fillna(method='ffill'))
+    #print(clean_data.fillna(method='ffill'))
     return clean_data.fillna(method='ffill')
 
 def save_data(stockprices, stock_name ,stock_ticker):
