@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -31,7 +31,7 @@ Base = declarative_base()
 
 
 class Stock(Base):
-    __tablename__ = 'stocks'
+    __tablename__ = 'stock'
     ticker = Column(String(10), primary_key=True)
     name = Column(String(50))
     children = relationship('Price_Records')
@@ -41,7 +41,7 @@ class Price_Records(Base):
     __tablename__ = 'price_record'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
-    stock_ticker = Column(String(10), ForeignKey('stock.ticker'),index = true)
+    stock_ticker = Column(String(10), ForeignKey('stock.ticker'),index = True)
     date = Column(Date)
     
 
