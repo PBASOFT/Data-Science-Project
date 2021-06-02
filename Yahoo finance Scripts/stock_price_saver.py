@@ -31,7 +31,7 @@ Base = declarative_base()
 
 
 class Stock(Base):
-    __tablename__ = 'stocks'
+    __tablename__ = 'stock'
     ticker = Column(String(10), primary_key=True)
     name = Column(String(50))
     children = relationship('Price_Records')
