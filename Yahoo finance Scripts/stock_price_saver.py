@@ -21,7 +21,7 @@ engine = create_engine('postgres://postgres:password@localhost:5432/examDB', ech
 Session = sessionmaker(bind=engine)
 session = Session()
 
-START_DATE = '2021-12-10'
+START_DATE = '2020-12-10'
 end_date_temp = datetime.now() - timedelta(days=1)
 END_DATE = end_date_temp.strftime('%Y-%m-%d')
 
@@ -37,11 +37,11 @@ class Stock(Base):
     children = relationship('Price_Records')
     
 
-class Price_Record(Base):
+class Price_Records(Base):
     __tablename__ = 'price_record'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
-    stock_ticker = Column(String(10), ForeignKey('stock.ticker'), index = true)
+    stock_ticker = Column(String(10), ForeignKey('stock.ticker'),index = true)
     date = Column(Date)
     
 
@@ -75,7 +75,7 @@ def clean_data(stock_data, col):
 def save_data(stockprices, stock_name ,stock_ticker):
     stock = Stock(ticker=stock_ticker, name=stock_name)
     for i in range(0, len(stockprices)):
-        record = Price_Record(price = stockprices[i], date=stockprices.index[i])
+        record = Price_Records(price = stockprices[i], date=stockprices.index[i])
         stock.children.append(record)
     session.add(stock)
     session.commit()
