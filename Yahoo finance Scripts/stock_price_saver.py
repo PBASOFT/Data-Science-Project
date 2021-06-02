@@ -6,7 +6,7 @@ from sqlalchemy import create_engine, engine, Column, Integer, String, ForeignKe
 from sqlalchemy.log import echo_property
 from sqlalchemy.orm import relationship, sessionmaker, relationships
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.sql.expression import column, true
+from sqlalchemy.sql.expression import column
 from pandas_datareader import data
 from pandas_datareader._utils import RemoteDataError
 import matplotlib.pyplot as plt
@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -31,18 +31,26 @@ Base = declarative_base()
 
 
 class Stock(Base):
-    __tablename__ = 'stock'
+    __tablename__ = 'stocks'
     ticker = Column(String(10), primary_key=True)
     name = Column(String(50))
     children = relationship('Price_Records')
     
 
 class Price_Records(Base):
+<<<<<<< Updated upstream
     __tablename__ = 'price_record'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
     stock_ticker = Column(String(10), ForeignKey('stock.ticker'),index = true)
     date = Column(Date)
+=======
+    __tablename__ = 'price_records'
+    id = Column(Integer, primary_key=True)
+    price = Column(Float)
+    stock_ticker = Column(String(10), ForeignKey('stocks.ticker'), index=True)
+    date = Column(Date, index=True)
+>>>>>>> Stashed changes
     
 
 
