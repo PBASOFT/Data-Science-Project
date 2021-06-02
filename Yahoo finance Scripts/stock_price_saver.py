@@ -37,7 +37,7 @@ class Stock(Base):
     children = relationship('Price_Records')
     
 
-class Price_Records(Base):
+class Price_Record(Base):
     __tablename__ = 'price_record'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
@@ -75,7 +75,7 @@ def clean_data(stock_data, col):
 def save_data(stockprices, stock_name ,stock_ticker):
     stock = Stock(ticker=stock_ticker, name=stock_name)
     for i in range(0, len(stockprices)):
-        record = Price_Records(price = stockprices[i], date=stockprices.index[i])
+        record = Price_Record(price = stockprices[i], date=stockprices.index[i])
         stock.children.append(record)
     session.add(stock)
     session.commit()
