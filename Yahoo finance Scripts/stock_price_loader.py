@@ -10,7 +10,7 @@ from flask_marshmallow import Marshmallow
 from sqlalchemy.sql.expression import join
 from datetime import datetime, timedelta
 
-engine = create_engine('postgresql://postgres:password@localhost:5432/examDB', echo=False)
+engine = create_engine('postgresql://postgres:postgres@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
