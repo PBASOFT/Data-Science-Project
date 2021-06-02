@@ -6,7 +6,7 @@ from sqlalchemy import create_engine, engine, Column, Integer, String, ForeignKe
 from sqlalchemy.log import echo_property
 from sqlalchemy.orm import relationship, sessionmaker, relationships
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.sql.expression import column
+from sqlalchemy.sql.expression import column, true
 from pandas_datareader import data
 from pandas_datareader._utils import RemoteDataError
 import matplotlib.pyplot as plt
@@ -16,12 +16,12 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
 
-START_DATE = '2015-12-10'
+START_DATE = '2021-12-10'
 end_date_temp = datetime.now() - timedelta(days=1)
 END_DATE = end_date_temp.strftime('%Y-%m-%d')
 
@@ -31,18 +31,18 @@ Base = declarative_base()
 
 
 class Stock(Base):
-    __tablename__ = 'stocks'
+    __tablename__ = 'stock'
     ticker = Column(String(10), primary_key=True)
     name = Column(String(50))
     children = relationship('Price_Records')
     
 
 class Price_Records(Base):
-    __tablename__ = 'price_records'
+    __tablename__ = 'price_record'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
-    stock_ticker = Column(String(10), ForeignKey('stocks.ticker'), index=True)
-    date = Column(Date, index=True)
+    stock_ticker = Column(String(10), ForeignKey('stock.ticker'), index = true)
+    date = Column(Date)
     
 
 
