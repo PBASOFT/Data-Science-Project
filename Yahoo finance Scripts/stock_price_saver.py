@@ -38,19 +38,11 @@ class Stock(Base):
     
 
 class Price_Records(Base):
-<<<<<<< Updated upstream
     __tablename__ = 'price_record'
     id = Column(Integer, primary_key=True)
     price = Column(Float)
     stock_ticker = Column(String(10), ForeignKey('stock.ticker'),index = true)
     date = Column(Date)
-=======
-    __tablename__ = 'price_records'
-    id = Column(Integer, primary_key=True)
-    price = Column(Float)
-    stock_ticker = Column(String(10), ForeignKey('stocks.ticker'), index=True)
-    date = Column(Date, index=True)
->>>>>>> Stashed changes
     
 
 
