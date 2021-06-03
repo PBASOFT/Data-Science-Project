@@ -52,9 +52,15 @@ Knowledge is money. We our selves will be the users of the results and hopefully
 
 ### Data Sources
 
+
+#### Yahoo Finance
+
+We get stock prices using Yajoo finance to price data for stocks, we are then cleaning the close price for null vales by giving them the value of the the day before, the date and close price of the stock is saved to a database.![image](https://user-images.githubusercontent.com/16530705/120631424-27e69d80-c468-11eb-8978-d0b1b457dbd6.png)
+
 #### Reddit.com
 
 We are collecting post and comments from the following subreddit forums:
+
   - r/wallstreetbets (10.1 million users)
   - r/Stocks (2.6 million users)
   - r/Investing (1.8 million users)
@@ -62,19 +68,21 @@ We are collecting post and comments from the following subreddit forums:
   - r/StockMarket (1.5 million users)
   - r/algotrading (1.2 million users)
   - r/Robinhood (742.000 users)
+ 
+
   
   *The subreddit "wallstreetbets" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
   The other subreddits consider seem to consider themselves to be of a "more serious" character than wallstreet bets. 
   All subreddits were chosen because they discuss investing and hold a great amount of users.*
 
-### yahoo finance
+We have collected the data over a period of 10 days and saved it in batches into csv files.
 
-* We get stock prices using Yajoo finance to price data for stocks, we are then cleaning the close price for null vales by giving them the value of the the day before, the date and close price of the stock is saved to a database.![image](https://user-images.githubusercontent.com/16530705/120631424-27e69d80-c468-11eb-8978-d0b1b457dbd6.png)
 
+
+
+ #### Our Reddit data sets can be found [here](/Data_Collecting/data_files/all_data_streams/)
   
- #### Our four sample data sets can be found [here](/DATA)
-  
- #### Our script for collecting the data can be found [here](/Reddit_mine.ipynb)
+ #### Our scripts for collecting the  Reddit data can be found [here](/Data_Collecting/)
 
 
 3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
