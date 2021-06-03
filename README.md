@@ -16,21 +16,23 @@ This is an extra ordinary example, but it makes us wonder if smaller scaled hype
 
 
 ### Focus of interest
-We will focus on **hype on social media** in comparinson with stock prices.
-
+Our focus is to detect **hype on social media** and to compare it to stock prices.
 As our social media source for this prototype we use the online forum reddit.com, as they are known to be a popular place to discuss investing. And equally important; reddit.com provides an extensive API to access data from their website.
 
-To measure hype wee need to identify which parameters to measure on. We therefore looked up the definition of hype and based on that, decided to measure hype by the quantity of mentions combined with the sentiment of their context.
+The correlation between hype and stock prices is interesting to investigate, not only because it might reveal a whole new dimension to stock trading evolving around social media. And posibly the overall availability of knowledge sharing made possible by the www and maybe even more by social media entering the scene. But also because that revealing a correlation also opens up for the possibility of predicting stock priceses.
 
-We will attempt to define hype from two parameters, based on th
 
-> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to make people excited about it and want to buy or try it."
+#### Detecting hype
+
+To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
+
+> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to **make people excited** about it **and want to buy** or try it."
 >
 > -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
 
+Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
 
 
-The correlation between hype and stock prices is interesting to investigate, not only because it might reveal a whole new dimension to stock trading evolving around social media. And posibly the overall availability of knowledge sharing made possible by the www and maybe even more by social media entering the scene. But also because that revealing a correlation also opens up for the possibility of predicting stock priceses.
 
 ### Hyphothesis
 
