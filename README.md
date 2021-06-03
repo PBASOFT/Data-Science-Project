@@ -62,7 +62,8 @@ We are collecting post and comments from the following subreddit forums:
   - r/Robinhood (742.000 users)
   
   *The subreddit "wallstreetbets" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
-  The subreddits "Stocks", "Investing" and "Robinhood" are considered more serious than wallstreet bets. They hold a great amount of users and are as interesting as their main purpuse is discussions and reccomendations about stock trading.*
+  The other subreddits consider seem to consider themselves to be of a "more serious" character than wallstreet bets. 
+  All subreddits were chosen because they discuss investing and hold a great amount of users.*
   
   
  #### Our four sample data sets can be found [here](/DATA)
