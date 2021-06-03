@@ -66,7 +66,10 @@ We are collecting post and comments from the following subreddit forums:
   *The subreddit "wallstreetbets" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
   The other subreddits consider seem to consider themselves to be of a "more serious" character than wallstreet bets. 
   All subreddits were chosen because they discuss investing and hold a great amount of users.*
-  
+
+### yahoo finance
+*We get stock prices using Yajoo finance to price data for stocks, we are then cleaning the close price for null vales by giving them the value of the the day before, the date and close price of the stock is saved to a database.![image](https://user-images.githubusercontent.com/16530705/120631424-27e69d80-c468-11eb-8978-d0b1b457dbd6.png)
+
   
  #### Our four sample data sets can be found [here](/DATA)
   
