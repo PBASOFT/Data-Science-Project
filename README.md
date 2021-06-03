@@ -16,7 +16,7 @@ This is an extra ordinary example, but it makes us wonder if smaller scaled hype
 
 
 ### Focus of interest
-Our focus is to detect **hype on social media** and to compare it to stock prices.
+Our focus is to detect **hype on social media** and to **compare it to stock prices**.
 
 As our social media source for this prototype we use the online forum reddit.com, as they are known to be a popular place to discuss investing. And equally important; reddit.com provides an extensive API to access data from their website.
 
