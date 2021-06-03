@@ -106,8 +106,10 @@ WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
   - Is certainly about the GME stock.
 - *"... Comparing it to Apple is not really a like for like comparison. If you don't understand crypto, as an investor at this point-- that's on you."*
   - Is not about Apple. Maybe it is valueable to look analyse the entities or context sorrounding the collected named entity.
-- Sentences like "den skal under 180-200" must me understood at "don't by" recommendation/negative. And "den skal op på 300 før jeg sælger" must be interpreted as a positive comment.
+- *Sentences like "den skal under 180-200" must me understood at "don't by" recommendation/negative. And "den skal op på 300 før jeg sælger" must be interpreted as a positive comment.
   - especially hard to cats, as comments like that come without a contex. Or the context must be retrieved from parent posts or parent comments.
+- * Going red or going green also has a positive/negative measure
+
 
 **Future improvements:**
 - Maybe correlation gets better over time, when comparing several weeks or even months, to discover trends rather than each peak on the graph.
