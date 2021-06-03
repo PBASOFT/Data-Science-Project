@@ -84,6 +84,17 @@ We have collected the data over a period of 10 days and saved it in batches into
  #### Our scripts for collecting the  Reddit data can be found [here](/Data_Collecting/)
 
 
+### Data Processing
+
+To attempt to reject our Null Hypotheses we first need to measure hype our reddit data. 
+The first leg of identifying stock hype is knowing the quantity of stock mentions. We therefore start by identifying stock mentions.
+
+To do that we use Named Entity Recognition. We apply it to all comments and submissions by using a python library called spaCy, that has a pretrained pipeline that we can apply.
+
+
+
+
+
 3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
       ****
       
