@@ -52,6 +52,8 @@ Knowledge is money. We our selves will be the users of the results and hopefully
 
 ### Data Sources
 
+#### Reddit.com
+
 We are collecting post and comments from the following subreddit forums:
   - r/wallstreetbets (10.1 million users)
   - r/Stocks (2.6 million users)
