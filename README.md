@@ -52,10 +52,13 @@ Knowledge is money. We our selves will be the users of the results and hopefully
 
 ### Data Sources
 
-We are collecting post and comments from the following three subreddit forums:
+We are collecting post and comments from the following subreddit forums:
   - r/wallstreetbets (10.1 million users)
   - r/Stocks (2.6 million users)
   - r/Investing (1.8 million users)
+  - r/pennystocks (1.6 million users)
+  - r/StockMarket (1.5 million users)
+  - r/algotrading (1.2 million users)
   - r/Robinhood (742.000 users)
   
   *The subreddit "wallstreetbets" became world famous following the gamestop surge initiated by its users. With the fame it grew tremendously and counts more than 10 million users as of today. The jargon is juvenile and rebellious and it has become infamous for encouraging aggressive trading strategies.
