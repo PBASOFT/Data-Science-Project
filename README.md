@@ -23,18 +23,7 @@ As our social media source for this prototype we use the online forum reddit.com
 The correlation between hype and stock prices is interesting to investigate, not only because it might reveal a whole new dimension to stock trading evolving around social media. And posibly the overall availability of knowledge sharing made possible by the www and maybe even more by social media entering the scene. But also because that revealing a correlation also opens up for the possibility of predicting stock priceses.
 
 
-#### Detecting hype
 
-To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
-
-> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to **make people excited** about it **and want to buy** or try it."
->
-> -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
-
-Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
-
-
- 
 ### Hyphothesis
 
 #### Null Hypotheses
@@ -47,13 +36,12 @@ There is a correlation between stock prices and hype on social media.
 We expect to see some correlation between at least some stocks going up and how much they are mentioned/discussed on social media. 
 
 ### Who will be the user of the results
-Knowledge is money. We our selves will be the users of the results and hopefully we'll discover something new and exiting. And we will then be on the path to becoming the richest people on earth.
+Knowledge is money. We our selves will be the users of the results and hopefully we'll discover something new and exiting. Because the we will then be on the path to becoming very rich.
 
 
 ## Stage 2: Business Data Storytelling
 
 ### Data Sources
-
 
 #### Yahoo Finance
 
@@ -80,21 +68,34 @@ We are collecting post and comments from the following subreddit forums:
 We have collected the data over a period of 10 days and saved it in batches into csv files.
 
 
-
-
- #### Our Reddit data sets can be found [here](/Data_Collecting/data_files/all_data_streams/)
+#### Our Reddit data sets can be found [here](/Data_Collecting/data_files/all_data_streams/)
   
- #### Our scripts for collecting the  Reddit data can be found [here](/Data_Collecting/)
+#### Our scripts for collecting the  Reddit data can be found [here](/Data_Collecting/)
+
+
+
+### Detecting hype
+
+Before we process any data we have to be clear on what exactly what we are going to measure to detect "hype".
+
+
+To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
+
+> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to **make people excited** about it **and want to buy** or try it."
+>
+> -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
+
+Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
+
 
 
 ### Data Processing
-
-To attempt to reject our Null Hypotheses we first need to measure hype our reddit data. 
+ 
+To attempt to reject our Null Hypotheses we first need to measure hype in our reddit data. 
 The first leg of identifying stock hype is knowing the quantity of stock mentions. We therefore start by identifying stock mentions.
 
+
 To do that we use Named Entity Recognition. We apply it to all comments and submissions by using a python library called spaCy, that has a pretrained pipeline that we can apply.
-
-
 
 
 
