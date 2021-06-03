@@ -33,7 +33,7 @@ To identify hype we first have to agree on the definition of hype. We therefore 
 Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
 
 
-
+ 
 ### Hyphothesis
 
 #### Null Hypotheses
