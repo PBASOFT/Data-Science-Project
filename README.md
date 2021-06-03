@@ -76,8 +76,7 @@ We have collected the data over a period of 10 days and saved it in batches into
 
 ### Detecting hype
 
-Before we process any data we have to be clear on what exactly what we are going to measure to detect "hype".
-
+Before we process any data it is necessary to be clear on what exactly we will be measuring to detect "hype".
 
 To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
 
@@ -88,15 +87,21 @@ To identify hype we first have to agree on the definition of hype. We therefore 
 Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
 
 
-
 ### Data Processing
  
-To attempt to reject our Null Hypotheses we first need to measure hype in our reddit data. 
-The first leg of identifying stock hype is knowing the quantity of stock mentions. We therefore start by identifying stock mentions.
+ 
+To detect hyped stocks we will use Natural Language Processing techniques to interpret our data, which consists of written "human language".  
 
 
 To do that we use Named Entity Recognition. We apply it to all comments and submissions by using a python library called spaCy, that has a pretrained pipeline that we can apply.
 
+---------------
+identifying stocks
+
+Identifying and analysing stock mentions, written in comments on Reddit, ne-cessitates interpreting of human language.  In practice that can be done usingnatural language processing (NLP).NLP is an umbrella term concerning the practice of making computers un-derstand natural human language.  There are a lot of language concepts thatare making it difficult for computers to understand human language.  Thingslike irony, tone and slang can alter the meaning of a text
+
+
+--------------
 
 
 3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
@@ -106,6 +111,11 @@ To do that we use Named Entity Recognition. We apply it to all comments and subm
       -  bobles with orgs, visualizing most freg mentioned/most talked about orgs.
       - taking the most talked about and hold them up againtst stock prices
       ****
+      
+      
+      
+      
+      
       
 a.    decide on data processing parameters and methods
 
