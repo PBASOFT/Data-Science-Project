@@ -91,7 +91,7 @@ Based on that, we decided to measure hype by the quantity of mentions combined w
  
  
 To detect hyped stocks we will use Natural Language Processing techniques to interpret our data, as it consists of written "human language".  
->"NLP is an umbrella term concerning the practice of making computers un-derstand natural human language"
+>"NLP is an umbrella term concerning the practice of making computers understand natural human language"
 >
 > -- <cite>[source: Malene Hansen, Sebastian Harvej; Identifying Hyped Stocks using Natural Language Processing](https://github.com/PBASOFT/Exploration-and-Presentation/blob/main/3.%20Exam%20Paper/Identifying_hype.pdf)</cite>
 
@@ -109,14 +109,13 @@ Identifying and analysing stock mentions, written in comments on Reddit, ne-cess
 --------------
 
 
-3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
-      ****
-      
-      - Apple vs AAPL, GME vs GameStop
-      -  bobles with orgs, visualizing most freg mentioned/most talked about orgs.
-      - taking the most talked about and hold them up againtst stock prices
-      ****
-      
+### Data Story
+
+We made a visual data story in tableau to show some of our observations in the data. The data story can be downloaded as a powerpoint [here](/Data_story.pptx/) or a tableau work book [here](/Datastory.twbx/)
+
+![image](images/datastory_1.png)
+
+
       
       
       
