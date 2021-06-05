@@ -91,12 +91,6 @@ Based on that, we decided to measure hype by the quantity of mentions combined w
  
  
 To detect hyped stocks we will use Natural Language Processing techniques to interpret our data, as it consists of written "human language".  
->"NLP is an umbrella term concerning the practice of making computers understand natural human language"
->
-> -- <cite>[source: Malene Hansen, Sebastian Harvej; Identifying Hyped Stocks using Natural Language Processing](https://github.com/PBASOFT/Exploration-and-Presentation/blob/main/3.%20Exam%20Paper/Identifying_hype.pdf)</cite>
-
-
-
 
 To do that we use Named Entity Recognition. We apply it to all comments and submissions by using a python library called spaCy, that has a pretrained pipeline that we can apply.
 
