@@ -153,3 +153,17 @@ WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
 
 **Future improvements:**
 - Maybe correlation gets better over time, when comparing several weeks or even months, to discover trends rather than each peak on the graph.
+
+
+## Stage 3: Mashine learning.
+# Select relevant ML methods and development tools:
+we are using python and are training to mashine learning models LinearSVC and knn to see which is better.
+ 
+# Create the AI module:
+Meaningful: to detect the sentiment of reddit text. We use a dataset created with data from one of the supreddits we also monitor in out project. This is very important as the lingo on reddit is different from the one in other types of text thing like ”we are retarts” and “we are apes”  are a good example on how important the context is as those sentences would be considered negative in most situration but in this context it is possitve.
+
+We use tfidf for vectorization it works by give every word a score based on how often it is used in that sentence and how often it is used in all the texts
+
+
+We have tried to predict the sentiment both KNN and liniearSVC to se with model gave the best ressoults as show in the tables below.
+
