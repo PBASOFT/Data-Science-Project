@@ -16,15 +16,15 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
 
-START_DATE = '2020-5-10'
+START_DATE = '2021-5-10'
 end_date_temp = datetime.now() - timedelta(days=1)
-END_DATE = end_date_temp.strftime('%Y-%m-%d')
-#END_DATE = '2020-5-30'
+#END_DATE = end_date_temp.strftime('%Y-%m-%d')
+END_DATE = '2021-5-30'
 
 Base = declarative_base()
 
@@ -61,8 +61,9 @@ def get_data(ticker, name):
     try:
         stock_data = data.DataReader(ticker,'yahoo', START_DATE, END_DATE)
         stock = clean_data(stock_data, 'Adj Close')
-        save_data(stock, name, ticker)
-        #saveToCSV(stock, ticker)
+        print(stock)
+        #save_data(stock, name, ticker)
+        saveToCSV(stock, ticker)
         
     except KeyError:
         print('Key Error in {t}'.format(t=ticker))
