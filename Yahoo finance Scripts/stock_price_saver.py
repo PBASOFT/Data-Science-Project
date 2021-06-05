@@ -16,14 +16,15 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
 
-START_DATE = '2020-12-10'
+START_DATE = '2020-5-10'
 end_date_temp = datetime.now() - timedelta(days=1)
-END_DATE = end_date_temp.strftime('%Y-%m-%d')
+#END_DATE = end_date_temp.strftime('%Y-%m-%d')
+END_DATE = '2020-5-30'
 
 Base = declarative_base()
 
@@ -50,15 +51,18 @@ class Price_Records(Base):
 Base.metadata.drop_all(engine)
 Base.metadata.create_all(engine)
 
-Names = ['AMC Entertainment Holdings Inc','Gamestop','Palantir Technologies Inc','Apple','Virgin Galactic','Amazon.com','Ford Motor Company','Advanced Micro Devices','Tesla','Senvest Capital Inc','Athabasca Oil Corp','Nokia','ZPC Otmuchow SA','ITM Power plc','C3Ai Inc','Coinbase Global Inc','VIX','BlackBerry','Roblox Corp','Cypherpunk Holdings Inc']
-Stocks = ['AMC','GME','PLTR','AAPL','SPCE','AMZN','FORD','AMD','TSLA','SEC','ATH','NOK','OTM','ITM','AI','COIN','VIX','BB','RBLX','HODL']
+Names = ['AMC Entertainment Holdings Inc','Gamestop','Palantir Technologies Inc','Apple','Virgin Galactic','Amazon.com','Ford Motor Company','Advanced Micro Devices','Tesla','Athabasca Oil Corp','Nokia','ITM Power plc','C3Ai Inc','Coinbase Global Inc','BlackBerry','Roblox Corp']
+Stocks = ['AMC','GME','PLTR','AAPL','SPCE','AMZN','FORD','AMD','TSLA','ATH','NOK','ITM','AI','COIN','BB','RBLX']
 
+def saveToCSV(stockprices, stock_ticker):
+    stockprices.to_csv("data/" + stock_ticker + ".csv")
 
 def get_data(ticker, name):
     try:
         stock_data = data.DataReader(ticker,'yahoo', START_DATE, END_DATE)
         stock = clean_data(stock_data, 'Adj Close')
-        save_data(stock, name, ticker)
+        #save_data(stock, name, ticker)
+        saveToCSV(stock, ticker)
         
     except KeyError:
         print('Key Error in {t}'.format(t=ticker))
@@ -83,5 +87,8 @@ def save_data(stockprices, stock_name ,stock_ticker):
 for i in range(0, len(Stocks)):
 
     get_data(Stocks[i], Names[i])
+
+
+
 
 
