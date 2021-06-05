@@ -166,4 +166,8 @@ We use tfidf for vectorization it works by give every word a score based on how 
 
 
 We have tried to predict the sentiment both KNN and liniearSVC to se with model gave the best ressoults as show in the tables below.
+### knn
+![image](images/knn.png)
 
+### SVC
+![image](images/svc.png)
