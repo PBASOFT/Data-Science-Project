@@ -50,8 +50,8 @@ class Price_Records(Base):
 Base.metadata.drop_all(engine)
 Base.metadata.create_all(engine)
 
-Names = ['AMC', 'PLTR', 'FORD', 'RIDE', 'SPCE', 'AI', 'TSLA','GameStop Corp.', 'Apple Inc.', 'General Electric Company', 'Nokia Corporation']
-Stocks = ['AMC', 'PLTR', 'FORD', 'RIDE', 'SPCE', 'AI', 'TSLA', 'GME', 'AAPL', 'GE', 'NOK']
+Names = ['AMC Entertainment Holdings Inc','Gamestop','Palantir Technologies Inc','Apple','Virgin Galactic','Amazon.com','Ford Motor Company','Advanced Micro Devices','Tesla','Senvest Capital Inc','Athabasca Oil Corp','Nokia','ZPC Otmuchow SA','ITM Power plc','C3Ai Inc','Coinbase Global Inc','VIX','BlackBerry','Roblox Corp','Cypherpunk Holdings Inc']
+Stocks = ['AMC','GME','PLTR','AAPL','SPCE','AMZN','FORD','AMD','TSLA','SEC','ATH','NOK','OTM','ITM','AI','COIN','VIX','BB','RBLX','HODL']
 
 
 def get_data(ticker, name):
