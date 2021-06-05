@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 from numpy import savetxt
 
 
-engine = create_engine('postgres://postgres:password@localhost:5432/examDB', echo=False)
+engine = create_engine('postgres://postgres:postgres@localhost:5432/examDB', echo=False)
 
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -62,8 +62,8 @@ def get_data(ticker, name):
         stock_data = data.DataReader(ticker,'yahoo', START_DATE, END_DATE)
         stock = clean_data(stock_data, 'Adj Close')
         print(stock)
-        #save_data(stock, name, ticker)
-        saveToCSV(stock, ticker)
+        save_data(stock, name, ticker)
+        #saveToCSV(stock, ticker)
         
     except KeyError:
         print('Key Error in {t}'.format(t=ticker))
@@ -74,7 +74,6 @@ def get_data(ticker, name):
 def clean_data(stock_data, col):
     weekdays = pd.date_range(start=START_DATE, end= END_DATE)
     clean_data = stock_data[col].reindex(weekdays)
-    #print(clean_data.fillna(method='ffill'))
     return clean_data.fillna(method='ffill')
 
 def save_data(stockprices, stock_name ,stock_ticker):
