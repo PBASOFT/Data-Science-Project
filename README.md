@@ -129,7 +129,7 @@ a.    decide on data processing parameters and methods
 
 
 
-
+## Stage 3
 
 #### Sentiment analyses
 - Determine if contributions are positive, neutral or negative. // Buy, hold or sell?
