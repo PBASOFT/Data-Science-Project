@@ -175,7 +175,7 @@ We have tried to predict the sentiment both KNN and liniearSVC to se with model 
 ## Stage 4: Immersive Analytics and Visualisation
 If we wanted to visualize the date, the number of mentions and the number of positive mentions in a normal 2D graph it would look something like the image below.
 
-![image](images/diagram regnet.png)
+![image](images/diagramTegnet.png)
 
 It is very hard to read if where the datapoints are in the graph. There is somethings that can be done to illustrate it better without changing the structure of the diagram like changing the color / visibility depending on the Z value.
 
