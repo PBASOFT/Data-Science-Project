@@ -99,7 +99,7 @@ The 'post_id' label is renamed to 'submission_id' to prevent confusion later in 
 To detect hyped stocks we use Named Entity Recognition (NER), a Natural Language Processing technique, to interpret our data.
 We apply it to every comment and submission in our data set by using a python library called spaCy, which has a pretrained pipeline for english "web text" that we can apply.
 
-We filter the entities found for the ones labeled "ORGS". A lot of stocks are found, but also a lot of excess organizations, web adresses and even the rocket emoji. We filter them out by creating a list ("BLACKLIST") with the organizations we want to skip.
+We filter the entities found for the ones labeled "ORG". A lot of stocks are found, but also a lot of excess organizations, web adresses and even the rocket emoji. We filter them out by creating a list ("BLACKLIST") with the organizations we want to skip.
 
 #### Our notbook where we identify stock mentions with NER can be found here [here](/Data_Processing/NER.ipynb)
 
