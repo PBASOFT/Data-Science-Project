@@ -105,27 +105,15 @@ Identifying and analysing stock mentions, written in comments on Reddit, ne-cess
 
 ### Data Story
 
-We made a visual data story in tableau to show some of our observations in the data. The data story can be downloaded as a powerpoint [here](/Data_story.pptx/) or a tableau work book [here](/Datastory.twbx/)
-
-![image](images/datastory_1.png)
-
-
-      
-      
-      
+We made a visual data story in tableau to show some of our observations in the data. The data story can be downloaded as a powerpoint [here](/Data_story.pptx/) or a tableau work book [here](/stage_2_story.pdf)
+  
+          
       
       
 a.    decide on data processing parameters and methods
 
-b.   choose data visualisation techniques
 
-c.    create visual representations
 
-d.   create dashboards
-
-e.    create a first prototype of data story
-
-2.    Export your solution in a file and upload it to your git repository.
 
 
 #### Sentiment analyses
