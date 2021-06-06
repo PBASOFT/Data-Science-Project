@@ -78,14 +78,41 @@ We have collected the data over a period of 10 days and saved it in batches into
 ### Data Processing
  
  
-To detect hyped stocks we will use Natural Language Processing techniques to interpret our data, as it consists of written "human language".  
+We collect the following data from reddit:
 
-To do that we use Named Entity Recognition. We apply it to all comments and submissions by using a python library called spaCy, that has a pretrained pipeline that we can apply.
+![image](images/raw_reddit_data.png)
 
----------------
-identifying stocks
+**Initial cleaning**:
+The first two characters in the fullname values can be used to identify comments (t1) and submissions (t3). We rename the label to 'type' and save the first two characters of the values as values.
 
-Identifying and analysing stock mentions, written in comments on Reddit, ne-cessitates interpreting of human language.  In practice that can be done usingnatural language processing (NLP).NLP is an umbrella term concerning the practice of making computers un-derstand natural human language.  There are a lot of language concepts thatare making it difficult for computers to understand human language.  Thingslike irony, tone and slang can alter the meaning of a text
+The columns labeled 'title' and 'Unnamed: 0.1' are dropped, as we aren't going to use them.
+
+The 'post_id' label is renamed to 'submission_id' to prevent confusion later in the process, as a forum post on reddit is called a submission.
+ 
+ 
+![image](images/cleaned_reddit_data.png)
+ 
+
+#### Identifying stocks
+ 
+To detect hyped stocks we use Named Entity Recognition (NER), a Natural Language Processing technique, to interpret our data.
+We apply it to every comment and submission in our data set by using a python library called spaCy, which has a pretrained pipeline for english "web text" that we can apply.
+
+We filter the entities found for the ones labeled "ORGS". A lot of stocks are found, but also a lot of excess organizations, web adresses and even the rocket emoji. We filter them out by creating a list ("BLACKLIST") with the organizations we want to skip.
+
+#### Our notbook where we identify stock mentions with NER can be found here [here](/Data_Processing/NER.ipynb)
+
+Organizations are identified both with their ticker and their company name. We therefore concat those, that are representet in the top most frequently mentioned, to get an overview of which stocks get mentioned most and therefore provide us with the most data for further work on our prototype.
+
+
+
+![image](images/spacy_orgs.png)
+
+
+We pick to 20 most mentioned stocks for further processing/analysing.
+
+
+#### Our notbook where we clean Reddit data and add stock mentions can be found [here](/Data_Processing/Clean.ipynb)
 
 
 --------------
