@@ -74,18 +74,6 @@ We have collected the data over a period of 10 days and saved it in batches into
 
 
 
-### Detecting hype
-
-Before we process any data it is necessary to be clear on what exactly we will be measuring to detect "hype".
-
-To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
-
-> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to **make people excited** about it **and want to buy** or try it."
->
-> -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
-
-Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
-
 
 ### Data Processing
  
@@ -170,4 +158,17 @@ It is very hard to read if where the datapoints are in the graph. There is somet
 An even better way could be to use some 3D graph to visualize the data on the screen.
 
 But the best way would be the build a VR. diagram where the “reader” could expertise the data in a VR environment this would give a good understanding of the distances between the data points.
+
+-----
+### Detecting hype
+
+Before we process any data it is necessary to be clear on what exactly we will be measuring to detect "hype".
+
+To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
+
+> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to **make people excited** about it **and want to buy** or try it."
+>
+> -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
+
+Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
 
