@@ -78,11 +78,12 @@ We have collected the data over a period of 10 days and saved it in batches into
 ### Data Processing
  
  
-We collect the following data from reddit:
+We have collected the following data from reddit:
 
 ![image](images/raw_reddit_data.png)
 
-**Initial cleaning**:
+#### Cleaning the reddit data:
+
 The first two characters in the fullname values can be used to identify comments (t1) and submissions (t3). We rename the label to 'type' and save the first two characters of the values as values.
 
 The columns labeled 'title' and 'Unnamed: 0.1' are dropped, as we aren't going to use them.
