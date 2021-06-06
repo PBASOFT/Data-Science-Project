@@ -148,8 +148,10 @@ below you can see an illustration of our pipeline for training the mashine learn
 ![image](images/pipeline_flow.png)
 
 # Create the AI module:
-to detect the sentiment of reddit text. We use a dataset created with data from one of the supreddits we also monitor in out project. This is very important as the lingo on reddit is different from the one in other types of text thing like ”we are retarts” and “we are apes”  are a good example on how important the context is as those sentences would be considered negative in most situration but in this context it is possitve.
+to detect the sentiment of reddit text. We use a dataset created with data from one of the supreddits we also monitor in out project. This is very important as the lingo on reddit is different from the one in other types of text thing like ”we are retarts” and “we are apes”  are a good example on how important the context is as those sentences would be considered negative in most situration but in this context it is possitve. we have made word cloud to show the most used words on wallstreet bets to show the.
+
 ![image](images/wordcloud.png)
+
 We use tfidf for vectorization it works by give every word a score based on how often it is used in that sentence and how often it is used in all the texts
 
 
