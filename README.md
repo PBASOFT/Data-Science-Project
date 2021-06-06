@@ -188,7 +188,7 @@ It is very hard to read if where the datapoints are in the graph. There is somet
 
 An even better way could be to use some 3D graph to visualize the data on the screen.
 
-But the best way would be the build a VR. diagram where the “reader” could expertise the data in a VR environment this would give a good understanding of the distances between the data points.
+But the best way would be the build a VR. diagram where the “reader” could expertise the data in a VR environment this would give a good understanding of the distances between the data points. or standing in betweek stocks, repressented as boobles, beeing able to observe the mentions in real time, as lemmings flokking to popularstocks, and maybe even lifting them.
 
 -----
 ### Detecting hype
