@@ -134,9 +134,6 @@ We made a visual data story in tableau to show some of our observations in the d
           
 
 
-## Stage 3
-
-Predict sentiment to . . .
 
 
 
