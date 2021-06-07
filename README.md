@@ -73,14 +73,14 @@ We have collected the data over a period of 10 days and saved it in batches into
 #### Our scripts for collecting the  Reddit data can be found [here](/Data_Collecting/)
 
 
-
-
 ### Data Processing
  
  
 We have collected the following data from reddit:
 
 ![image](images/raw_reddit_data.png)
+
+
 
 #### Cleaning the reddit data:
 
@@ -101,7 +101,9 @@ We apply it to every comment and submission in our data set by using a python li
 
 We filter the entities found for the ones labeled "ORG". A lot of stocks are found, but also a lot of excess organizations, web adresses and even the rocket emoji. We filter them out by creating a list ("BLACKLIST") with the organizations we want to skip.
 
-#### Our notbook where we identify stock mentions with NER can be found here [here](/Data_Processing/NER.ipynb)
+
+#### Our notebook where we identify stock mentions with NER can be found here [here](/Data_Processing/NER.ipynb)
+
 
 Organizations are identified both with their ticker and their company name. We therefore concat those, that are representet in the top most frequently mentioned, to get an overview of which stocks get mentioned most and therefore provide us with the most data for further work on our prototype.
 
@@ -116,47 +118,26 @@ We pick to 20 most mentioned stocks for further processing/analysing.
 #### Our notbook where we clean Reddit data and add stock mentions can be found [here](/Data_Processing/Clean.ipynb)
 
 
---------------
+### Exploring data
+
+With the stock mentions identified we can take a look at how they compare to the stock prices. We compare mentions to prices on each subreddit, as well as the subreddits that are NOT wallstreetbets, as we have experienced that some times mentions from wallstreetbets are very far from comparable to the rest of the subreddits. For this purpose though, we only relate to the total amount of mentions across all subreddits. These are the four with the highest correlation coefficient:
+
+![image](images/corr.png)
+
+
+#### Our notbook where we explore this data can be found [here](/Data_Processing/Transform.ipynb)
 
 
 ### Data Story
 
-We made a visual data story in tableau to show some of our observations in the data. The data story can be downloaded as a powerpoint [here](/Data_story.pptx/) or a tableau work book [here](/stage_2_story.pdf)
-  
+We made a visual data story in tableau to show some of our observations in the data. The data story can be downloaded as a pdf [here](/stage_2_story.pdf)
           
-      
-      
-a.    decide on data processing parameters and methods
-
 
 
 ## Stage 3
 
-#### Sentiment analyses
-- Determine if contributions are positive, neutral or negative. // Buy, hold or sell?
+Predict sentiment to . . .
 
-
-
-#### Notes for further investigation
-
-**Understanding the data:**
-
-WSB slang: https://www.investopedia.com/wallstreetbets-slang-and-memes-5111311
-
-**Challenges:**
-- *"Only 100,000% away. Just need 10x the low point to the high point of GME squeeze to make it happen.*
-   - Is not about the GME stock. It is "GME" beeing used to describe some other.
-- *"GME 🚀🚀🚀 bought more this morning thanks kenny G"*
-  - Is certainly about the GME stock.
-- *"... Comparing it to Apple is not really a like for like comparison. If you don't understand crypto, as an investor at this point-- that's on you."*
-  - Is not about Apple. Maybe it is valueable to look analyse the entities or context sorrounding the collected named entity.
-- *Sentences like "den skal under 180-200" must me understood at "don't by" recommendation/negative. And "den skal op på 300 før jeg sælger" must be interpreted as a positive comment.
-  - especially hard to cats, as comments like that come without a contex. Or the context must be retrieved from parent posts or parent comments.
-- * Going red or going green also has a positive/negative measure
-
-
-**Future improvements:**
-- Maybe correlation gets better over time, when comparing several weeks or even months, to discover trends rather than each peak on the graph.
 
 
 ## Stage 3: Mashine learning.
@@ -167,7 +148,9 @@ below you can see an illustration of our pipeline for training the mashine learn
 ![image](images/pipeline_flow.png)
 
 # Create the AI module:
-Meaningful: to detect the sentiment of reddit text. We use a dataset created with data from one of the supreddits we also monitor in out project. This is very important as the lingo on reddit is different from the one in other types of text thing like ”we are retarts” and “we are apes”  are a good example on how important the context is as those sentences would be considered negative in most situration but in this context it is possitve.
+to detect the sentiment of reddit text. We use a dataset created with data from one of the supreddits we also monitor in out project. This is very important as the lingo on reddit is different from the one in other types of text thing like ”we are retarts” and “we are apes”  are a good example on how important the context is as those sentences would be considered negative in most situration but in this context it is possitve. we have made word cloud to show the most used words on wallstreet bets to show the.
+
+![image](images/wordcloud.png)
 
 We use tfidf for vectorization it works by give every word a score based on how often it is used in that sentence and how often it is used in all the texts
 
@@ -189,17 +172,4 @@ It is very hard to read if where the datapoints are in the graph. There is somet
 An even better way could be to use some 3D graph to visualize the data on the screen.
 
 But the best way would be the build a VR. diagram where the “reader” could expertise the data in a VR environment this would give a good understanding of the distances between the data points. or standing in betweek stocks, repressented as boobles, beeing able to observe the mentions in real time, as lemmings flokking to popularstocks, and maybe even lifting them.
-
------
-### Detecting hype
-
-Before we process any data it is necessary to be clear on what exactly we will be measuring to detect "hype".
-
-To identify hype we first have to agree on the definition of hype. We therefore looked up the meaning of hype on Cambridge Dictionary and concluded the following meaning of hype:
-
-> "Hype: to **advertise** or praise something **a lot** in newspapers, on television, online, etc. in order to **make people excited** about it **and want to buy** or try it."
->
-> -- <cite>[source](https://dictionary.cambridge.org/dictionary/english/hype)</cite>
-
-Based on that, we decided to measure hype by the quantity of mentions combined with the sentiment of their context.
 
